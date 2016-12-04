@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tr.k12.evrim.evrimnews.MainActivity">
+    <item
+        android:orderInCategory="100"
+        android:title="Ayarlar"
+        app:showAsAction="never"
+        android:id="@+id/settings_button"
+        />
+
+    <item
+        android:title="Hakkında"
+        />
+
+
+    <item
+        android:title="Geri bildirim"
+        />
+</menu>
