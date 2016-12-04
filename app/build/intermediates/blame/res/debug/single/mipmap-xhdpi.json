@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/C:\\Users\\ardacebi\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/C:\\Users\\ardacebi\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/ardacebi/AndroidStudioProjects/EvrimNews/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
