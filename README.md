@@ -8,10 +8,11 @@ En son güncellenen dosyaları içerir. Tüm resimler vb. Dosyalar klasörün i�
 #### Uyarı: Orijinal dosyada değişiklik yapmayınız. Ayrıca yedekleme dosyası olarak kullanılmaktadır.
 
 
-#### Dosya güncellenme tarihi: 3 Aralık, 2016 GMT+2 00:41 (24 Hour Format)
-#### Günecelleyen kişi: Sedat YETİŞ
+#### Dosya güncellenme tarihi: 4 Aralık, 2016 GMT+2 10:50
+#### Günecelleyen kişi: Arda ÇEBİ
 
-
+#### Yapılan Değişiklikler
+Yeni tasarlanan Admin Paneli sayesinde yöneticiler ve uygulama geliştiricileri karşısındakilerine daha iyi ve kolay bir yolla içerik hazırlayabilecekler. Güncellenen versiyon numaraları, Google tarafından yayınlanan en son SDKlara geçmemizi sağladı.
 
 
 
