@@ -8,7 +8,7 @@ En son güncellenen dosyaları içerir. Tüm resimler vb. Dosyalar klasörün i�
 #### Uyarı: Orijinal dosyada değişiklik yapmayınız. Ayrıca yedekleme dosyası olarak kullanılmaktadır.
 
 
-#### Dosya güncellenme tarihi: 4 Aralık, 2016 GMT+2 10:50
+#### Dosya güncellenme tarihi: 6 Aralık, 2016 GMT+2 00:50
 #### Günecelleyen kişi: Arda ÇEBİ
 
 #### Yapılan Değişiklikler
