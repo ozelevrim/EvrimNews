@@ -12,7 +12,7 @@ En son güncellenen dosyaları içerir. Tüm resimler vb. Dosyalar klasörün i�
 #### Günecelleyen kişi: Arda ÇEBİ
 
 #### Yapılan Değişiklikler
-Yeni tasarlanan Admin Paneli sayesinde yöneticiler ve uygulama geliştiricileri karşısındakilerine daha iyi ve kolay bir yolla içerik hazırlayabilecekler. Güncellenen versiyon numaraları, Google tarafından yayınlanan en son SDKlara geçmemizi sağladı.
+Yeni tasarlanan Admin Paneli sayesinde yöneticiler ve uygulama geliştiricileri karşısındakilerine daha iyi ve kolay bir yolla içerik hazırlayabilecekler. Bunun yanında, açılış ekranın yeni tasarımı ile Velilere daha kolay bir yolla bilgi iletmemizi sağladı. Güncellenen versiyon numaraları, Google tarafından yayınlanan en son SDKlara geçmemizi sağladı.
 
 
 
@@ -21,4 +21,4 @@ Yeni tasarlanan Admin Paneli sayesinde yöneticiler ve uygulama geliştiricileri
 
 
 ###### UYARI!
-Hata düzeltirken lütfen tamamen düzelttikten Drive’a yükleyiniz ve şimdiki dosyalara overwrite yapınız.
+Hata düzeltirken lütfen tamamen düzelttikten Github’a yükleyiniz ve şimdiki dosyalara overwrite yapınız.
