@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_view_blog_posts.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\menu\\menu_view_blog_posts.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_test.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\menu\\menu_test.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

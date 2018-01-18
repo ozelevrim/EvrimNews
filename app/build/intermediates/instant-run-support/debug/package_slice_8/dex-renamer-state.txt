@@ -1,0 +1,4 @@
+#Tue Jun 13 22:46:29 EEST 2017
+base.0=/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

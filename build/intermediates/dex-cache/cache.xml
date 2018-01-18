@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/906c89fbbb183f94947b154e1f6b0d65ce48ce7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9110c9e9311e67132b2b8a389db3beceb62c3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/8b8ea9fcb6ae883f86a0708d8c614e2e957fc62d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fb1c689c55e7068e66efe58f104b79d5636cb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59288d1d4c632b4c183cc50774c39d40e7dd0ac5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/b71c8be910982e939e99faeae824d08cafc123e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59756c21b47e664b290b45632d384dee64e6bfff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/0860fc0b1aa8183e412759b12222dc1365df7c9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_145342c3d435ea996d473e741851f419bb2e9656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/e09bb96f7d6484e228f58a630e094cf0580c1dd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77d16ed60762ffce13e494efc49fed5f8ca93b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/53c4789abb5e0f4e10b5459255573cb11b6ceaa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbde19533b3c5db597ef7b43933ea30d65fcbf64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/0badb99e32ecb7bad09429b1b8e0771d76cfed00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3735785cda57b17ee3ce7f391335340256766d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/e8e8c77c2bbac105fa345926a715e5159fce1dc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bdb645a5648e7fdf8f08ab884013f80f760eee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/2837b358788a4634a7d9041185bd340612a486cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84b4f532fdca14d89347c04a754592a9574bcd6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/5e60289ee600f59b5d528a4013a7d83620e1b2c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ee44c3c4cbdcbff6a7f01152d0afa86649398b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/a8ced20d08e13c72684880ed4109c30a9cf2376a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eb5a4a6c5507d069fb53955d93c26ecfadc57b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b82d530271d6196b7d102b737128ec674ee4853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_f904fcffe86fbef827e0ef6e68bb26dbc8c7f3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/fc425da417ffd35c39e6746d5787e202c3a6388e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dc7065d08148f4cb3a8655f2f8ad1296601eb6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/544ef3ccddd19b4853917f755e1e1a7021755bcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee253f6e6f96622f49bc2232ce0e472b068805be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89aeb8fb02cacace2634372e5ecc299fc082690c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/e661acf0a2d9b95327d4c0ee5e4effccab859688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8bffac983030eb9ce03bb1499c62386c41da908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/fc7273916f6cefc4f89ab99d154dd11787f3293d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5b9e059e70bb4a80b67f3b83d0420d6d1cf5abb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3f51d36a41b1a3cb6d8ba09adea009b231755df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/7ee3491e54cbfde991a93bfccbc7d3e9569f3eb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa4a260df99752906d91c6bdf40c08fc9adb597a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3f51d36a41b1a3cb6d8ba09adea009b231755df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/c03e32b9d17fc938e12a471ced9252ef11d37009/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d49bd97f7f2049f51412d4bc8689f3bafc541c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/d729f3d460dc82b9f1c6350100bb5179c629ddf4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57b02c7b5e5cf589abbad008dae3018732527942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11d535355416e7b129dc236632b220c96845fa94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/360aae2a7c7d359fc2276b29416384e4fda209f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_179481bb7dc5cb18d2650a336aa6f3fa9e06b343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/ef3ef4b6c86e07adb72498672ead251239b9be40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64e7481205c8cdd5b75b8bfaf9d920224367a4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/7f72b97e20618c9f44857ccc5f8ddff82dfac547/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7b47989a972c57a5efe82f0eaf281b23899f782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/b20f0567a263a419f38080b96deb7172e93db286/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9e81c72b77f77ff0a5099ee7ad662d1a6260b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/1e29d3f399453ebc70bf0b704397b6a43af1c8da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8565ddcd67e3302c1bb34c0c37e2bcb5eddc3aaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/8b8ea9fcb6ae883f86a0708d8c614e2e957fc62d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fb1c689c55e7068e66efe58f104b79d5636cb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/24d1b240b27d8c0834b0a13ca9ddac4cf218de3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd2fbd41adea4fdfb27f521f819474b35f11a070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/a8186c1ee5f1c4550a21f810268f9336813d72b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c94c3e0a85dce440a7d441ac186ac83d11f5ef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_bb62aebcc5bb9e255dea081cbe3d2a226e1d4c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/029aa7c23d7117433c72b0a2083c1159508bc0b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_922bf423ff2ab6262801f19b0ad039bbf2105b9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/54f2297da38761889f196733f0410154bad2ee1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b77e3d2cb52a3af267dd1c42c899fc21b186a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/53c4789abb5e0f4e10b5459255573cb11b6ceaa7/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_e6d58bb073f89e0f7dc7cf781b4cf3cae6670c6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/3d689bedb4e53d55011fb40634e0e11404e1682b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e8445a2e326c0cc82d3fcb61aecc8eca3f4f763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/22af6ea3e3b7da954ea33922ba322819eb7fa517/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc1a288a98e486636142c9bf00745306430caf53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/7a52535556d97dd42043ae20f8a848a7ba3e7338/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477066b0245bc2da54f8d6f2d230348ebeb03651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/6b75365082680944c5080dc7774ef0e762f0b109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5eeaaf4af6d7398a9a72e21f86e7e94ca47f8dee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/9bd6d4d4591f6a971a8c7d449cbaede55313ba77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a63f200f2c88357e3048cf30f86371ce56c52943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/d8296649f88dc54bf18cef5e1d98dc99487e60dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1742c353d550f77b42f79ea61f10627eaaa990df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/91c234e0e1d4b4b992c12792b5cef91456bbbcf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f0683c25f0dfb391f8d69e3aaabc5fb7236139c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_f904fcffe86fbef827e0ef6e68bb26dbc8c7f3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/bddacc47dccecf921000efb13eec34812048d405/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3beba87bbd9e7b6816224e1dd431903c1e834bad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/0ab6abcc5a2b32b1bb0495c08daae8fad559076c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37588ea79b954917c094843ada29024a890139e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/8b01c4886ca54ce2e7bb8c8601119866212c49af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7130a60786b281d045a1c9084771c268a80523ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/2779742d8476b0e42c2b1878539a35dac19c2bde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_248b2ee0cedb64c0080855c7953ca4030af5b158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/d42dd279c66be44b344a0b3b49b531d7dcf9ffa5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d386992c683613c68a7d7f32e5c4832576287e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/902f3fc6612aa3147c36185989d6d8f111fac9b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36d49c01d30658e2070747f2549b033b9ae386d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/c3b7b88c7461f7adbd3a0fed1f59955e573f126e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4103b117135819945dc44defbfa18141ed46167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/f60604129ec5e06b6802509bf9fe1bdadaa3c2d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5859c26c057652417ca88dd92bd7313cd8813100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/9948db12b9fe26ca4228149ded50d336c4f424ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11718fb8097ec1cd46cd429b57921e3caf15b92f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/ef3ef4b6c86e07adb72498672ead251239b9be40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64e7481205c8cdd5b75b8bfaf9d920224367a4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/0db013b8009c0bdce9654fc8e4fd9440e386a982/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2a61074ed2abc9b29faf37beb6386665a81b687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/c9f68bfff45ec4ebd55f71bf139c43cf8f8908f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8327016a9d5358067a18faf3dac2661826c92d31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/3d5d04e434e4075a019f6add6c7ebce28ecb89e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a35692f84520ffacf2cb2d8f6f7d936f2cf78758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/baa81f1cf640385d073c7c8c54f50274490d942c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f4bb93d5d7693ddf5c6a41247329304e82a6e37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/0719f6771f4159452789ebdd6affa09d927b44b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f5dacb1a14dcfad64ada2cdfefee6f36221d4d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/aacfe4759d618fc2d52f9b7b6734501d39c65ed8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5554a808127b3b6031d241778b3ba5abead285df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/86b81f2668601b520d75772473e6a893ba3744a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59d650c9f400b994998728dbbfd1ad0943058bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/59505c701156c9b048b63562006f5c7c7168b117/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e76c82854a6d7d37def9027e06b7f5d7a95a676c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/35ddd38ff75dc954a5af056da3795a335c6dc117/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41bf5c0b0dc877e0e033079351d8e8a9892391dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/850fffb396a51f8c6c91fca1fa1c59667d864cb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_905c29f2ee85408bb9b0aefaa74b20c9d8311cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ardacebi/.android/build-cache/462d0c6ad28a15df141a761ba1e74ac29d7f0ccf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d4c35ae2f92c380c0efb5ce6eaa21b55b8599bd/classes.dex" />
+    </item>
+
+</items>

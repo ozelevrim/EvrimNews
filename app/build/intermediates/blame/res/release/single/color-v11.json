@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

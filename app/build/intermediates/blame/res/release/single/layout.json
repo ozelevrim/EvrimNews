@@ -1,0 +1,646 @@
+[
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activiy_admin.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activiy_admin.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/place_autocomplete_progress.xml",
+        "source": "/Users/ardacebi/.android/build-cache/e09bb96f7d6484e228f58a630e094cf0580c1dd6/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_new_post.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_new_post.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sosyal_evrim.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_sosyal_evrim.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_volume_control.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_basarilarimiz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_basarilarimiz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_controller_volume_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/ardacebi/.android/build-cache/e09bb96f7d6484e228f58a630e094cf0580c1dd6/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_intro_overlay.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_duyurular.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_duyurular.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_help_text.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1409458d462ddf07f2500dae0b40f674f7854474\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1409458d462ddf07f2500dae0b40f674f7854474\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activiy_admin.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activiy_admin.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_teacher.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_dialog.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_volume_control.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_parent.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_parent.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_help_text.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_teacher.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_teacher.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_iletisim.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_iletisim.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_kadromuz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_kadromuz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_mini_controller.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_playback_control.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_volume_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\content_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_sosyal_evrim.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_sosyal_evrim.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_welcome_screen.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_welcome_screen.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_mini_controller.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/content_main.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_welcome_screen.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_welcome_screen.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/ardacebi/.android/build-cache/e09bb96f7d6484e228f58a630e094cf0580c1dd6/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_basarilarimiz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_basarilarimiz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_chooser_dialog.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_about.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_parent.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_parent.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_duyurular.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_duyurular.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_list_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\69201810429d077a901b4c4ce7461174382a874b\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/content_ortaklarimiz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/content_ortaklarimiz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_playback_control.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_ortaklarimiz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_ortaklarimiz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_new_post.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ortaklarimiz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_ortaklarimiz.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/mr_chooser_list_item.xml",
+        "source": "/Users/ardacebi/.android/build-cache/cf3026107f50b41dca7bb85d67d6c4d42836656a/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/ardacebi/.android/build-cache/87aecb8529a29793c4be06619ab6357c543b8b8a/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_iletisim.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_iletisim.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1409458d462ddf07f2500dae0b40f674f7854474\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_expanded_controller_activity.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_intro_overlay.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\54991e5a61618965508e9ab53d88813044749ed7\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_kadromuz.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\src\\main\\res\\layout\\activity_kadromuz.xml"
+    }
+]

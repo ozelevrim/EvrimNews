@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sosyal_evrim"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="tr.k12.evrim.evrimnews.SosyalEvrim">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:layout_weight="3.5"
+        android:layout_marginLeft="10dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/esm"
+            android:id="@+id/ivi"
+            android:layout_marginEnd="8dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="17dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Facebook Sayfamız"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/facebookflat"
+            android:id="@+id/buttoni1"
+            android:layout_marginBottom="5dp"
+            android:onClick="OpenFacebook"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Twitter Hesabımız"
+            android:drawableRight="@drawable/twitterflat"
+            android:layout_below="@+id/buttoni1"
+            android:layout_alignParentStart="true"
+            android:id="@+id/buttoni2"
+            android:layout_marginBottom="5dp"
+            android:onClick="OpenTwitter"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Instagram Sayfamız"
+            android:drawableLeft="@drawable/instagramflat"
+            android:layout_below="@+id/buttoni2"
+            android:layout_alignParentStart="true"
+            android:id="@+id/buttoni3"
+            android:layout_marginBottom="5dp"
+            android:onClick="OpenInstagram"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="İnternet Sayfamız"
+            android:drawableRight="@drawable/wwwflat"
+            android:layout_below="@+id/buttoni3"
+            android:layout_alignParentStart="true"
+            android:id="@+id/buttoni4"
+            android:layout_marginBottom="5dp"
+            android:onClick="OpenInternet"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Youtube Kanalımız"
+            android:drawableLeft="@drawable/youtubeflat"
+            android:layout_below="@+id/buttoni4"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="5dp"
+            android:onClick="OpenYoutube"/>
+
+    </LinearLayout>
+
+</LinearLayout>

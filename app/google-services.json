@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "99273953657",
+    "firebase_url": "https://evrimnews-2edb8.firebaseio.com",
+    "project_id": "evrimnews-2edb8",
+    "storage_bucket": "evrimnews-2edb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99273953657:android:2f441f52d3fa5b7e",
+        "android_client_info": {
+          "package_name": "tr.k12.evrim.evrimnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99273953657-1oeilrc0t7ebauk9ldqsorkrc2p87r7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tr.k12.evrim.evrimnews",
+            "certificate_hash": "D9B1F749B2D6FB3D81DAA69C1AA9DF3F1E8800A3"
+          }
+        },
+        {
+          "client_id": "99273953657-hkpaj0nen7ea2uldm812je3789m4amnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC03Gutb6DhWOd-fC7Uv31C_GOk_4SrSxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99273953657-og8n57imkh8v2rn83asiad7ah6ak8juu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Evrim.evrimNews"
+              }
+            },
+            {
+              "client_id": "99273953657-hkpaj0nen7ea2uldm812je3789m4amnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

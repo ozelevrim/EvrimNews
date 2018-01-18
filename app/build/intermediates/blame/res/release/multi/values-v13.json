@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/ardacebi/.android/build-cache/41e790dc4141a5d98980e88c567ed9f5fb581ebc/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\1468b66f8820295a2d5796d20e2efa4dd694303b\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

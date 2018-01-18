@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\AndroidStudioProjects\\EvrimNews\\app\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/C:\\Users\\sedat\\.android\\build-cache\\789090625d98fcd1707621c6c86df04f459fd0f4\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/Android Studio Projects/EvrimNews/app/build/intermediates/res/merged/release/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/ardacebi/.android/build-cache/f969d4387fccffb5d97ed32df98febb0d52de7a2/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]
