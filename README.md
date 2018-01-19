@@ -1,7 +1,5 @@
 # EvrimNews 
-[![Dependency Status](https://david-dm.org/ozelevrim/evrimnews.svg)](https://david-dm.org/ozelevrim/evrimnews.svg) 
-
-[![Build](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master)](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master) 
+[![Dependency Status](https://david-dm.org/ozelevrim/evrimnews.svg)](https://david-dm.org/ozelevrim/evrimnews.svg) [![Build](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master)](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master) 
 
 
 EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdır. Velilerin, öğrencilerin ve öğretmenlerin (kullanıcıların) Özel Evrim Okulları internet sitesinde (http://evrim.k12.tr) bulabileceklerinden daha da fazlasını bir mobil uygulama halinde ulaşmalarını sağlıyor.
