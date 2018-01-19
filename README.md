@@ -1,4 +1,5 @@
-# EvrimNews
+# EvrimNews [![Dependency Status](https://david-dm.org/dwyl/esta.svg)](https://david-dm.org/dwyl/esta) [![devDependencies Status](https://david-dm.org/dwyl/hapi-auth-jwt2/dev-status.svg)](https://david-dm.org/dwyl/hapi-auth-jwt2?type=dev)
+
 EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdır. Velilerin, öğrencilerin ve öğretmenlerin (kullanıcıların) Özel Evrim Okulları internet sitesinde (http://evrim.k12.tr) bulabileceklerinden daha da fazlasını bir mobil uygulama halinde ulaşmalarını sağlıyor.
 
 Proje hala geliştirilme aşamasında olduğundan dolayı hatalarla karşılaşmanız mümkün. 
