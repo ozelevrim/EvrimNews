@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.0.1.aar/b345ee81043e4eb46ca5278bcf3ae539/res/values-en-rSG/values.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/042d3e8f6775d20a38b57a8e8223839a/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "244",
+                        "startOffsets": "242",
                         "endColumns": "99",
-                        "endOffsets": "343"
+                        "endOffsets": "341"
                     },
                     "to": {
                         "startLines": "2",

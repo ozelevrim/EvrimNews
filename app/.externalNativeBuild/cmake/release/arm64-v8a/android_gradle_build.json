@@ -1,12 +1,9 @@
 
 {
-	"buildFiles" : 
-	[
-		"/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/CMakeLists.txt"
-	],
+	"buildFiles" : [ "/Users/ardacebi/Github/EvrimNews/app/CMakeLists.txt" ],
 	"cleanCommands" : 
 	[
-		"/Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+		"/Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -15,18 +12,18 @@
 		{
 			"abi" : "arm64-v8a",
 			"artifactName" : "native-lib",
-			"buildCommand" : "/Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+			"buildCommand" : "/Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/ardacebi/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ardacebi/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /Users/ardacebi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ardacebi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/ardacebi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/ardacebi/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a"
+					"src" : "/Users/ardacebi/Github/EvrimNews/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/arm64-v8a"
 				}
 			],
-			"output" : "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so",
+			"output" : "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so",
 			"toolchain" : "9816294999175891849"
 		}
 	},

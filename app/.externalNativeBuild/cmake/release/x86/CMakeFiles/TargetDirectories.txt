@@ -1,3 +1,3 @@
-/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
-/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
-/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
+/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir

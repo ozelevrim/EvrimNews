@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <string msgid="5835639618285370804" name="accept">"Onartu"</string>
     <string msgid="4778414446709286370" name="cast_ad_label">"Iragarkia"</string>
     <string msgid="366047012176970604" name="cast_casting_to_device">"%1$s gailura igortzen"</string>
     <string msgid="2888745622334830481" name="cast_closed_captions">"Azpitituluak"</string>
     <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Ez dago erabilgarri azpititulurik"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"<ns1:g id="NAME">%1$s</ns1:g> gailura konektatzen"</string>
     <string msgid="4431992200264667209" name="cast_disconnect">"Deskonektatu"</string>
     <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Igorpenaren hargailuak iragarkiak erreproduzitu bitartean erakusten den irudia"</string>
     <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Iragarkia abian…"</string>
@@ -19,6 +19,7 @@
     <string msgid="5637297909372905371" name="cast_mute">"Desaktibatu audioa"</string>
     <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> gailura konektatuta"</string>
     <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> gailura konektatzen"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
     <string msgid="5232008641593292969" name="cast_notification_disconnect">"Deskonektatu"</string>
     <string msgid="5308503786390460607" name="cast_pause">"Pausatu"</string>
     <string msgid="5906987965619702702" name="cast_play">"Erreproduzitu"</string>
@@ -34,8 +35,6 @@
     <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Utzi"</string>
     <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Azpitituluak"</string>
     <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"<ns1:g id="POSITION">%1$d</ns1:g>. pista"</string>
-    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Ez dago audio-pistarik"</string>
-    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Ez dago testu-pistarik"</string>
     <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Bat ere ez"</string>
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Ados"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Azpitituluak"</string>
@@ -46,6 +45,7 @@
     <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalatu"</string>
     <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan."</string>
     <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Lortu Google Play zerbitzuak"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play zerbitzuen erabilgarritasuna"</string>
     <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play zerbitzuen errorea"</string>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro."</string>
     <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria."</string>
@@ -57,16 +57,16 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Ireki telefonoan"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Hasi saioa"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Hasi saioa Google-n"</string>
-    <string msgid="6155048007205742679" name="create_calendar_message">"Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?"</string>
-    <string msgid="7967007864778154790" name="create_calendar_title">"Sortu egutegiko gertaera bat"</string>
-    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Iragarkiari buruzko informazioa"</string>
-    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Iragarki-fitxategiaren aurrebista"</string>
-    <string msgid="2039274714455389140" name="debug_menu_title">"Hautatu arazte modua"</string>
-    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Arazo-konpontzailea"</string>
-    <string msgid="6099173376375995052" name="decline">"Baztertu"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Askotarikoak"</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Askotarikoak"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Garbitu bilaketa"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Bilaketa"</string>
-    <string msgid="8020323581538738027" name="store_picture_message">"Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?"</string>
-    <string msgid="4180630057627064606" name="store_picture_title">"Gorde irudia"</string>
+    <string msgid="368094699078615544" name="s1">"Gorde irudia"</string>
+    <string msgid="4550830452390689489" name="s2">"Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?"</string>
+    <string msgid="2435407834265420668" name="s3">"Onartu"</string>
+    <string msgid="9167523597401839819" name="s4">"Baztertu"</string>
+    <string msgid="1566682516266724847" name="s5">"Sortu egutegiko gertaera bat"</string>
+    <string msgid="5996672174517137271" name="s6">"Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?"</string>
+    <string msgid="7163549807207034258" name="s7">"Probako iragarkia"</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Erosi Google erabilita"</string>
 </resources>

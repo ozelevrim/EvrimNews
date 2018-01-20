@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/src/main/assets"/><source path="/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/ardacebi/Github/EvrimNews/app/src/main/assets"/><source path="/Users/ardacebi/Github/EvrimNews/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ardacebi/Github/EvrimNews/app/src/debug/assets"/></dataSet></merger>

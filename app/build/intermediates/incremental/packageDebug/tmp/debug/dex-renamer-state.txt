@@ -1,10 +1,19 @@
-#Thu Jan 18 17:27:22 EET 2018
-path.2=classes2.dex
+#Sat Jan 20 23:10:07 EET 2018
 path.1=classes.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/1
-base.1=/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/1
-base.0=/Users/ardacebi/Desktop/EveryEvrimNews/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/0
+base.5=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/16
+base.4=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/11
+base.3=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/14
+base.2=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/15
+base.0=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/13
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

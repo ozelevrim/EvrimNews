@@ -12,4 +12,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/.externalNativeBuild/cmake/release/x86
+-- Build files have been written to: /Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/x86

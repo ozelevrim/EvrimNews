@@ -35,7 +35,7 @@
                 android:textStyle="bold"
                 style="@style/Widget.AppCompat.Button.Colored"
                 android:id="@+id/button8"
-                android:visibility="gone"/>
+                android:visibility="visible"/>
         </LinearLayout>
 
 
@@ -60,7 +60,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="13dp"
             android:id="@+id/buttonDuyuru"
-            android:drawableLeft="@drawable/megaphone"
+            android:drawableLeft="@drawable/megaphoneresized"
             android:onClick="DuyurularActivity"/>
 
         <Button
@@ -72,7 +72,7 @@
             android:layout_alignEnd="@+id/button2"
             android:layout_marginTop="13dp"
             android:id="@+id/buttonKadro"
-            android:drawableLeft="@drawable/teamflat"
+            android:drawableLeft="@drawable/teamflatresized"
             android:onClick="KadromuzActivity"/>
 
 
@@ -85,7 +85,7 @@
             android:layout_weight="1"
             android:layout_marginTop="12dp"
             android:id="@+id/Ortak"
-            android:drawableLeft="@drawable/deal"
+            android:drawableLeft="@drawable/dealresized"
             android:onClick="OrtaklarimizActivity"/>
 
         <Button
@@ -95,7 +95,7 @@
             android:layout_weight="1"
             android:layout_marginTop="12dp"
             android:id="@+id/buttonSosyal"
-            android:drawableLeft="@drawable/socialnetwork"
+            android:drawableLeft="@drawable/socialnetworkresized"
             android:onClick="SosyalActivity"/>
 
 
@@ -106,18 +106,8 @@
         android:layout_weight="1"
         android:layout_marginTop="12dp"
         android:id="@+id/butonBasari"
-        android:drawableLeft="@drawable/trophy"
+        android:drawableLeft="@drawable/trophyresized"
         android:onClick="BasarilarimizActivity"/>
-
-        <Button
-            android:text="Ayarlar/Hakkında"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:layout_marginTop="12dp"
-            android:id="@+id/butonBasari1"
-            android:drawableLeft="@drawable/gearflat"
-            android:onClick="AyarlarActivity"/>
 
 
 

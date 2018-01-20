@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/Desktop/EveryEvrimNews/!!!!!LATEST!!!!!/EvrimNews/app/src/main/res/values-en/strings.xml",
+                    "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/values-en/strings.xml",
                     "from": {
                         "startLines": "3,4,5,2,6,7,8,9,23,10,11,12,13,14,15,16,17,18,19,20,21,26,25,22,27,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
