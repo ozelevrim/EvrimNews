@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/b7c8e38367e66f41ba1599cb3409b204/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/e06f1980fb9a56d418c4dcc240cd9081/AndroidManifest.xml:17:1-37:12
@@ -14,7 +14,7 @@ MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/ardacebi/.gradle/c
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/82f0ea35a8d879d6a827f101c46df3c7/AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:design:24.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/92ce5a3d00701eb8c91355b12e771506/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2881079746afb892d25534c88e23329/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.2.0.aar/d23cb5f18de07be6967cb6decbd899d0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/7ba176d3d0b4e67ed6d56ed47098f607/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/af77a029762fc66a3e42058a9e8beb9d/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/a3357359cdf28a91a4336404108aea1b/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/8159e48f846b5cf720d42eb08409e14a/AndroidManifest.xml:17:1-22:12
@@ -123,20 +123,20 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] 
 MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/a5a1d23c42b37e7faecf37f4e6fb48dc/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/f2bd7237c7ffa5ef96422020ed474224/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/f61e490ebd1167bb1cad29dc10702015/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-68:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-63:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:11-69
@@ -203,7 +203,7 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardace
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:5-66:19
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:5-61:19
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/e06f1980fb9a56d418c4dcc240cd9081/AndroidManifest.xml:22:5-35:19
@@ -220,8 +220,8 @@ MERGED from [com.android.support:design:24.1.1] /Users/ardacebi/.gradle/caches/t
 MERGED from [com.android.support:design:24.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/92ce5a3d00701eb8c91355b12e771506/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2881079746afb892d25534c88e23329/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2881079746afb892d25534c88e23329/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.2.0.aar/d23cb5f18de07be6967cb6decbd899d0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.2.0.aar/d23cb5f18de07be6967cb6decbd899d0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/7ba176d3d0b4e67ed6d56ed47098f607/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/7ba176d3d0b4e67ed6d56ed47098f607/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/a3357359cdf28a91a4336404108aea1b/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/a3357359cdf28a91a4336404108aea1b/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/4d5f42d5fa542b5c0dfc637a87b88ab9/AndroidManifest.xml:26:5-45:19
@@ -507,7 +507,7 @@ ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:55:
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:55:19-47
 activity#tr.k12.evrim.evrimnews.Main2Activity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:9-65:20
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:9-60:20
 	android:label
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:58:13-57
 	android:theme
@@ -538,8 +538,8 @@ MERGED from [com.android.support:design:24.1.1] /Users/ardacebi/.gradle/caches/t
 MERGED from [com.android.support:design:24.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/92ce5a3d00701eb8c91355b12e771506/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2881079746afb892d25534c88e23329/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f2881079746afb892d25534c88e23329/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.2.0.aar/d23cb5f18de07be6967cb6decbd899d0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.2.0.aar/d23cb5f18de07be6967cb6decbd899d0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/7ba176d3d0b4e67ed6d56ed47098f607/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/7ba176d3d0b4e67ed6d56ed47098f607/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/af77a029762fc66a3e42058a9e8beb9d/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/af77a029762fc66a3e42058a9e8beb9d/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/a3357359cdf28a91a4336404108aea1b/AndroidManifest.xml:20:5-44
