@@ -15,9 +15,14 @@ import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
 
+
 import static android.widget.LinearLayout.OnClickListener;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    private boolean mdark_mode = false;
+
 
     // Used to load the 'native-lib' library on application startup.
     static {
@@ -73,6 +78,25 @@ public class MainActivity extends AppCompatActivity {
 
 
     @Override
+    public boolean onOptionsItemSelected(MenuItem item){
+        switch(item.getItemId()){
+            case R.id.dark_mode:
+                if(item.isChecked()){
+// If item already checked then unchecked it
+                    item.setChecked(false);
+                }else{
+// If item is unchecked then checked it
+                    item.setChecked(true);
+                }
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+
+
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -95,15 +119,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        return super.onOptionsItemSelected(item);
-    }
 
     /**
      * A native method that is implemented by the 'native-lib' native library,

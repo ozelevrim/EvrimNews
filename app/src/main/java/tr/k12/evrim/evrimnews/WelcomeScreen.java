@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class WelcomeScreen extends AppCompatActivity {
 
-    private  static  int time = 3500;
+    private  static  int time = 2000;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
