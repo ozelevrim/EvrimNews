@@ -62,7 +62,9 @@
         <activity android:name=".Mezunlarimiz" />
         <activity android:name=".iletisim" />
         <activity android:name=".AylikYemekMenuleri" />
-        <activity android:name=".VeliGorusmeGunleri"></activity>
+        <activity android:name=".VeliGorusmeGunleri" />
+        <activity android:name=".WelcomeActivity">
+        </activity>
     </application>
 
 </manifest>

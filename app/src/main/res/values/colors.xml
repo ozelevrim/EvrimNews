@@ -6,4 +6,43 @@
     <color name="White">#FFFFFF</color>
     <color name="Black">#000</color>
     <color name="Gray">#D6D7D7</color>
+
+
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#1565C0</color>
+    <color name="bg_screen2">#1976D2</color>
+    <color name="bg_screen3">#1E88E5</color>
+    <color name="bg_screen4">#2196F3</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#33FFFFFF</color>
+    <color name="dot_dark_screen2">#33FFFFFF</color>
+    <color name="dot_dark_screen3">#33FFFFFF</color>
+    <color name="dot_dark_screen4">#33FFFFFF</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#fff</color>
+    <color name="dot_light_screen2">#fff</color>
+    <color name="dot_light_screen3">#fff</color>
+    <color name="dot_light_screen4">#fff</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+
+
 </resources>

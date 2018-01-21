@@ -58,4 +58,27 @@
     <string name="hakkimizda">Hakkımızda</string>
 
 
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">İLERİ</string>
+    <string name="skip">ATLA</string>
+    <string name="start">ANLADIM</string>
+
+    <string name="slide_1_title">EvrimNews</string>
+    <string name="slide_1_desc">Özel Evrim Okulları hakkında aradığınız tüm bilgilere ulaşmanızı sağlar.</string>
+
+    <string name="slide_2_title">Sınırsız bilgi</string>
+    <string name="slide_2_desc">İnternet sitemizde bulabileceğiniz bilgilerin çok daha fazlasını, daha kolay şekilde bu uygulamada bulabilirsiniz.</string>
+
+    <string name="slide_3_title">Kişiselleştirilmiş İçerik</string>
+    <string name="slide_3_desc">EvrimNews, uygulama içinde sahip olacağınız kişisel hesabınız ile size kişiselleştirilmiş bilgiler, deneyim sunar.</string>
+
+    <string name="slide_4_title">Kolay Arayüz</string>
+    <string name="slide_4_desc">EvrimNews, uygulamayı daha kolay kullanabilmeniz için basit bir arayüze sahip. Kolaylıkla her şeye ulaşabilirsiniz.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
 </resources>
