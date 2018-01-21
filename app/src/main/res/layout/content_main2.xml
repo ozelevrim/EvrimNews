@@ -9,37 +9,5 @@
     tools:showIn="@layout/app_bar_main2">
 
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="30dp" />
-
-
-       <HorizontalScrollView
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content">
-
-            <android.support.v7.widget.CardView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_account_circle_black_24dp"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Sign In"/>
-
-
-            </android.support.v7.widget.CardView>
-
-
-
-
-
-
-       </HorizontalScrollView>
 
 </LinearLayout>
