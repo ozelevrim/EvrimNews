@@ -1,7 +1,7 @@
 package tr.k12.evrim.evrimnews;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -12,9 +12,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ListView;
+
 
 public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,15 +28,6 @@ public class Main2Activity extends AppCompatActivity
         setContentView(R.layout.activity_main2);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -80,19 +77,73 @@ public class Main2Activity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.nav_signin) {
+
+            Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
+            startActivity(intent);
+
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_kadromuz) {
 
-        } else if (id == R.id.nav_slideshow) {
+            Intent intent = new Intent(getApplicationContext(), Kadromuz.class);
+                startActivity(intent);
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_ortaklarımız) {
 
-        } else if (id == R.id.nav_share) {
+            Intent intent = new Intent(getApplicationContext(), Ortaklarimiz.class);
+            startActivity(intent);
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_başarılarımız) {
+
+            Intent intent = new Intent(getApplicationContext(), basarilarimiz.class);
+            startActivity(intent);
+
+        } else if (id == R.id.nav_mezunlarımız) {
+
+
+
+
+        } else if (id == R.id.nav_hakkımızda) {
+
+            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
+            startActivity(intent);
+
+        } else if (id == R.id.nav_iletisim) {
+
+
+
+
+
+        } else if (id == R.id.nav_blog) {
+
+            Intent intent = new Intent(getApplicationContext(), Duyurular.class);
+            startActivity(intent);
+
+        } else if (id == R.id.nav_sosyal) {
+
+            Intent intent = new Intent(getApplicationContext(), SosyalEvrim.class);
+            startActivity(intent);
+
+        } else if (id == R.id.nav_yemek) {
+
+
+
+
+
+        } else if (id == R.id.nav_veligorusme) {
+
+
+
+
+
+        } else if (id == R.id.nav_calismatakvimi) {
+
+
+
 
         }
+
+
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

@@ -3,36 +3,82 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
-    </group>
 
-    <item android:title="Communicate">
+    <item
+        android:id="@+id/nav_signin"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Giriş Yap" />
+
+    <item android:title="Okulumuzu Tanıyın">
         <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+    <group>
+
+        <item
+            android:id="@+id/nav_kadromuz"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:title="Kadromuz" />
+        <item
+            android:id="@+id/nav_ortaklarımız"
+            android:icon="@drawable/ic_work_black_24dp"
+            android:title="Ortaklarımız" />
+
+        <item
+            android:id="@+id/nav_başarılarımız"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="Başarılarımız" />
+
+        <item
+            android:id="@+id/nav_mezunlarımız"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Mezunlarımız" />
+
+        <item
+            android:id="@+id/nav_hakkımızda"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Hakkımızda" />
+
+        <item
+            android:id="@+id/nav_iletisim"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="İletişim" />
+    </group>
         </menu>
     </item>
+
+    <group>
+    <item android:title="Evrim Güncel">
+        <menu>
+            <item
+                android:id="@+id/nav_blog"
+                android:icon="@drawable/ic_announcement_black_24dp"
+                android:title="Duyurular/Blog" />
+
+            <item
+                android:id="@+id/nav_sosyal"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="Sosyal Evrim" />
+
+            <item
+                android:id="@+id/nav_yemek"
+                android:icon="@drawable/ic_restaurant_black_24dp"
+                android:title="Aylık Yemek Menüleri" />
+
+            <item
+                android:id="@+id/nav_veligorusme"
+                android:icon="@drawable/ic_forum_black_24dp"
+                android:title="Veli Görüşme Günleri" />
+
+            <item
+                android:id="@+id/nav_calismatakvimi"
+                android:icon="@drawable/ic_event_note_black_24dp"
+                android:title="Çalışma Takvimi" />
+
+
+        </menu>
+    </item>
+    </group>
+
+
+
 
 </menu>

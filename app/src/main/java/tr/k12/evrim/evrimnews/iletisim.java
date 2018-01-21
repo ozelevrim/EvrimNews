@@ -1,9 +1,9 @@
 package tr.k12.evrim.evrimnews;
 
-import android.app.Activity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class iletisim extends Activity {
+public class iletisim extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,61 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_about"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="tr.k12.evrim.evrimnews.AboutActivity">
 
-
-   <LinearLayout
-       android:layout_width="match_parent"
-       android:layout_height="match_parent"
-       android:orientation="vertical">
-
-
-
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="35dp"
-        android:text="uygulama hakkında"
-        android:textAllCaps="true"
-        android:textStyle="bold"
-        android:textSize="25sp"
-        android:gravity="center"
-        android:id="@+id/aboutitle" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="EvrimNews, Sizin Evrim Okulları hakkında internet sitesinde bulabileceğiniz tüm bilgileri telefonunuzda bir uygulama altında topluyor. Kısaca, burada internet sitemizden bulacağınız daha çok bilgiyi bulabilirsiniz. Açacağınız Evrim Hesabı ile Öğretmenler ve Veliler daha kolay ilgilendikleri konulara ulaşabiliyorlar. Böylece kolay bir şekilde aradığınız bilgiye ulaşıyorsunuz. "
-        android:textSize="16sp"
-        android:gravity="top"
-        android:layout_marginTop="30dp"
-        android:layout_alignParentBottom="true"
-        android:layout_weight="1"/>
-
-       <TextView
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           android:text="Arda Çebi ve Sedat Yetiş tarafından geliştirilmiştir."
-           android:textSize="16sp"
-           android:textStyle="bold"
-           android:gravity="top|center" />
-
-
-
-
-
-   </LinearLayout>
-
-
-
-
-
-
-</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

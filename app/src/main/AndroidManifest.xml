@@ -51,13 +51,18 @@
         <activity android:name=".SosyalEvrim" />
         <activity android:name=".NewPost" />
         <activity android:name=".basarilarimiz" />
-        <activity android:name=".AboutActivity" />
         <activity android:name=".Ortaklarimiz" />
         <activity
             android:name=".Main2Activity"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/hakkimizda" />
+        <activity android:name=".Mezunlarimiz" />
+        <activity android:name=".iletisim" />
+        <activity android:name=".AylikYemekMenuleri" />
+        <activity android:name=".VeliGorusmeGunleri"></activity>
     </application>
 
 </manifest>
