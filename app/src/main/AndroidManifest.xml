@@ -63,8 +63,9 @@
         <activity android:name=".iletisim" />
         <activity android:name=".AylikYemekMenuleri" />
         <activity android:name=".VeliGorusmeGunleri" />
-        <activity android:name=".WelcomeActivity">
-        </activity>
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".CalismaTakvimi" />
+        <activity android:name=".FeedbackActivity"></activity>
     </application>
 
 </manifest>

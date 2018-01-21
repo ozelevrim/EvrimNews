@@ -1,6 +1,7 @@
 package tr.k12.evrim.evrimnews;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
 import android.view.View;
@@ -58,13 +59,49 @@ public class Main2Activity extends AppCompatActivity
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+
+
+
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
+
+
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.dark_mode) {
+
+
+
+
+            return true;
+        }
+
+        if (id == R.id.feedback_button) {
+
+            Intent intent = new Intent(getApplicationContext(), FeedbackActivity.class);
+            startActivity(intent);
+
+
+            return true;
+        }
+
+        if (id == R.id.about_button) {
+
+            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
+            startActivity(intent);
+
+
+            return true;
+        }
+
+        if (id == R.id.open_source_button) {
+
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ozelevrim/EvrimNews"));
+            startActivity(browserIntent);
+
+
             return true;
         }
 
@@ -100,7 +137,8 @@ public class Main2Activity extends AppCompatActivity
 
         } else if (id == R.id.nav_mezunlarımız) {
 
-
+            Intent intent = new Intent(getApplicationContext(), Mezunlarimiz.class);
+            startActivity(intent);
 
 
         } else if (id == R.id.nav_hakkımızda) {
@@ -110,7 +148,8 @@ public class Main2Activity extends AppCompatActivity
 
         } else if (id == R.id.nav_iletisim) {
 
-
+            Intent intent = new Intent(getApplicationContext(), iletisim.class);
+            startActivity(intent);
 
 
 
@@ -127,18 +166,21 @@ public class Main2Activity extends AppCompatActivity
         } else if (id == R.id.nav_yemek) {
 
 
-
+            Intent intent = new Intent(getApplicationContext(), AylikYemekMenuleri.class);
+            startActivity(intent);
 
 
         } else if (id == R.id.nav_veligorusme) {
 
 
-
+            Intent intent = new Intent(getApplicationContext(), VeliGorusmeGunleri.class);
+            startActivity(intent);
 
 
         } else if (id == R.id.nav_calismatakvimi) {
 
-
+            Intent intent = new Intent(getApplicationContext(), CalismaTakvimi.class);
+            startActivity(intent);
 
 
         }

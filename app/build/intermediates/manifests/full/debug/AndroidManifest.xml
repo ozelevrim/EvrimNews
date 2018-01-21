@@ -83,8 +83,9 @@
         <activity android:name="tr.k12.evrim.evrimnews.iletisim" />
         <activity android:name="tr.k12.evrim.evrimnews.AylikYemekMenuleri" />
         <activity android:name="tr.k12.evrim.evrimnews.VeliGorusmeGunleri" />
-        <activity android:name="tr.k12.evrim.evrimnews.WelcomeActivity" >
-        </activity>
+        <activity android:name="tr.k12.evrim.evrimnews.WelcomeActivity" />
+        <activity android:name="tr.k12.evrim.evrimnews.CalismaTakvimi" />
+        <activity android:name="tr.k12.evrim.evrimnews.FeedbackActivity" />
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"

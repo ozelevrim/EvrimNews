@@ -2,8 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:title="Koyu Arayüz"
+        android:id="@+id/dark_mode"
+        android:checkable="true" />
+
+    <item
+        android:title="Geri bildirim"
+        android:id="@+id/feedback_button" />
+
+    <item
+        android:title="Hakkında"
+        android:id="@+id/about_button" />
+
+    <item
+        android:title="Açık Kaynak Lisanslar"
+        android:id="@+id/open_source_button"/>
 </menu>
