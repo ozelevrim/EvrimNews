@@ -59,13 +59,18 @@
         <activity
             android:name=".AboutActivity"
             android:label="@string/hakkimizda" />
-        <activity android:name=".Mezunlarimiz" />
-        <activity android:name=".iletisim" />
-        <activity android:name=".AylikYemekMenuleri" />
-        <activity android:name=".VeliGorusmeGunleri" />
+        <activity android:name=".Mezunlarimiz" android:label="Mezunlarımız"/>
+        <activity android:name=".iletisim" android:label="İletişim"/>
+        <activity android:name=".AylikYemekMenuleri" android:label="Aylık Yemek Menüleri" />
+        <activity android:name=".VeliGorusmeGunleri" android:label="Veli Görüşme Günleri" />
         <activity android:name=".WelcomeActivity" />
-        <activity android:name=".CalismaTakvimi" />
-        <activity android:name=".FeedbackActivity"></activity>
+        <activity android:name=".CalismaTakvimi" android:label="Çalışma Takvimi"/>
+        <activity android:name=".FeedbackActivity" android:label="Geri Bildirim" />
+        <activity android:name=".Kurucu_temsilcisi" android:label="Kurucu Temsilcisi" />
+        <activity android:name=".Gorusler" android:label="Görüşler"/>
+        <activity android:name=".Tarihcemiz"
+            android:label="Tarihçemiz">
+        </activity>
     </application>
 
 </manifest>

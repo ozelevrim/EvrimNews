@@ -14,6 +14,11 @@
     <group>
 
         <item
+            android:id="@+id/nav_tarihcemiz"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="Tarihçemiz" />
+
+        <item
             android:id="@+id/nav_kadromuz"
             android:icon="@drawable/ic_supervisor_account_black_24dp"
             android:title="Kadromuz" />
@@ -23,14 +28,24 @@
             android:title="Ortaklarımız" />
 
         <item
+            android:id="@+id/nav_kurucu_temsilcisi"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Kurucu Temsilcisi" />
+
+        <item
             android:id="@+id/nav_başarılarımız"
-            android:icon="@drawable/ic_schedule_black_24dp"
+            android:icon="@drawable/ic_trophy"
             android:title="Başarılarımız" />
 
         <item
             android:id="@+id/nav_mezunlarımız"
             android:icon="@drawable/ic_school_black_24dp"
             android:title="Mezunlarımız" />
+
+        <item
+            android:id="@+id/nav_gorusler"
+            android:icon="@drawable/ic_chat_bubble_black_24dp"
+            android:title="Görüşler" />
 
         <item
             android:id="@+id/nav_hakkımızda"

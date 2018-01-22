@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/b7c8e38367e66f41ba1599cb3409b204/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/e06f1980fb9a56d418c4dcc240cd9081/AndroidManifest.xml:17:1-37:12
@@ -123,20 +123,20 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] 
 MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/a5a1d23c42b37e7faecf37f4e6fb48dc/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/f2bd7237c7ffa5ef96422020ed474224/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/f61e490ebd1167bb1cad29dc10702015/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
 	package
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-76:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:11-69
@@ -203,7 +203,7 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardace
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:5-69:19
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:5-74:19
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/9317d307d739970b6431e208bbb65974/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/e06f1980fb9a56d418c4dcc240cd9081/AndroidManifest.xml:22:5-35:19
@@ -517,19 +517,27 @@ ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:59:
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:60:13-42
 activity#tr.k12.evrim.evrimnews.Mezunlarimiz
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:62:9-50
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:62:9-78
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:62:48-76
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:62:19-47
 activity#tr.k12.evrim.evrimnews.iletisim
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:9-46
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:9-70
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:44-68
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:19-43
 activity#tr.k12.evrim.evrimnews.AylikYemekMenuleri
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:9-56
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:9-93
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:54-90
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:19-53
 activity#tr.k12.evrim.evrimnews.VeliGorusmeGunleri
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:9-56
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:9-93
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:54-90
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:19-53
 activity#tr.k12.evrim.evrimnews.WelcomeActivity
@@ -537,13 +545,35 @@ ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:66:
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:66:19-50
 activity#tr.k12.evrim.evrimnews.CalismaTakvimi
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:9-52
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:9-83
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:50-81
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:19-49
 activity#tr.k12.evrim.evrimnews.FeedbackActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:68:9-63
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:68:9-84
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:68:52-81
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:68:19-51
+activity#tr.k12.evrim.evrimnews.Kurucu_temsilcisi
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:69:9-89
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:69:53-86
+	android:name
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:69:19-52
+activity#tr.k12.evrim.evrimnews.Gorusler
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:70:9-70
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:70:44-68
+	android:name
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:70:19-43
+activity#tr.k12.evrim.evrimnews.Tarihcemiz
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:71:9-73:20
+	android:label
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:72:13-39
+	android:name
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:71:19-45
 uses-sdk
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml

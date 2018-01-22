@@ -185,6 +185,31 @@ public class Main2Activity extends AppCompatActivity
 
         }
 
+     else if (id == R.id.nav_kurucu_temsilcisi) {
+
+        Intent intent = new Intent(getApplicationContext(), Kurucu_temsilcisi.class);
+        startActivity(intent);
+
+
+    }
+
+        else if (id == R.id.nav_gorusler) {
+
+            Intent intent = new Intent(getApplicationContext(), Gorusler.class);
+            startActivity(intent);
+
+
+        }
+
+        else if (id == R.id.nav_tarihcemiz) {
+
+            Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
+            startActivity(intent);
+
+
+        }
+
+
 
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

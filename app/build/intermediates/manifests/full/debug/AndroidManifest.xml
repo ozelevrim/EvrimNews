@@ -79,13 +79,35 @@
         <activity
             android:name="tr.k12.evrim.evrimnews.AboutActivity"
             android:label="@string/hakkimizda" />
-        <activity android:name="tr.k12.evrim.evrimnews.Mezunlarimiz" />
-        <activity android:name="tr.k12.evrim.evrimnews.iletisim" />
-        <activity android:name="tr.k12.evrim.evrimnews.AylikYemekMenuleri" />
-        <activity android:name="tr.k12.evrim.evrimnews.VeliGorusmeGunleri" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Mezunlarimiz"
+            android:label="Mezunlarımız" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.iletisim"
+            android:label="İletişim" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.AylikYemekMenuleri"
+            android:label="Aylık Yemek Menüleri" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.VeliGorusmeGunleri"
+            android:label="Veli Görüşme Günleri" />
         <activity android:name="tr.k12.evrim.evrimnews.WelcomeActivity" />
-        <activity android:name="tr.k12.evrim.evrimnews.CalismaTakvimi" />
-        <activity android:name="tr.k12.evrim.evrimnews.FeedbackActivity" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.CalismaTakvimi"
+            android:label="Çalışma Takvimi" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.FeedbackActivity"
+            android:label="Geri Bildirim" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Kurucu_temsilcisi"
+            android:label="Kurucu Temsilcisi" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Gorusler"
+            android:label="Görüşler" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Tarihcemiz"
+            android:label="Tarihçemiz" >
+        </activity>
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
