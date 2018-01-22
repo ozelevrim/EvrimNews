@@ -6,10 +6,6 @@
     android:layout_height="match_parent"
     tools:context="tr.k12.evrim.evrimnews.Tarihcemiz">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/evrim_history_banner"/>
 
 
 </android.support.constraint.ConstraintLayout>
