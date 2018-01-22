@@ -33,7 +33,6 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="tr.k12.evrim.evrimnews.WelcomeScreen"
@@ -66,48 +65,71 @@
 
         <activity android:name="tr.k12.evrim.evrimnews.ActivityParent" />
         <activity android:name="tr.k12.evrim.evrimnews.ActivityTeacher" />
-        <activity android:name="tr.k12.evrim.evrimnews.Duyurular" />
-        <activity android:name="tr.k12.evrim.evrimnews.Kadromuz" />
-        <activity android:name="tr.k12.evrim.evrimnews.SosyalEvrim" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Duyurular"
+            android:label="Duyurular" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Kadromuz"
+            android:label="Kadromuz" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.SosyalEvrim"
+            android:label="Sosyal Evrim" />
         <activity android:name="tr.k12.evrim.evrimnews.NewPost" />
-        <activity android:name="tr.k12.evrim.evrimnews.basarilarimiz" />
-        <activity android:name="tr.k12.evrim.evrimnews.Ortaklarimiz" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.basarilarimiz"
+            android:label="Başarılarımız"
+            android:parentActivityName="tr.k12.evrim.evrimnews.basarilarimiz" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.Ortaklarimiz"
+            android:label="Ortaklarımız"
+            android:parentActivityName="tr.k12.evrim.evrimnews.Ortaklarimiz" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Main2Activity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="tr.k12.evrim.evrimnews.AboutActivity"
-            android:label="@string/hakkimizda" />
+            android:label="@string/hakkimizda"
+            android:parentActivityName="tr.k12.evrim.evrimnews.AboutActivity" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Mezunlarimiz"
-            android:label="Mezunlarımız" />
+            android:label="Mezunlarımız"
+            android:parentActivityName="tr.k12.evrim.evrimnews.Mezunlarimiz" />
         <activity
             android:name="tr.k12.evrim.evrimnews.iletisim"
-            android:label="İletişim" />
+            android:label="İletişim"
+            android:parentActivityName="tr.k12.evrim.evrimnews.iletisim" />
         <activity
             android:name="tr.k12.evrim.evrimnews.AylikYemekMenuleri"
-            android:label="Aylık Yemek Menüleri" />
+            android:label="Aylık Yemek Menüleri"
+            android:parentActivityName="tr.k12.evrim.evrimnews.AylikYemekMenuleri" />
         <activity
             android:name="tr.k12.evrim.evrimnews.VeliGorusmeGunleri"
-            android:label="Veli Görüşme Günleri" />
+            android:label="Veli Görüşme Günleri"
+            android:parentActivityName="tr.k12.evrim.evrimnews.CalismaTakvimi" />
         <activity android:name="tr.k12.evrim.evrimnews.WelcomeActivity" />
         <activity
             android:name="tr.k12.evrim.evrimnews.CalismaTakvimi"
-            android:label="Çalışma Takvimi" />
+            android:label="Çalışma Takvimi"
+            android:parentActivityName="tr.k12.evrim.evrimnews.CalismaTakvimi" />
         <activity
             android:name="tr.k12.evrim.evrimnews.FeedbackActivity"
-            android:label="Geri Bildirim" />
+            android:label="Geri Bildirim"
+            android:parentActivityName="tr.k12.evrim.evrimnews.FeedbackActivity" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Kurucu_temsilcisi"
-            android:label="Kurucu Temsilcisi" />
+            android:label="Kurucu Temsilcisi"
+            android:parentActivityName="tr.k12.evrim.evrimnews.Kurucu_temsilcisi" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Gorusler"
-            android:label="Görüşler" />
+            android:label="Görüşler"
+            android:parentActivityName="tr.k12.evrim.evrimnews.Gorusler" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Tarihcemiz"
-            android:label="Tarihçemiz" >
+            android:label="Tarihçemiz"
+            android:parentActivityName="tr.k12.evrim.evrimnews.Tarihcemiz" >
         </activity>
+
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"

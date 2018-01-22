@@ -617,7 +617,7 @@ public final class R {
         public static final int abc_textfield_search_material = 0x7f070051;
         public static final int design_fab_background = 0x7f0700a0;
         public static final int design_snackbar_background = 0x7f0700a1;
-        public static final int notification_template_icon_bg = 0x7f070184;
+        public static final int notification_template_icon_bg = 0x7f07017b;
     }
     public static final class id {
         public static final int action0 = 0x7f080003;
@@ -739,17 +739,17 @@ public final class R {
         public static final int text = 0x7f08014a;
         public static final int text2 = 0x7f08014c;
         public static final int textSpacerNoButtons = 0x7f08014d;
-        public static final int time = 0x7f080155;
-        public static final int title = 0x7f080156;
-        public static final int title_template = 0x7f080158;
-        public static final int top = 0x7f08015b;
-        public static final int topPanel = 0x7f08015c;
-        public static final int touch_outside = 0x7f08015d;
-        public static final int up = 0x7f08015e;
-        public static final int useLogo = 0x7f080160;
-        public static final int view_offset_helper = 0x7f080161;
-        public static final int withText = 0x7f08016a;
-        public static final int wrap_content = 0x7f08016c;
+        public static final int time = 0x7f080154;
+        public static final int title = 0x7f080155;
+        public static final int title_template = 0x7f080157;
+        public static final int top = 0x7f08015a;
+        public static final int topPanel = 0x7f08015b;
+        public static final int touch_outside = 0x7f08015c;
+        public static final int up = 0x7f08015d;
+        public static final int useLogo = 0x7f08015f;
+        public static final int view_offset_helper = 0x7f080160;
+        public static final int withText = 0x7f080169;
+        public static final int wrap_content = 0x7f08016b;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur = 0x7f090000;
@@ -845,7 +845,7 @@ public final class R {
         public static final int appbar_scrolling_view_behavior = 0x7f0e0025;
         public static final int bottom_sheet_behavior = 0x7f0e0026;
         public static final int character_counter_pattern = 0x7f0e0050;
-        public static final int status_bar_notification_info_overflow = 0x7f0e00b0;
+        public static final int status_bar_notification_info_overflow = 0x7f0e00b1;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f0f0000;

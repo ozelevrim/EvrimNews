@@ -1,4 +1,4 @@
-#Mon Jan 22 14:01:52 EET 2018
+#Mon Jan 22 22:28:27 EET 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/30
-base.4=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/33
-base.3=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/31
-base.2=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/34
-base.1=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/29
-base.0=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/32
+base.5=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/49
+base.4=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/47
+base.3=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/50
+base.2=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/51
+base.1=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/48
+base.0=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/46
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
