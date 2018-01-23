@@ -4,7 +4,7 @@
             "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b9bd278b24f3b148c5c282d016af9bab/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/11d4122f2d46b635bd2395cfe497d08c/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

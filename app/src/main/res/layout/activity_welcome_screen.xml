@@ -25,9 +25,37 @@
             android:src="@drawable/evrim"
             android:layout_above="@+id/welcome_messgae"
             android:layout_alignParentStart="true"
-            android:layout_marginBottom="51dp" />
+            android:layout_marginBottom="39dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
 
 
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminateOnly="true"
+            android:layout_below="@id/imageView"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:theme="@style/AppTheme.WhiteAccent"
+            android:layout_weight="1"/>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+
+
+
+        </LinearLayout>
     </RelativeLayout>
 
 

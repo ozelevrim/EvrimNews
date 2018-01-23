@@ -8,8 +8,8 @@ android {
         minSdkVersion 21
         targetSdkVersion 24
         multiDexEnabled true
-        versionCode 2
-        versionName "1.0beta2"
+        versionCode 3
+        versionName "1.0-beta.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
             cmake {
@@ -52,6 +52,18 @@ dependencies {
     compile 'com.android.support:cardview-v7:24.2.1'
     testCompile 'junit:junit:4.12'
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

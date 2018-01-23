@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,78 +7,4 @@
     tools:context="tr.k12.evrim.evrimnews.iletisim">
 
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="top"
-        android:layout_marginLeft="10dp">
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/esm"
-        android:id="@+id/ivi"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginEnd="8dp" />
-
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="30dp">
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Facebook Sayfamız"
-        android:drawableLeft="@drawable/facebook"
-        android:id="@+id/buttoni1" />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Twitter Hesabımız"
-        android:drawableLeft="@drawable/twitter"
-        android:layout_below="@+id/buttoni1"
-        android:layout_alignParentStart="true"
-        android:id="@+id/buttoni2" />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Instagram Sayfamız"
-        android:drawableLeft="@drawable/instagram"
-        android:layout_below="@+id/buttoni2"
-        android:layout_alignParentStart="true"
-        android:id="@+id/buttoni3" />
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="İnternet Sayfamız"
-        android:drawableLeft="@drawable/www"
-        android:layout_below="@+id/buttoni3"
-        android:layout_alignParentStart="true"
-        android:id="@+id/buttoni4" />
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Youtube Kanalımız"
-        android:drawableLeft="@drawable/youtube"
-        android:layout_below="@+id/buttoni4"
-        android:layout_alignParentStart="true" />
-
-    </RelativeLayout>
-
-
-
-
-
-
-</RelativeLayout>
-
-
+</android.support.constraint.ConstraintLayout>

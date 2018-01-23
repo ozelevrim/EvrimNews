@@ -4,7 +4,7 @@
             "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/dcf0ecbec70ae81c1e73ee2a60335c35/res/values-land/values.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/1b5682a557657031a4c7c76143637496/res/values-land/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9",
                         "startColumns": "0,0,0,0,0,0",
@@ -21,17 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b9bd278b24f3b148c5c282d016af9bab/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                },
-                {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/92ce5a3d00701eb8c91355b12e771506/res/values-land/values-land.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/9bb8d69f0c1ca4660e92edabced44eb5/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -50,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d605da4b49a3306cddf0cae332946afb/res/values-land/values-land.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/f823e8330c26bd3d9bb593f76c3ba915/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -64,6 +54,16 @@
                         "startOffsets": "838,913,991",
                         "endColumns": "74,77,74",
                         "endOffsets": "908,986,1061"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/11d4122f2d46b635bd2395cfe497d08c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

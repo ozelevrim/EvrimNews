@@ -45,11 +45,33 @@
 
     </style>
 
+    <style name="WelcomeTutorial" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">#0d47a1</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
 
+    </style>
+
+
+
+    <style name="NoActionBar" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
 
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">#fff</item> <!-- Whatever color you want-->
+    </style>
+
+
+
+    
 
 </resources>

@@ -22,7 +22,9 @@ public class SosyalEvrim extends Activity {
     }
 
     public void OpenFacebook(View v) {
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/evrimokullari"));
+        String YourPageURL = "https://www.facebook.com/n/?evrimokullari";
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(YourPageURL));
+
         startActivity(browserIntent);
     }
 

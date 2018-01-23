@@ -3,22 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="tr.k12.evrim.evrimnews.MainActivity">
 
-    <item
-        android:title="Koyu Arayüz"
-        android:id="@+id/dark_mode"
-        android:checkable="true" />
-
-    <item
-        android:title="Geri bildirim"
-        android:id="@+id/feedback_button" />
-
-    <item
-        android:title="Hakkında"
-        android:id="@+id/about_button" />
-
-    <item
-        android:title="Açık Kaynak Lisanslar"
-        android:id="@+id/about_button"/>
+    
 
 
 </menu>

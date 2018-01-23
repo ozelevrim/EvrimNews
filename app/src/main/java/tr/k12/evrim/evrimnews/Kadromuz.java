@@ -23,9 +23,9 @@ public class Kadromuz extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
 
-
+        }
 
 
 
     }
-}
+

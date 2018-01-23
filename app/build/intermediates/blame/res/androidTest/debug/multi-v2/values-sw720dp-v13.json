@@ -4,7 +4,7 @@
             "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d605da4b49a3306cddf0cae332946afb/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/f823e8330c26bd3d9bb593f76c3ba915/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
