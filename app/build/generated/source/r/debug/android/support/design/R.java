@@ -18,13 +18,13 @@ public final class R {
         public static final int abc_slide_in_top = 0x7f010007;
         public static final int abc_slide_out_bottom = 0x7f010008;
         public static final int abc_slide_out_top = 0x7f010009;
-        public static final int design_appbar_state_list_animator = 0x7f01000a;
-        public static final int design_bottom_sheet_slide_in = 0x7f01000b;
-        public static final int design_bottom_sheet_slide_out = 0x7f01000c;
-        public static final int design_fab_in = 0x7f01000d;
-        public static final int design_fab_out = 0x7f01000e;
-        public static final int design_snackbar_in = 0x7f01000f;
-        public static final int design_snackbar_out = 0x7f010010;
+        public static final int design_appbar_state_list_animator = 0x7f01000b;
+        public static final int design_bottom_sheet_slide_in = 0x7f01000c;
+        public static final int design_bottom_sheet_slide_out = 0x7f01000d;
+        public static final int design_fab_in = 0x7f01000e;
+        public static final int design_fab_out = 0x7f01000f;
+        public static final int design_snackbar_in = 0x7f010010;
+        public static final int design_snackbar_out = 0x7f010011;
     }
     public static final class attr {
         public static final int actionBarDivider = 0x7f030000;
@@ -615,9 +615,9 @@ public final class R {
         public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f07004f;
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f070050;
         public static final int abc_textfield_search_material = 0x7f070051;
-        public static final int design_fab_background = 0x7f0700a5;
-        public static final int design_snackbar_background = 0x7f0700a6;
-        public static final int notification_template_icon_bg = 0x7f070189;
+        public static final int design_fab_background = 0x7f0700a7;
+        public static final int design_snackbar_background = 0x7f0700a8;
+        public static final int notification_template_icon_bg = 0x7f07018e;
     }
     public static final class id {
         public static final int action0 = 0x7f080003;

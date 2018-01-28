@@ -4,7 +4,7 @@
 
     <item
         android:id="@android:id/mask"
-        android:drawable="@drawable/social_imagebutton"/>
-    <item android:drawable="@drawable/social_imagebutton"/>
+        android:drawable="@drawable/social_imagebutton_resized"/>
+    <item android:drawable="@drawable/social_imagebutton_resized"/>
 
 </ripple>

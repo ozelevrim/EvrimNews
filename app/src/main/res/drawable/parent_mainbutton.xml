@@ -4,7 +4,7 @@
 
     <item
         android:id="@android:id/mask"
-        android:drawable="@drawable/parent_imagebutton"/>
-    <item android:drawable="@drawable/parent_imagebutton"/>
+        android:drawable="@drawable/parent_imagebutton_resized"/>
+    <item android:drawable="@drawable/parent_imagebutton_resized"/>
 
 </ripple>

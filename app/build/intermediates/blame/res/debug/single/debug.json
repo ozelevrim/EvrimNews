@@ -172,6 +172,10 @@
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/93feb45a90776c6cbb25101d21837f27/res/layout/mr_controller_material_dialog_b.xml"
     },
     {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_blog_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/blog_imagebutton_resized.png"
+    },
+    {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_esm.png.flat",
         "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/esm.png"
     },
@@ -202,6 +206,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/9a27f87ffa4c87767462848b41cdfb0a/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_mezun_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/mezun_imagebutton_resized.png"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
@@ -274,6 +282,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/0753c7ea639ef96376187a55df071e62/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_gorusler_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/gorusler_imagebutton_resized.png"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_cast_album_art_placeholder.png.flat",
@@ -734,6 +746,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/0753c7ea639ef96376187a55df071e62/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/anim_animation.xml.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/anim/animation.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_ic_person_black_24dp.xml.flat",
@@ -1598,6 +1614,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/a7bd8988da9632e2be8471cc1406c0ab/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_parent_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/parent_imagebutton_resized.png"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -2586,6 +2606,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/a7bd8988da9632e2be8471cc1406c0ab/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_basari_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/basari_imagebutton_resized.png"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_forward_30_grey600_36.png.flat",
@@ -4600,6 +4624,10 @@
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/0753c7ea639ef96376187a55df071e62/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_food_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/food_imagebutton_resized.png"
+    },
+    {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connected_16_light.png.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/93feb45a90776c6cbb25101d21837f27/res/drawable-xxhdpi-v4/ic_mr_button_connected_16_light.png"
     },
@@ -4670,6 +4698,10 @@
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/9accb5e61fa8742c3f9e5816bcce5a24/res/drawable-hdpi-v4/quantum_ic_stop_grey600_36.png"
+    },
+    {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_social_imagebutton_resized.png.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable/social_imagebutton_resized.png"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",

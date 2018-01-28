@@ -4,7 +4,7 @@
 
     <item
         android:id="@android:id/mask"
-        android:drawable="@drawable/gorusler_imagebutton"/>
-    <item android:drawable="@drawable/gorusler_imagebutton"/>
+        android:drawable="@drawable/gorusler_imagebutton_resized"/>
+    <item android:drawable="@drawable/gorusler_imagebutton_resized"/>
 
 </ripple>

@@ -42,6 +42,8 @@ public class Main2Activity extends AppCompatActivity
         ab.setTitle("EvrimNews");
         ab.setSubtitle("Özel Evrim Okulları");
 
+
+
     }
 
     public void OpenTarihcemiz(View v) {
