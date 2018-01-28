@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/side_nav_bar">
+    android:background="@drawable/side_nav_bar"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
 
     <RelativeLayout
@@ -23,7 +28,6 @@
             android:layout_width="match_parent"
             android:layout_height="130dp"
             android:src="@drawable/evrim"
-            android:layout_above="@+id/welcome_messgae"
             android:layout_alignParentStart="true"
             android:layout_marginBottom="39dp" />
 
@@ -58,5 +62,6 @@
         </LinearLayout>
     </RelativeLayout>
 
+    </RelativeLayout>
 
-</RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

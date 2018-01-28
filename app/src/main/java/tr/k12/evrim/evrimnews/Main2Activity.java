@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -16,10 +17,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ListView;
+import android.widget.Toast;
 
 
 public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private static final int TIME_DELAY = 2000;
+    private static long back_pressed;
 
 
     @Override
@@ -86,6 +91,7 @@ public class Main2Activity extends AppCompatActivity
         startActivity(intent);
     }
 
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -94,7 +100,11 @@ public class Main2Activity extends AppCompatActivity
         } else {
             super.onBackPressed();
         }
-    }
+
+
+
+        }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
