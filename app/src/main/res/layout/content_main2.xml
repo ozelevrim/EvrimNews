@@ -1,17 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="tr.k12.evrim.evrimnews.Main2Activity"
-    tools:showIn="@layout/app_bar_main2">
+    tools:showIn="@layout/app_bar_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
 
 
 
 
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
 
-</LinearLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/tarihcemiz_mainbutton"
+                android:text="Tarihçemiz"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenTarihcemiz"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/food_mainbutton"
+                android:text="Aylık Yemek
+Menüleri"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenAylikYemek"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/parent_mainbutton"
+                android:text="Veli Görüşme
+Günleri"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenVeliGorusme"/>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/basari_mainbutton"
+                android:text="Başarılarımız"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:onClick="OpenBasarilarimiz"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/mezun_mainbutton"
+                android:text="Mezunlarımız"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenMezunlarimiz"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/gorusler_mainbutton"
+                android:text="Görüşler"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenGorusler"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/social_mainbutton"
+                android:text="Sosyal
+Evrim"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenSosyal"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/blog_mainbutton"
+                android:text="Duyurular / Blog"
+                android:textColor="@color/White"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:onClick="OpenDuyurular"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -9,6 +9,11 @@
         android:icon="@drawable/ic_account_circle_black_24dp"
         android:title="Giriş Yap" />
 
+    <item
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Mesajlar" />
+
     <item android:title="Okulumuzu Tanıyın">
         <menu>
     <group>

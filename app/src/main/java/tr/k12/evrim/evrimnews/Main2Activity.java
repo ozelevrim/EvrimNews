@@ -1,6 +1,7 @@
 package tr.k12.evrim.evrimnews;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -21,8 +22,6 @@ public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,6 +37,53 @@ public class Main2Activity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        android.support.v7.app.ActionBar ab = getSupportActionBar();
+        ab.setTitle("EvrimNews");
+        ab.setSubtitle("Özel Evrim Okulları");
+
+
+
+    }
+
+    public void OpenTarihcemiz(View v) {
+        Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
+        startActivity(intent);
+    }
+
+    public void OpenAylikYemek(View v) {
+        Intent intent = new Intent(getApplicationContext(), AylikYemekMenuleri.class);
+        startActivity(intent);
+    }
+
+    public void OpenVeliGorusme(View v) {
+        Intent intent = new Intent(getApplicationContext(), VeliGorusmeGunleri.class);
+        startActivity(intent);
+    }
+
+    public void OpenBasarilarimiz(View v) {
+        Intent intent = new Intent(getApplicationContext(), basarilarimiz.class);
+        startActivity(intent);
+    }
+
+    public void OpenMezunlarimiz(View v) {
+        Intent intent = new Intent(getApplicationContext(), Mezunlarimiz.class);
+        startActivity(intent);
+    }
+
+    public void OpenGorusler(View v) {
+        Intent intent = new Intent(getApplicationContext(), Gorusler.class);
+        startActivity(intent);
+    }
+
+    public void OpenSosyal(View v) {
+        Intent intent = new Intent(getApplicationContext(), SosyalEvrim.class);
+        startActivity(intent);
+    }
+
+    public void OpenDuyurular(View v) {
+        Intent intent = new Intent(getApplicationContext(), Duyurular.class);
+        startActivity(intent);
     }
 
     @Override
@@ -62,21 +108,20 @@ public class Main2Activity extends AppCompatActivity
 
 
 
+
+
+
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
+
+
         int id = item.getItemId();
 
 
 
+
         //noinspection SimplifiableIfStatement
-        if (id == R.id.dark_mode) {
-
-
-
-
-            return true;
-        }
 
         if (id == R.id.feedback_button) {
 
@@ -85,6 +130,22 @@ public class Main2Activity extends AppCompatActivity
 
 
             return true;
+        }
+
+        if (id == R.id.dark_mode) {
+
+            switch (item.getItemId()) {
+                case R.id.dark_mode:
+                    if (item.isChecked()) {
+// If item already checked then unchecked it
+                        item.setChecked(false);
+                    } else {
+// If item is unchecked then checked it
+                        item.setChecked(true);
+                    }
+                default:
+                    return super.onOptionsItemSelected(item);
+            }
         }
 
         if (id == R.id.about_button) {
@@ -106,6 +167,9 @@ public class Main2Activity extends AppCompatActivity
         }
 
         return super.onOptionsItemSelected(item);
+
+
+
     }
 
     @SuppressWarnings("StatementWithEmptyBody")
@@ -123,7 +187,7 @@ public class Main2Activity extends AppCompatActivity
         } else if (id == R.id.nav_kadromuz) {
 
             Intent intent = new Intent(getApplicationContext(), Kadromuz.class);
-                startActivity(intent);
+            startActivity(intent);
 
         } else if (id == R.id.nav_ortaklarımız) {
 
@@ -150,7 +214,6 @@ public class Main2Activity extends AppCompatActivity
 
             Intent intent = new Intent(getApplicationContext(), iletisim.class);
             startActivity(intent);
-
 
 
         } else if (id == R.id.nav_blog) {
@@ -183,37 +246,34 @@ public class Main2Activity extends AppCompatActivity
             startActivity(intent);
 
 
-        }
+        } else if (id == R.id.nav_kurucu_temsilcisi) {
 
-     else if (id == R.id.nav_kurucu_temsilcisi) {
-
-        Intent intent = new Intent(getApplicationContext(), Kurucu_temsilcisi.class);
-        startActivity(intent);
+            Intent intent = new Intent(getApplicationContext(), Kurucu_temsilcisi.class);
+            startActivity(intent);
 
 
-    }
-
-        else if (id == R.id.nav_gorusler) {
+        } else if (id == R.id.nav_gorusler) {
 
             Intent intent = new Intent(getApplicationContext(), Gorusler.class);
             startActivity(intent);
 
 
-        }
-
-        else if (id == R.id.nav_tarihcemiz) {
+        } else if (id == R.id.nav_tarihcemiz) {
 
             Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
             startActivity(intent);
 
 
+        } else if (id == R.id.nav_messages) {
+
         }
-
-
 
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
-    }
+
+
+
+}
 }
