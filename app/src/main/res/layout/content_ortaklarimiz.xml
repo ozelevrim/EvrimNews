@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,97 +8,11 @@
     tools:context="tr.k12.evrim.evrimnews.Ortaklarimiz"
     tools:showIn="@layout/activity_ortaklarimiz">
 
-    <RelativeLayout
+    <WebView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="10dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp">
+        android:id="@+id/webviewortak">
 
-        <RelativeLayout
-            android:id="@+id/ortak1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+    </WebView>
 
-
-
-            <TextView
-                android:id="@+id/textviewortak2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="5dp"
-                android:gravity="left"
-                android:text="Siena Üniversitesi"
-                android:textSize="27sp"
-                android:textStyle="bold" />
-
-
-            <Button
-                android:id="@+id/buttonortak1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/textviewortak2"
-                android:layout_marginBottom="20dp"
-                android:gravity="left"
-                android:text="1588 yılında İtalyanca öğretimine Alman öğrencilere yapılan derslerle başlayan Siena Üniversitesi, 1917 yılından beri düzenli olarak İtalyanca eğitimi vermeyi sürdürerek, İtalya’nın birliğini tamamlamasından sonraki ilk dil kurslarını düzenleyen kurum olmuştur. Siena Üniversitesi Avrupa Konseyi tarafından desteklenmekte ve İtalyanca dili yeterlilik belgesi olan CILS sınavını organize etmektedir."
-                android:textAllCaps="false" />
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/ortak2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/ortak1"
-            android:layout_marginBottom="20dp">
-
-            <TextView
-                android:id="@+id/ortak1text"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="left"
-                android:text="Reggio Children"
-                android:textSize="27sp"
-                android:textStyle="bold" />
-
-            <Button
-                android:id="@+id/ortak1button"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/ortak1text"
-                android:text="Reggio Children 1994 yılında kurulduğundan beri çocuklara yönelik kurumlarda çalışan tüm dünyadan sayısız öğretmen ve araştırmacının kültürel ve didaktik alışverişleri için çalışmaktadır."
-                android:textAllCaps="false"
-                android:gravity="left"/>
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/ortak2">
-
-
-            <TextView
-                android:id="@+id/ortak3text"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="left"
-                android:text="Hocus Lotus"
-                android:textSize="27sp"
-                android:textStyle="bold" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/ortak3text"
-                android:text="Bu program, Roma Bilimler Üniversitesi’nde dil ve iletişim süreçlerinin gelişim psikolojisi üzerine çalışan Profesör Traute Taeschner tarafından kurulan ve birçok Avrupa Üniversitesi ile ortak yürütülen çalışmalarla erken yaştaki çocuklara yönelik dil öğretiminde yenilikçi bir çalışma haline gelen bir yöntemdir."
-                android:textAllCaps="false"
-                android:gravity="left"/>
-
-
-        </RelativeLayout>
-
-    </RelativeLayout>
-
-</android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>

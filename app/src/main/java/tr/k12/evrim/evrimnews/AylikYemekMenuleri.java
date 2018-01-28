@@ -13,6 +13,14 @@ public class AylikYemekMenuleri extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aylik_yemek_menuleri);
 
+        WebView webb =(WebView)findViewById(R.id.webviewaylikyemek);
+        webb.setWebViewClient(new WebViewClient());
+        webb.loadUrl("http://www.evrim.k12.tr/tr/evrim-guncel/aylik-yemek-menuleri/");
+        WebSettings webSettings = webb.getSettings();
+        webSettings.setJavaScriptEnabled(true);
+
+
+
 
         }
 
