@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/HITGIF/TextFieldBoxes.svg)](https://github.com/HITGIF/TextFieldBoxes/network)
 [![GitHub stars](https://img.shields.io/github/stars/HITGIF/TextFieldBoxes.svg)](https://github.com/HITGIF/TextFieldBoxes/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/HITGIF/TextFieldBoxes/master/LICENSE)
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 
 EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdır. Velilerin, öğrencilerin ve öğretmenlerin (kullanıcıların) Özel Evrim Okulları internet sitesinde (http://evrim.k12.tr) bulabileceklerinden daha da fazlasını bir mobil uygulama halinde ulaşmalarını sağlıyor.
