@@ -1,5 +1,8 @@
 # EvrimNews 
-[![Dependency Status](https://david-dm.org/ozelevrim/evrimnews.svg)](https://david-dm.org/ozelevrim/evrimnews.svg) [![Build](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master)](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ozelevrim/EvrimNews/issues)
+[![Dependency Status](https://david-dm.org/ozelevrim/evrimnews.svg)](https://david-dm.org/ozelevrim/evrimnews.svg) [![Build](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master)](https://api.travis-ci.org/ozelevrim/EvrimNews.svg?branch=master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ozelevrim/EvrimNews/issues) [![GitHub issues](https://img.shields.io/github/issues/HITGIF/TextFieldBoxes.svg)](https://github.com/HITGIF/TextFieldBoxes/issues)
+[![GitHub forks](https://img.shields.io/github/forks/HITGIF/TextFieldBoxes.svg)](https://github.com/HITGIF/TextFieldBoxes/network)
+[![GitHub stars](https://img.shields.io/github/stars/HITGIF/TextFieldBoxes.svg)](https://github.com/HITGIF/TextFieldBoxes/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/HITGIF/TextFieldBoxes/master/LICENSE)
 
 
 EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdır. Velilerin, öğrencilerin ve öğretmenlerin (kullanıcıların) Özel Evrim Okulları internet sitesinde (http://evrim.k12.tr) bulabileceklerinden daha da fazlasını bir mobil uygulama halinde ulaşmalarını sağlıyor.
