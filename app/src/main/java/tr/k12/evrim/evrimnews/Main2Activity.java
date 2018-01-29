@@ -5,6 +5,7 @@ import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.customtabs.CustomTabsIntent;
 import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -52,8 +53,14 @@ public class Main2Activity extends AppCompatActivity
     }
 
     public void OpenTarihcemiz(View v) {
-        Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/tarihcemiz/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenAylikYemek(View v) {
@@ -270,8 +277,14 @@ public class Main2Activity extends AppCompatActivity
 
         } else if (id == R.id.nav_tarihcemiz) {
 
-            Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/tarihcemiz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_messages) {

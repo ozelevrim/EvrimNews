@@ -122,10 +122,6 @@
             />
 
 
-        <activity android:name=".Tarihcemiz"
-            android:label="Tarihçemiz"
-            android:parentActivityName="tr.k12.evrim.evrimnews.Tarihcemiz">
-        </activity>
 
 
     </application>
