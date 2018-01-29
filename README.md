@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ozelevrim/EvrimNews.svg)](https://github.com/ozelevrim/EvrimNews/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ozelevrim/EvrimNews.svg)](https://github.com/ozelevrim/EvrimNews/network)
 [![GitHub stars](https://img.shields.io/github/stars/ozelevrim/EvrimNews.svg)](https://github.com/ozelevrim/EvrimNews/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/HITGIF/TextFieldBoxes/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ozelevrim/EvrimNews/master/LICENSE)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 
