@@ -6,6 +6,11 @@
     <color name="White">#FFFFFF</color>
     <color name="Black">#000</color>
     <color name="Gray">#D6D7D7</color>
+    <color name="kampuste_hayat">#29c263</color>
+    <color name="evrim_guncel">#33b5ff</color>
+    <color name="akademik_egitim">#ff9000</color>
+    <color name="okulumuzu_taniyin">#f75843</color>
+    <color name="search">#ffcc00</color>
 
 
 

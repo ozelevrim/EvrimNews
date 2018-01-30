@@ -25,16 +25,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
 
         <!--
      ATTENTION: This was auto-generated to add Google Play services to your project for
@@ -45,84 +35,29 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".ActivityParent" />
-
-
-        <activity android:name=".ActivityTeacher" />
-
-
-        <activity android:name=".Duyurular"
-            android:label="Duyurular"/>
-
-
-        <activity android:name=".Kadromuz"
-            android:label="Kadromuz"/>
-
-
-        <activity android:name=".SosyalEvrim"
-            android:label="Sosyal Evrim"/>
-
-
+        <activity android:name=".LoginActivity" android:label="@string/title_activity_login" />
+        <activity android:name=".ActivityTeacher"/>
+        <activity android:name=".AdminActivity" android:label="Admin Panel"/>
+        <activity
+            android:name=".SosyalEvrim"
+            android:label="Sosyal Evrim" />
         <activity android:name=".NewPost" />
-
-
-        <activity android:name=".basarilarimiz"
-            android:label="Başarılarımız"
-            android:parentActivityName="tr.k12.evrim.evrimnews.basarilarimiz"/>
-
-
-        <activity android:name=".Ortaklarimiz"
-            android:label="Ortaklarımız"
-            android:parentActivityName="tr.k12.evrim.evrimnews.Ortaklarimiz"/>
-
-
         <activity
             android:name=".Main2Activity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity
             android:name=".AboutActivity"
             android:label="@string/hakkimizda"
-            android:parentActivityName="tr.k12.evrim.evrimnews.AboutActivity"
-            />
-
-        <activity android:name=".Mezunlarimiz" android:label="Mezunlarımız"
-            android:parentActivityName="tr.k12.evrim.evrimnews.Mezunlarimiz"/>
-
-
-        <activity android:name=".iletisim" android:label="İletişim"
-            android:parentActivityName="tr.k12.evrim.evrimnews.iletisim"/>
-
-
-        <activity android:name=".AylikYemekMenuleri" android:label="Aylık Yemek Menüleri"
-            android:parentActivityName="tr.k12.evrim.evrimnews.AylikYemekMenuleri"/>
-
-
-        <activity android:name=".VeliGorusmeGunleri" android:label="Veli Görüşme Günleri"
-            android:parentActivityName="tr.k12.evrim.evrimnews.CalismaTakvimi"/>
-
-
+            android:parentActivityName=".AboutActivity" />
         <activity android:name=".WelcomeActivity" />
+        <activity
+            android:name=".FeedbackActivity"
+            android:label="Geri Bildirim"
+            android:parentActivityName=".FeedbackActivity" />
 
-
-        <activity android:name=".CalismaTakvimi" android:label="Çalışma Takvimi"
-            android:parentActivityName="tr.k12.evrim.evrimnews.CalismaTakvimi"/>
-
-
-        <activity android:name=".FeedbackActivity" android:label="Geri Bildirim"
-            android:parentActivityName="tr.k12.evrim.evrimnews.FeedbackActivity"/>
-
-
-        <activity android:name=".Kurucu_temsilcisi" android:label="Kurucu Temsilcisi"
-            android:parentActivityName="tr.k12.evrim.evrimnews.Kurucu_temsilcisi"/>
-
-
-        <activity android:name=".Gorusler" android:label="Görüşler"
-            android:parentActivityName="tr.k12.evrim.evrimnews.Gorusler"
-            />
-
-
-
+        <!-- this activity enables the search dialog to initiate searches
+             in the SearchableActivity -->
 
     </application>
 

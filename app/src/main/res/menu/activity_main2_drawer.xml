@@ -7,12 +7,14 @@
     <item
         android:id="@+id/nav_signin"
         android:icon="@drawable/ic_account_circle_black_24dp"
-        android:title="Giriş Yap" />
+        android:title="Giriş Yap"
+        />
 
     <item
-        android:id="@+id/nav_messages"
-        android:icon="@drawable/ic_message_black_24dp"
-        android:title="Mesajlar" />
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Ara" />
+
 
     <item android:title="Okulumuzu Tanıyın">
         <menu>
@@ -53,6 +55,16 @@
             android:title="Görüşler" />
 
         <item
+            android:id="@+id/nav_okul_kayitlari"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Okul Kayıtları" />
+
+        <item
+            android:id="@+id/nav_insan_kaynaklari"
+            android:icon="@drawable/ic_person_add_black_24dp"
+            android:title="İnsan Kaynakları" />
+
+        <item
             android:id="@+id/nav_hakkımızda"
             android:icon="@drawable/ic_info_black_24dp"
             android:title="Hakkımızda" />
@@ -65,13 +77,28 @@
         </menu>
     </item>
 
+
+
+
+
+
+
+
+
+
+
     <group>
     <item android:title="Evrim Güncel">
         <menu>
             <item
                 android:id="@+id/nav_blog"
                 android:icon="@drawable/ic_announcement_black_24dp"
-                android:title="Duyurular/Blog" />
+                android:title="Blog"/>
+
+            <item
+                android:id="@+id/nav_duyurular"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="Duyurular"/>
 
             <item
                 android:id="@+id/nav_sosyal"
@@ -97,6 +124,78 @@
         </menu>
     </item>
     </group>
+
+    <item android:title="Akademik Eğitim">
+        <menu>
+            <group>
+
+                <item
+                    android:id="@+id/nav_egitim_projemiz"
+                    android:icon="@drawable/ic_library_books_black_24dp"
+                    android:title="Eğitim Projemiz" />
+
+                <item
+                    android:id="@+id/nav_yabanci_dil"
+                    android:icon="@drawable/ic_translate_black_24dp"
+                    android:title="Yabancı Dil" />
+
+                <item
+                    android:id="@+id/nav_ilkokul"
+                    android:icon="@drawable/ic_school_black_24dp"
+                    android:title="İlkokul" />
+
+                <item
+                    android:id="@+id/nav_ortaokul"
+                    android:icon="@drawable/ic_school_black_24dp"
+                    android:title="Ortaokul" />
+
+                <item
+                    android:id="@+id/nav_ders_katalogu"
+                    android:icon="@drawable/ic_schedule_black_24dp"
+                    android:title="Ders Kataloğu" />
+
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Kampüste Hayat">
+        <menu>
+            <group>
+
+                <item
+                    android:id="@+id/nav_kulupler"
+                    android:icon="@drawable/ic_group_work_black_24dp"
+                    android:title="Kulüpler" />
+
+                <item
+                    android:id="@+id/nav_kurslar"
+                    android:icon="@drawable/ic_note_add_black_24dp"
+                    android:title="Kurslar" />
+
+                <item
+                    android:id="@+id/nav_rehberlik_servisi"
+                    android:icon="@drawable/ic_group_black_24dp"
+                    android:title="Rehberlik Servisi" />
+
+                <item
+                    android:id="@+id/nav_kutuphane"
+                    android:icon="@drawable/ic_local_library_black_24dp"
+                    android:title="Kütüphane" />
+
+                <item
+                    android:id="@+id/nav_egitim_spor_alanlari"
+                    android:icon="@drawable/basketball"
+                    android:title="Eğitim ve Spor Alanları" />
+
+                <item
+                    android:id="@+id/nav_kampus_birimleri"
+                    android:icon="@drawable/ic_business_black_24dp"
+                    android:title="Kampüs Birimleri" />
+
+            </group>
+        </menu>
+    </item>
 
 
 

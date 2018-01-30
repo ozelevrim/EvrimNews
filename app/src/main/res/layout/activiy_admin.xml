@@ -8,15 +8,6 @@
     android:layout_marginRight="25dp"
     android:layout_marginLeft="25dp">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:gravity="center"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:text="ADMIN PANEL"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:layout_marginBottom="10dp"/>
 
 
 
@@ -26,25 +17,33 @@
         android:orientation="vertical"
         android:gravity="center">
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Firebase İstatistikleri"
+            android:onClick="FirebaseDashboard"
+            android:drawableLeft="@drawable/ic_timeline_black_24dp"/>
+
+
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-"
+            android:text="Yeni Blog Yazısı"
             android:onClick="NewBlogPost"
             android:drawableLeft="@drawable/ic_note_add_black_18dp"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-"
+            android:text="Blog Yazılarını Görüntüle"
             android:onClick="ViewBlogPost"
             android:drawableLeft="@drawable/ic_remove_red_eye_black_18dp"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-"
+            android:text="Ana Menüye Geri Dön"
             android:onClick="GoToMainScreen"
             android:drawableLeft="@drawable/ic_keyboard_arrow_left_black_18dp"/>
 

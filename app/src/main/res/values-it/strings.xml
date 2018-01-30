@@ -27,4 +27,8 @@
     <string name="share">Condividi</string>
     <string name="title_activity_ortaklarimiz">i nostri collaboratori</string>
     <string name="Hakkimizda">Chi siamo?</string>
+
+    <string name="adminButton">Admin</string>
+    <string name="veliButton">Genitore</string>
+    <string name="ogretmenButton">Insegnante</string>
 </resources>

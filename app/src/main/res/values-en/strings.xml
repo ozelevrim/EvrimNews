@@ -27,4 +27,8 @@
     <string name="share">Share</string>
     <string name="title_activity_ortaklarimiz">Our Partners</string>
     <string name="Hakkimizda">About Us</string>
+
+    <string name="adminButton">Admin</string>
+    <string name="veliButton">Parent</string>
+    <string name="ogretmenButton">Teacher</string>
 </resources>
