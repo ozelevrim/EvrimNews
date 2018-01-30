@@ -5,7 +5,9 @@ import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.customtabs.CustomTabsIntent;
 import android.support.design.widget.Snackbar;
+import android.support.v4.content.res.ResourcesCompat;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -22,9 +24,6 @@ import android.widget.Toast;
 
 public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-
-    private static final int TIME_DELAY = 2000;
-    private static long back_pressed;
 
 
     @Override
@@ -48,37 +47,85 @@ public class Main2Activity extends AppCompatActivity
         ab.setSubtitle("Özel Evrim Okulları");
 
 
-
     }
 
     public void OpenTarihcemiz(View v) {
-        Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/tarihcemiz/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenAylikYemek(View v) {
-        Intent intent = new Intent(getApplicationContext(), AylikYemekMenuleri.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/evrim-guncel/aylik-yemek-menuleri/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
+        ;
     }
 
     public void OpenVeliGorusme(View v) {
-        Intent intent = new Intent(getApplicationContext(), VeliGorusmeGunleri.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/evrim-guncel/veli-gorusme-gun-ve-saatleri/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenBasarilarimiz(View v) {
-        Intent intent = new Intent(getApplicationContext(), basarilarimiz.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/basarilarimiz/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenMezunlarimiz(View v) {
-        Intent intent = new Intent(getApplicationContext(), Mezunlarimiz.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/mezunlarimiz/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenGorusler(View v) {
-        Intent intent = new Intent(getApplicationContext(), Gorusler.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/gorusler/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
     public void OpenSosyal(View v) {
@@ -87,10 +134,20 @@ public class Main2Activity extends AppCompatActivity
     }
 
     public void OpenDuyurular(View v) {
-        Intent intent = new Intent(getApplicationContext(), Duyurular.class);
-        startActivity(intent);
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+        String url = "http://www.evrim.k12.tr/tr/evrim-guncel/blog/";
+        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+        // set toolbar color and/or setting custom actions before invoking build()
+        // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+        CustomTabsIntent customTabsIntent = builder.build();
+        builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+        builder.enableUrlBarHiding();
+        // and launch the desired Url with CustomTabsIntent.launchUrl()
+        customTabsIntent.launchUrl(this, Uri.parse(url));
     }
 
+
+    boolean doubleBackToExitPressedOnce = false;
 
     @Override
     public void onBackPressed() {
@@ -98,12 +155,27 @@ public class Main2Activity extends AppCompatActivity
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
+
+
+        if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
+            return;
         }
 
+        this.doubleBackToExitPressedOnce = true;
+        Toast.makeText(this, "Uygulamadan çıkmak için lütfen GERİ DÜĞMESİNE bir kez daha basın.", Toast.LENGTH_SHORT).show();
+
+        new Handler().postDelayed(new Runnable() {
+
+            @Override
+            public void run() {
+                doubleBackToExitPressedOnce = false;
+            }
+        }, 2000);
 
 
-        }
+    }
+}
 
 
     @Override
@@ -117,18 +189,12 @@ public class Main2Activity extends AppCompatActivity
     public boolean onOptionsItemSelected(MenuItem item) {
 
 
-
-
-
-
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
 
 
         int id = item.getItemId();
-
-
 
 
         //noinspection SimplifiableIfStatement
@@ -179,7 +245,6 @@ public class Main2Activity extends AppCompatActivity
         return super.onOptionsItemSelected(item);
 
 
-
     }
 
     @SuppressWarnings("StatementWithEmptyBody")
@@ -196,23 +261,55 @@ public class Main2Activity extends AppCompatActivity
             // Handle the camera action
         } else if (id == R.id.nav_kadromuz) {
 
-            Intent intent = new Intent(getApplicationContext(), Kadromuz.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/kadromuz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
         } else if (id == R.id.nav_ortaklarımız) {
 
-            Intent intent = new Intent(getApplicationContext(), Ortaklarimiz.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/ortaklarimiz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
         } else if (id == R.id.nav_başarılarımız) {
 
-            Intent intent = new Intent(getApplicationContext(), basarilarimiz.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/basarilarimiz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
         } else if (id == R.id.nav_mezunlarımız) {
 
-            Intent intent = new Intent(getApplicationContext(), Mezunlarimiz.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/mezunlarimiz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_hakkımızda) {
@@ -222,14 +319,30 @@ public class Main2Activity extends AppCompatActivity
 
         } else if (id == R.id.nav_iletisim) {
 
-            Intent intent = new Intent(getApplicationContext(), iletisim.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/iletisim/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_blog) {
 
-            Intent intent = new Intent(getApplicationContext(), Duyurular.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/evrim-guncel/blog/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
         } else if (id == R.id.nav_sosyal) {
 
@@ -239,51 +352,299 @@ public class Main2Activity extends AppCompatActivity
         } else if (id == R.id.nav_yemek) {
 
 
-            Intent intent = new Intent(getApplicationContext(), AylikYemekMenuleri.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/evrim-guncel/aylik-yemek-menuleri/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+            ;
 
 
         } else if (id == R.id.nav_veligorusme) {
 
 
-            Intent intent = new Intent(getApplicationContext(), VeliGorusmeGunleri.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/evrim-guncel/veli-gorusme-gun-ve-saatleri/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_calismatakvimi) {
 
-            Intent intent = new Intent(getApplicationContext(), CalismaTakvimi.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/evrim-guncel/20142015-egitim-ogretim-yili-calisma-takvimi/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_kurucu_temsilcisi) {
 
-            Intent intent = new Intent(getApplicationContext(), Kurucu_temsilcisi.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/kurucu-temsilcisi/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_gorusler) {
 
-            Intent intent = new Intent(getApplicationContext(), Gorusler.class);
-            startActivity(intent);
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/gorusler/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
         } else if (id == R.id.nav_tarihcemiz) {
 
-            Intent intent = new Intent(getApplicationContext(), Tarihcemiz.class);
-            startActivity(intent);
+                // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+                String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/tarihcemiz/";
+                CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+                // set toolbar color and/or setting custom actions before invoking build()
+                // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+                CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+                // and launch the desired Url with CustomTabsIntent.launchUrl()
+                customTabsIntent.launchUrl(this, Uri.parse(url));
+
+        } else if (id == R.id.nav_duyurular) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/evrim-guncel/duyurular/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.evrim_guncel, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+
+        } else if (id == R.id.nav_insan_kaynaklari) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/insan-kaynaklari/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+
+        } else if (id == R.id.nav_okul_kayitlari) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/kayit-bilgileri/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.okulumuzu_taniyin, null));
+            builder.enableUrlBarHiding();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+
+        } else if (id == R.id.nav_search) {
+
+        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/?s=";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.search, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_egitim_projemiz) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/akademik-egitim/egitim-projemiz/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.akademik_egitim, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_yabanci_dil) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/akademik-egitim/yabanci-dil-egitimi/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.akademik_egitim, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_ilkokul) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/akademik-egitim/ilkokul/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.akademik_egitim, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_ortaokul) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/akademik-egitim/ortaokul/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.akademik_egitim, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_ders_katalogu) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/akademik-egitim/ders-katalogu/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.akademik_egitim, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_kulupler) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/kulupler/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_kurslar) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/kurslar/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_rehberlik_servisi) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/rehberlik-servisi/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_kutuphane) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/kutuphane/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_egitim_spor_alanlari) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/egitim-ve-spor-alanlari/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_kampus_birimleri) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/kampus-birimleri/";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
+            builder.enableUrlBarHiding();
+
+            customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
-        } else if (id == R.id.nav_messages) {
+
+
+
+
+            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+            drawer.closeDrawer(GravityCompat.START);
+            return true;
+
+
+
 
         }
-
-
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
-        return true;
-
-
-
-}
+        return false;
+    }
 }

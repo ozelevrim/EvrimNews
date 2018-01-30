@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.content.Loader;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
+import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -51,13 +52,17 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         toast.show();
 
         Button buttonParent = (Button) findViewById(R.id.parentbutton);
-        buttonParent.setTextColor(R.color.Black);
+        buttonParent.setTypeface(null, Typeface.NORMAL);
+        Button bt = new Button(this);
+        bt.setTextSize(14);
 
         Button buttonAdmin = (Button) findViewById(R.id.adminbutton);
-        buttonAdmin.setTextColor(R.color.Black);
+        buttonAdmin.setTypeface(null, Typeface.NORMAL);
+        bt.setTextSize(14);
 
         Button buttonTeacher = (Button) findViewById(R.id.teacherbutton);
-        buttonTeacher.setTextColor(R.color.colorAccent);
+        buttonTeacher.setTypeface(null, Typeface.BOLD);
+        bt.setTextSize(20);
 
     }
 
@@ -71,13 +76,17 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         toast.show();
 
         Button buttonParent = (Button) findViewById(R.id.parentbutton);
-        buttonParent.setTextColor(R.color.colorAccent);
+        buttonParent.setTypeface(null, Typeface.BOLD);
+        Button bt = new Button(this);
+        bt.setTextSize(20);
 
         Button buttonAdmin = (Button) findViewById(R.id.adminbutton);
-        buttonAdmin.setTextColor(R.color.Black);
+        buttonAdmin.setTypeface(null, Typeface.NORMAL);
+        bt.setTextSize(14);
 
         Button buttonTeacher = (Button) findViewById(R.id.teacherbutton);
-        buttonTeacher.setTextColor(R.color.Black);
+        buttonTeacher.setTypeface(null, Typeface.NORMAL);
+        bt.setTextSize(14);
 
 
 
@@ -93,13 +102,19 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         toast.show();
 
         Button buttonParent = (Button) findViewById(R.id.parentbutton);
-        buttonParent.setTextColor(R.color.Black);
+        buttonParent.setTypeface(null, Typeface.NORMAL);
+        Button bt = new Button(this);
+        bt.setTextSize(14);
+
 
         Button buttonAdmin = (Button) findViewById(R.id.adminbutton);
-        buttonAdmin.setTextColor(R.color.colorAccent);
+        buttonAdmin.setTypeface(null, Typeface.BOLD);
+        bt.setTextSize(20);
+
 
         Button buttonTeacher = (Button) findViewById(R.id.teacherbutton);
-        buttonTeacher.setTextColor(R.color.Black);
+        buttonTeacher.setTypeface(null, Typeface.NORMAL);
+        bt.setTextSize(14);
 
     }
 
