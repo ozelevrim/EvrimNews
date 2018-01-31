@@ -45,4 +45,35 @@
     <string name="gorusler">Opinioni</string>
     <string name="sosyal_evrim">Evrim Sociale</string>
     <string name="blog">Blog</string>
+    <string name="search">Cerca</string>
+
+
+    <string name="kadromuz">Il Nostro Staff</string>
+    <string name="ortaklarimiz">I Nostri Partner</string>
+    <string name="kurucu_temsilcisi">Rappresentante Fondatore</string>
+    <string name="okul_kayitlari">Registrazione della scuola</string>
+    <string name="insan_kaynaklari">Risorse umane</string>
+    <string name="iletisim">Contatto</string>
+    <string name="duyurular">Annunci</string>
+    <string name="calisma_takvimi">Calendario di lavoro</string>
+    <string name="egitim_projemiz">Il Nostro Progetto di Formazione</string>
+    <string name="yabanci_dil">Lingua Straniera</string>
+    <string name="ilkokul">Scuola Elementare</string>
+    <string name="ortaokul">Scuola Secondaria</string>
+    <string name="ders_katalogu">Catalogo dei lezioni</string>
+
+    <string name="kulupler">Club</string>
+    <string name="kurslar">Corsi</string>
+    <string name="rehberlik_servisi">Servizio di orientamento</string>
+    <string name="kutuphane">Biblioteca</string>
+    <string name="egitim_spor_alanlari">Istruzione e Aree Sportive</string>
+    <string name="kampus_birimleri">Unità Campus</string>
+
+    <string name="okulumuzu_taniyin">La Nostra Scuola</string>
+    <string name="evrim_guncel">Aggiornamenti di Evrim</string>
+    <string name="kampuste_hayat">Vita nella Scuola</string>
+    <string name="akademik_egitim">Insegnamento Academico</string>
+
+    <string name="ozelevrim">Scuole Privata Evrim</string>
+
 </resources>

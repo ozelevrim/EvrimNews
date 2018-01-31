@@ -1,7 +1,9 @@
 package tr.k12.evrim.evrimnews;
 
+import android.app.ActionBar;
 import android.content.Intent;
 import android.graphics.Color;
+import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
@@ -44,10 +46,20 @@ public class Main2Activity extends AppCompatActivity
 
         android.support.v7.app.ActionBar ab = getSupportActionBar();
         ab.setTitle("EvrimNews");
-        ab.setSubtitle("Özel Evrim Okulları");
+        ab.setSubtitle(R.string.ozelevrim);
+
+        android.support.v7.app.ActionBar actionbar = getSupportActionBar();
+        actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
 
 
     }
+
+
+
+
+
+
+
 
     public void OpenTarihcemiz(View v) {
         // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
@@ -245,13 +257,7 @@ public class Main2Activity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_signin) {
-
-            Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
-            startActivity(intent);
-
-            // Handle the camera action
-        } else if (id == R.id.nav_kadromuz) {
+        if (id == R.id.nav_kadromuz) {
 
             // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
             String url = "http://www.evrim.k12.tr/tr/okulumuzu-taniyin/kadromuz/";
