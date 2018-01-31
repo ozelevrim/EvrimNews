@@ -59,11 +59,6 @@
             android:title="@string/insan_kaynaklari" />
 
         <item
-            android:id="@+id/nav_hakkımızda"
-            android:icon="@drawable/ic_info_black_24dp"
-            android:title="@string/about" />
-
-        <item
             android:id="@+id/nav_iletisim"
             android:icon="@drawable/ic_location_on_black_24dp"
             android:title="@string/iletisim" />

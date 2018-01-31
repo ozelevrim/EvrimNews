@@ -7,10 +7,6 @@
         android:checkable="true" />
 
     <item
-        android:title="@string/about"
-        android:id="@+id/about_button" />
-
-    <item
         android:title="@string/open_source_licenses"
         android:id="@+id/open_source_button"/>
 </menu>

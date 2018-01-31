@@ -228,14 +228,6 @@ public class Main2Activity extends AppCompatActivity
             }
         }
 
-        if (id == R.id.about_button) {
-
-            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
-            startActivity(intent);
-
-
-            return true;
-        }
 
         if (id == R.id.open_source_button) {
 
@@ -309,11 +301,6 @@ public class Main2Activity extends AppCompatActivity
             // and launch the desired Url with CustomTabsIntent.launchUrl()
             customTabsIntent.launchUrl(this, Uri.parse(url));
 
-
-        } else if (id == R.id.nav_hakkımızda) {
-
-            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
-            startActivity(intent);
 
         } else if (id == R.id.nav_iletisim) {
 

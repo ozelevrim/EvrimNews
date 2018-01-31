@@ -1792,10 +1792,6 @@
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/res/drawable-xxxhdpi-v4/ic_mr_button_grey.png"
     },
     {
-        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
-        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/layout/activity_about.xml"
-    },
-    {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/c039775693e2cada383154e44dea7a2a/res/layout/design_navigation_item_separator.xml"
     },
