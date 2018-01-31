@@ -81,6 +81,22 @@
     <string name="adminButton">Yönetici</string>
     <string name="veliButton">Veli</string>
     <string name="ogretmenButton">Öğretmen</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="dark_mode">Koyu Arayüz</string>
+    <string name="about">Hakkında</string>
+    <string name="open_source_licenses">Açık Kaynak Lisanslar</string>
+
+    <string name="tarihcemiz">Tarihçemiz</string>
+    <string name="aylik_yemek">Aylık Yemek Menüleri</string>
+    <string name="veli_gorusme">Veli Görüşme Günleri</string>
+    <string name="basarilarimiz">Başarılarımız</string>
+    <string name="mezunlarimiz">Mezunlarımız</string>
+    <string name="gorusler">Görüşler</string>
+    <string name="sosyal_evrim">Sosyal Evrim</string>
+    <string name="blog">Blog</string>
+
+
+
 
 
 </resources>

@@ -51,10 +51,6 @@
             android:label="@string/hakkimizda"
             android:parentActivityName=".AboutActivity" />
         <activity android:name=".WelcomeActivity" />
-        <activity
-            android:name=".FeedbackActivity"
-            android:label="Geri Bildirim"
-            android:parentActivityName=".FeedbackActivity" />
 
         <!-- this activity enables the search dialog to initiate searches
              in the SearchableActivity -->

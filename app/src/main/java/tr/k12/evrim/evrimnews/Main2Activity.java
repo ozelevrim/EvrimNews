@@ -199,14 +199,6 @@ public class Main2Activity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
 
-        if (id == R.id.feedback_button) {
-
-            Intent intent = new Intent(getApplicationContext(), FeedbackActivity.class);
-            startActivity(intent);
-
-
-            return true;
-        }
 
         if (id == R.id.dark_mode) {
 

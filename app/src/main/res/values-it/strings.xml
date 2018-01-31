@@ -31,4 +31,18 @@
     <string name="adminButton">Admin</string>
     <string name="veliButton">Genitore</string>
     <string name="ogretmenButton">Insegnante</string>
+    <string name="feedback">Riscontro</string>
+
+    <string name="dark_mode">Modalità Oscura</string>
+    <string name="about">Riguardo a Noi</string>
+    <string name="open_source_licenses">Licenze Open Source</string>
+
+    <string name="tarihcemiz">La Nostra Storia</string>
+    <string name="aylik_yemek">Menu Mensili</string>
+    <string name="veli_gorusme">Giornate Per i Genitori</string>
+    <string name="basarilarimiz">Il Nostro Successo</string>
+    <string name="mezunlarimiz">I Nostri Laureati</string>
+    <string name="gorusler">Opinioni</string>
+    <string name="sosyal_evrim">Evrim Sociale</string>
+    <string name="blog">Blog</string>
 </resources>

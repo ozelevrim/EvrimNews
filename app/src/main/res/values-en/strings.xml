@@ -31,4 +31,19 @@
     <string name="adminButton">Admin</string>
     <string name="veliButton">Parent</string>
     <string name="ogretmenButton">Teacher</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="about">About</string>
+    <string name="open_source_licenses">Open Source Licenses</string>
+
+    <string name="tarihcemiz">Our History</string>
+    <string name="aylik_yemek">Monthly Food Menus</string>
+    <string name="veli_gorusme">Parent Meeting Days</string>
+    <string name="basarilarimiz">Achievements</string>
+    <string name="mezunlarimiz">Our Graduates</string>
+    <string name="gorusler">Opinions</string>
+    <string name="sosyal_evrim">Social Evrim</string>
+    <string name="blog">Blog</string>
+
 </resources>
