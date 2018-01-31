@@ -4856,6 +4856,10 @@
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/res/anim/abc_slide_in_bottom.xml"
     },
     {
+        "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xhdpi_side_nav_bar_dark.xml.flat",
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/drawable-xhdpi/side_nav_bar_dark.xml"
+    },
+    {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
