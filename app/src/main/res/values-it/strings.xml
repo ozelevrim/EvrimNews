@@ -1,40 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Scuole Evrim</string>
-    <string name="action_settings">Impostazioni</string>
     <string name="action_sign_in">Registrati</string>
     <string name="action_sign_in_short">Registrati</string>
     <string name="error_field_required">Questo campo è obbligatorio</string>
     <string name="error_incorrect_password">Questa password non è corretta</string>
     <string name="error_invalid_email">Questo indirizzo e-mail non è valido</string>
     <string name="error_invalid_password">Questa password è troppo corta</string>
-    <string name="pref_default_display_name">John Smith</string>
-    <string name="pref_header_general">Generale</string>
-    <string name="pref_header_notifications">Notifiche</string>
-    <string name="pref_ringtone_silent">Silenzio</string>
-    <string name="pref_title_add_friends_to_messages">Aggiungere amici ai messaggi</string>
-    <string name="pref_title_display_name">Nome da visualizzare</string>
-    <string name="pref_title_new_message_notifications">Nuovi notifiche messaggi</string>
-    <string name="pref_title_ringtone">Suoneria</string>
-    <string name="pref_title_social_recommendations">Abilita raccomandazioni sociali</string>
-    <string name="pref_title_sync_frequency">Frequenza di sincronizzazione</string>
-    <string name="pref_title_system_sync_settings">Impostazioni di sincronizzazione del sistema</string>
     <string name="prompt_email">Indirizzo Email</string>
     <string name="prompt_password">Password</string>
     <string name="title_activity_login">Registrati</string>
-    <string name="welcome_message"></string>
     <string name="title">Titolo</string>
     <string name="share">Condividi</string>
-    <string name="title_activity_ortaklarimiz">i nostri collaboratori</string>
-    <string name="Hakkimizda">Chi siamo?</string>
 
     <string name="adminButton">Admin</string>
     <string name="veliButton">Genitore</string>
     <string name="ogretmenButton">Insegnante</string>
-    <string name="feedback">Riscontro</string>
 
     <string name="dark_mode">Modalità Oscura</string>
-    <string name="about">Riguardo a Noi</string>
     <string name="open_source_licenses">Licenze Open Source</string>
 
     <string name="tarihcemiz">La Nostra Storia</string>
