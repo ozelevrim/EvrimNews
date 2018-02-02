@@ -25,6 +25,10 @@
     <string name="veli_gorusme">Incontro Per i Genitori</string>
     <string name="basarilarimiz">I Nostri \nSuccessi</string>
     <string name="mezunlarimiz">I Nostri \nDiplomati</string>
+
+    <string name="basarilarimiz_nav">I Nostri Successi</string>
+    <string name="mezunlarimiz_nav">I Nostri Diplomati</string>
+
     <string name="gorusler">Opinioni</string>
     <string name="sosyal_evrim">Evrim Sociale</string>
     <string name="blog">Blog</string>
@@ -58,6 +62,10 @@
     <string name="akademik_egitim">Insegnamento Academico</string>
 
     <string name="ozelevrim">Scuole Privata Evrim</string>
+
+    <string name="help">Aiuta</string>
+    <string name="settings">Impostazioni</string>
+    <string name="about">Informazioni su app</string>
 
 
 </resources>

@@ -75,7 +75,7 @@ public class Main2Activity extends AppCompatActivity
         android.support.v7.app.ActionBar actionbar = getSupportActionBar();
         actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
 
-        getWindow().setStatusBarColor(Color.parseColor("#60111111"));
+        getWindow().setStatusBarColor(Color.parseColor("#50111111"));
 
 
 

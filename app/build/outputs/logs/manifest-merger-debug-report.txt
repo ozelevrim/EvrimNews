@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 MERGED from [com.github.HITGIF:TextFieldBoxes:1.3.8] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/TextFieldBoxes-1.3.8.aar/909248ce090cf0e55a380c4710fe3097/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/1dcdcf353e9c07ca5bbb28a8f9bbd181/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/a3ae003d514ba03c6175a36e51526ea6/AndroidManifest.xml:2:1-8:12
@@ -17,10 +17,6 @@ MERGED from [com.android.support:design:27.0.1] /Users/ardacebi/.gradle/caches/t
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d9c27a3c7a87707e30f112270c39505/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/faf7f44bed9f339ce6cccc061d9314fb/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:2:1-14:12
-MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/ba28afff8e611ea5c5395e0203bad3da/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/b5dd64d11c592ebd824813b59665ba81/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/dc82df0d45775e3244b2ae0fcd471085/AndroidManifest.xml:17:1-22:12
@@ -39,6 +35,8 @@ MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Users/
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/5e13068c2efb449ed5075c1fb58bc0db/AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/803c5270c3d1db510e6d8589e9ce2fb7/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/693e9e97ecec84169d042cc660bf0dfe/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/32b8195c10a0f7182dd3a996e01c378d/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-games:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/ebbcb50204a7d0337b0ada79561babb4/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-drive:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/2d4c75b8e4f3e4b35131f3223be6d0c3/AndroidManifest.xml:17:1-24:12
@@ -65,6 +63,9 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardace
 MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/80c83aff4448dc76f177d106997ea82a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/ff365e8612143a363493052c4deddaa1/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/3bac4458bcacdf27abbf1624ad28c7c4/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/22b9750077f45d93a5591ded929f12c5/AndroidManifest.xml:2:1-6:12
@@ -73,13 +74,12 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/ardacebi/.
 MERGED from [com.android.support:recyclerview-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/d265b9f57c9d31154164f9a3769c153c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/52ed68b2af7c5fc296839e4267ce50c6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:palette-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/2a48ae6dd685f075306fa989885957b0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-v4:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/dfe868194784ae3735767e44c5d83a14/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ed4d61084f96a4f74f0c522ae882a032/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/3a6d7af86923c2f187d02f2917c9eedc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/c09e497e20fbdd7d482f8b459b2f7948/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ac36c421703e740fc2c0bae085c8aa99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/7dfe9819b052f3c5ce1b7fd7dc78c4ff/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/d083915a197780abeb95784c66c2bb94/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/63bef136655bc6aca9f9f62db76d6d92/AndroidManifest.xml:2:1-6:12
@@ -127,20 +127,20 @@ MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/
 MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/48ad87a37407c7bb202a3c0612c22c07/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/3506a5d0d5f37fb9617dd4b1bfab13cd/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e83580ed08473231c3dfc500499acbd8/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
-INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-72:12
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:11-69
@@ -206,18 +206,8 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardace
 MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/17ab2c77c642010e54379f669b6d658c/AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:10:22-76
-uses-permission#android.permission.USE_FINGERPRINT
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:11:5-12:61
-	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:9-58
-uses-feature#android.hardware.fingerprint
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:13:5-14:35
-	android:required
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:14:9-33
-	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:13:19-62
 application
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:18:5-70:19
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:12:5-76:19
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/1dcdcf353e9c07ca5bbb28a8f9bbd181/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/1dcdcf353e9c07ca5bbb28a8f9bbd181/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/63cb84f8117745049a63453fb5644615/AndroidManifest.xml:22:5-35:19
@@ -234,12 +224,6 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/arda
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d9c27a3c7a87707e30f112270c39505/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/faf7f44bed9f339ce6cccc061d9314fb/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/faf7f44bed9f339ce6cccc061d9314fb/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:7:5-12:19
-MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:7:5-12:19
-MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/b5dd64d11c592ebd824813b59665ba81/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/b5dd64d11c592ebd824813b59665ba81/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/7054c6ca09e351c9987edcc736cb714d/AndroidManifest.xml:26:5-45:19
@@ -266,6 +250,10 @@ MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Users/
 MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/7f816f30244884340e5171b028f42bb2/AndroidManifest.xml:29:5-20
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/5e13068c2efb449ed5075c1fb58bc0db/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/5e13068c2efb449ed5075c1fb58bc0db/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/32b8195c10a0f7182dd3a996e01c378d/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/32b8195c10a0f7182dd3a996e01c378d/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-games:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/ebbcb50204a7d0337b0ada79561babb4/AndroidManifest.xml:22:5-20
@@ -312,6 +300,8 @@ MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.
 MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/80c83aff4448dc76f177d106997ea82a/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/3bac4458bcacdf27abbf1624ad28c7c4/AndroidManifest.xml:5:5-20
@@ -415,103 +405,105 @@ MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /Users/
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/3506a5d0d5f37fb9617dd4b1bfab13cd/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/3506a5d0d5f37fb9617dd4b1bfab13cd/AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:20:9-43
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:9-40
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:17:9-40
 activity#tr.k12.evrim.evrimnews.WelcomeScreen
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:24:9-33:20
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:18:9-27:20
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:26:13-45
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:19:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:27-74
 meta-data#com.google.android.gms.version
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:39:9-41:69
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:33:9-35:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:13-66
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:35:13-66
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:40:13-58
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:34:13-58
 activity#tr.k12.evrim.evrimnews.ActivityParent
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:43:9-52
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:37:9-52
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:43:19-49
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:37:19-49
 activity#tr.k12.evrim.evrimnews.LoginActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:9-96
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:38:9-40:60
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:49-93
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:40:13-57
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:19-48
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:39:13-42
 activity#tr.k12.evrim.evrimnews.ActivityTeacher
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:45:9-52
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:9-53
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:45:19-50
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:19-50
 activity#tr.k12.evrim.evrimnews.AdminActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:9-78
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:42:9-44:43
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:49-76
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:13-40
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:19-48
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:43:13-42
 activity#tr.k12.evrim.evrimnews.SosyalEvrim
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:47:9-49:44
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:45:9-47:44
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:49:13-41
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:47:13-41
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:13-40
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:13-40
 activity#tr.k12.evrim.evrimnews.NewPost
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:50:9-45
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:9-45
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:50:19-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:19-42
 activity#tr.k12.evrim.evrimnews.Main2Activity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:51:9-62:20
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:49:9-66:20
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:53:13-45
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:51:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:13-56
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:52:13-56
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:52:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:50:13-42
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:55:13-61:29
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:53:13-65:29
 action#android.intent.action.VIEW
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:17-68
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:17-69
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:25-66
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:25-66
 data
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:17-74
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:17-58:45
 	android:host
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:23-50
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:21-48
 	android:scheme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:51-72
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:58:21-42
 category#android.intent.category.DEFAULT
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:59:17-75
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:17-76
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:59:27-73
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:60:17-77
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:17-78
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:60:27-75
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:27-75
 activity#tr.k12.evrim.evrimnews.WelcomeActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:9-53
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:9-69:61
+	android:theme
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:69:13-58
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:65:19-50
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:68:13-44
 uses-sdk
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
@@ -542,14 +534,6 @@ MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/cac
 MERGED from [com.android.support:cardview-v7:24.2.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/faf7f44bed9f339ce6cccc061d9314fb/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/ba28afff8e611ea5c5395e0203bad3da/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/ba28afff8e611ea5c5395e0203bad3da/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-config:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/b5dd64d11c592ebd824813b59665ba81/AndroidManifest.xml:20:5-44
@@ -586,6 +570,10 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/803c5270c3d1db510e6d8589e9ce2fb7/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/693e9e97ecec84169d042cc660bf0dfe/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/693e9e97ecec84169d042cc660bf0dfe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/75b5183a9b13f391a4ebb56a61612171/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/32b8195c10a0f7182dd3a996e01c378d/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/32b8195c10a0f7182dd3a996e01c378d/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-games:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/ebbcb50204a7d0337b0ada79561babb4/AndroidManifest.xml:20:5-44
@@ -638,6 +626,12 @@ MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/ardacebi
 MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/ff365e8612143a363493052c4deddaa1/AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/2f15a695b63d950f200769036a06259e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/ac4227cead1939c89f38d95a93917a14/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/3bac4458bcacdf27abbf1624ad28c7c4/AndroidManifest.xml:4:5-43
@@ -654,20 +648,18 @@ MERGED from [com.android.support:transition:27.0.1] /Users/ardacebi/.gradle/cach
 MERGED from [com.android.support:transition:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/52ed68b2af7c5fc296839e4267ce50c6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:palette-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/2a48ae6dd685f075306fa989885957b0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:palette-v7:25.2.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/2a48ae6dd685f075306fa989885957b0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/dfe868194784ae3735767e44c5d83a14/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/dfe868194784ae3735767e44c5d83a14/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ed4d61084f96a4f74f0c522ae882a032/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/ed4d61084f96a4f74f0c522ae882a032/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/3a6d7af86923c2f187d02f2917c9eedc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/3a6d7af86923c2f187d02f2917c9eedc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/c09e497e20fbdd7d482f8b459b2f7948/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/c09e497e20fbdd7d482f8b459b2f7948/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ac36c421703e740fc2c0bae085c8aa99/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ac36c421703e740fc2c0bae085c8aa99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/7dfe9819b052f3c5ce1b7fd7dc78c4ff/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/7dfe9819b052f3c5ce1b7fd7dc78c4ff/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/d083915a197780abeb95784c66c2bb94/AndroidManifest.xml:4:5-43
@@ -802,18 +794,6 @@ ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/ardacebi/.gradle/ca
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/4f1559f8c5e39f5531fc3ac26d7f0cb4/AndroidManifest.xml:29:13-72
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/4f1559f8c5e39f5531fc3ac26d7f0cb4/AndroidManifest.xml:24:13-85
-receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:8:9-100
-	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:8:19-97
-service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:10:9-104
-	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:10:18-101
-service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:11:9-93
-	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:11:18-90
 service#com.google.android.gms.tagmanager.TagManagerService
 ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/7054c6ca09e351c9987edcc736cb714d/AndroidManifest.xml:27:9-30:40
 	android:enabled
@@ -1022,6 +1002,18 @@ ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.g
 		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/5e13068c2efb449ed5075c1fb58bc0db/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/5e13068c2efb449ed5075c1fb58bc0db/AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a241bb8fc676fa0ee367d7d496d02eda/AndroidManifest.xml:11:18-90
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/eabfe1c79740d695f2192ff006ff600c/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion

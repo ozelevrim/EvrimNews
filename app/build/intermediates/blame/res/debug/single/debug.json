@@ -1,7 +1,7 @@
 [
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_lines_media.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connected_09_dark.png.flat",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_big_media.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -2145,7 +2145,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_media_custom.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_cast_ic_notification_1.png.flat",
@@ -3009,7 +3009,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_media_cancel_action.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connecting_05_dark.png.flat",
@@ -3461,7 +3461,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_media.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connecting_03_light.png.flat",
@@ -3493,7 +3493,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_big_media_custom.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_mr_button_connected_light.xml.flat",
@@ -4337,7 +4337,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_big_media_narrow_custom.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_media_pause_light.png.flat",
@@ -4745,7 +4745,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_template_big_media_narrow.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
@@ -4825,7 +4825,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/296f3f2c22588c4c43eb7a96312c8c4d/res/layout/notification_media_action.xml"
+        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_replay_30_white_36.png.flat",

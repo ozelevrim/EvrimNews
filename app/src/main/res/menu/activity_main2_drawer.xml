@@ -36,12 +36,12 @@
         <item
             android:id="@+id/nav_başarılarımız"
             android:icon="@drawable/ic_trophy"
-            android:title="@string/basarilarimiz" />
+            android:title="@string/basarilarimiz_nav" />
 
         <item
             android:id="@+id/nav_mezunlarımız"
             android:icon="@drawable/ic_school_black_24dp"
-            android:title="@string/mezunlarimiz" />
+            android:title="@string/mezunlarimiz_nav" />
 
         <item
             android:id="@+id/nav_gorusler"
@@ -187,6 +187,24 @@
     </item>
 
 
+    <group android:id="@+id/grouplatest">
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/settings" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:title="@string/help" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="@string/about" />
+    </group>
+
+
 
 
 </menu>
+
+
