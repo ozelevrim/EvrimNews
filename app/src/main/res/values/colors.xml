@@ -9,6 +9,7 @@
     <color name="akademik_egitim">#ff9000</color>
     <color name="okulumuzu_taniyin">#f75843</color>
     <color name="search">#ffcc00</color>
+    <color name="transparent">#00FFFFFF</color>
 
 
     <!-- Screens background color-->

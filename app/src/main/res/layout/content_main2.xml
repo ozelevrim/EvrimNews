@@ -10,8 +10,7 @@
     android:paddingTop="10dp"
     android:paddingRight="10dp"
     android:paddingLeft="10dp"
-    android:paddingBottom="10dp"
-    android:fitsSystemWindows="true">
+    android:paddingBottom="10dp">
 
 
     <LinearLayout
@@ -107,7 +106,7 @@
                 android:textColor="@color/White"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:onClick="OpenMezunlarimiz"/>
+                android:onClick="OpenMezunlarimiz" />
 
 
         </LinearLayout>

@@ -277,7 +277,7 @@
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
-        "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/c039775693e2cada383154e44dea7a2a/res/layout/design_navigation_menu_item.xml"
+        "source": "/Users/ardacebi/Github/EvrimNews/app/src/main/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/res/merged/debug/drawable_earth.png.flat",

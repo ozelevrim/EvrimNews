@@ -34,11 +34,25 @@ public class Main2Activity extends AppCompatActivity
 
 
 
+    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
+    public static void setStatusBarGradiant(Activity activity) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            Window window = activity.getWindow();
+            Drawable background = activity.getResources().getDrawable(R.drawable.side_nav_bar);
+            window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
+            window.setStatusBarColor(activity.getResources().getColor(R.color.transparent));
+            window.setNavigationBarColor(activity.getResources().getColor(R.color.transparent));
+            window.setBackgroundDrawable(background);
+        }
+    }
+
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
 
 
         setContentView(R.layout.activity_main2);
@@ -60,6 +74,8 @@ public class Main2Activity extends AppCompatActivity
 
         android.support.v7.app.ActionBar actionbar = getSupportActionBar();
         actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
+
+        getWindow().setStatusBarColor(Color.parseColor("#60111111"));
 
 
 
@@ -233,6 +249,14 @@ public class Main2Activity extends AppCompatActivity
                     } else {
 // If item is unchecked then checked it
                         item.setChecked(true);
+
+                        setTheme(android.R.style.ThemeOverlay_Material_Dark); // THIS IS WHERE THE THEME IS SET -- must go before super.onCreate()
+
+                        Intent i = getBaseContext().getPackageManager()
+                                .getLaunchIntentForPackage( getBaseContext().getPackageName() );
+                        i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                        startActivity(i);
+
                     }
                 default:
                     return super.onOptionsItemSelected(item);
