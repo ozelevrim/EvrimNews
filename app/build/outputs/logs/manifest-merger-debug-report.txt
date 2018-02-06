@@ -414,90 +414,98 @@ MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /User
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#asset_statements
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:18:9-20:59
+	android:resource
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:19:13-44
 activity#tr.k12.evrim.evrimnews.WelcomeScreen
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:18:9-27:20
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:21:9-30:20
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:21:13-56
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:24:13-56
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:19:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:22:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:28:27-74
 meta-data#com.google.android.gms.version
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:33:9-35:69
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:36:9-38:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:35:13-66
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:38:13-66
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:34:13-58
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:37:13-58
 activity#tr.k12.evrim.evrimnews.ActivityParent
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:37:9-52
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:40:9-52
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:37:19-49
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:40:19-49
 activity#tr.k12.evrim.evrimnews.LoginActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:38:9-40:60
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:9-43:60
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:40:13-57
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:43:13-57
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:39:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:42:13-42
 activity#tr.k12.evrim.evrimnews.ActivityTeacher
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:9-53
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:9-53
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:41:19-50
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:19-50
 activity#tr.k12.evrim.evrimnews.AdminActivity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:42:9-44:43
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:45:9-47:43
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:44:13-40
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:47:13-40
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:43:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:13-42
 activity#tr.k12.evrim.evrimnews.SosyalEvrim
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:45:9-47:44
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:9-50:44
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:47:13-41
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:50:13-41
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:46:13-40
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:49:13-40
 activity#tr.k12.evrim.evrimnews.NewPost
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:9-45
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:51:9-45
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:48:19-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:51:19-42
 activity#tr.k12.evrim.evrimnews.Main2Activity
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:49:9-66:20
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:52:9-66:20
 	android:label
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:51:13-45
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:52:13-56
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:50:13-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:53:13-42
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:53:13-65:29
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:13-65:29
+	android:autoVerify
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:28-53
 action#android.intent.action.VIEW
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:17-69
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:54:25-66
-data
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:56:17-58:45
-	android:host
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:21-48
-	android:scheme
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:58:21-42
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:57:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:17-76
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:59:17-76
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:27-73
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:59:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:17-78
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:60:17-78
 	android:name
-		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:27-75
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:60:27-75
+data
+ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:62:17-64:55
+	android:host
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:64:21-52
+	android:scheme
+		ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:63:21-42
 activity#tr.k12.evrim.evrimnews.WelcomeActivity
 ADDED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:67:9-69:61
 	android:theme

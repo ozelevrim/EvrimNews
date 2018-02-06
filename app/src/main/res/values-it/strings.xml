@@ -34,6 +34,21 @@
     <string name="blog">Blog</string>
     <string name="search">Cerca</string>
 
+    <string name="slide_1_title">EvrimNews</string>
+    <string name="slide_1_desc">EvrimNews ti fornisce tutte le informazioni che ti servono su Scuole Privata Evrim.</string>
+
+    <string name="slide_2_title">Maggiori Informazioni</string>
+    <string name="slide_2_desc">Puoi trovare molte più informazioni che puoi trovare facilmente sul nostro sito internet in questa applicazione.</string>
+
+    <string name="slide_3_title">Nuove Tecnologie</string>
+    <string name="slide_3_desc">EvrimNews, ti consente di accedere facilmente a tutte le informazioni sulla nostra scuola con le nuove tecnologie. Gli esempi includono una nuova funzione di App Linking che ti consente di accedere a questa app anziché al nostro sito web quando cerchi "Evrim" su Google.</string>
+
+    <string name="slide_4_title">Interfaccia Ridisegnata</string>
+    <string name="slide_4_desc">Con il nuovo aggiornamento di EvrimNews, EvrimNews ha un interfaccia semplice che ti consente di usarlo più facilmente. Puoi facilmente raggiungere tutto.</string>
+
+    <string name="next">PROSSIMO</string>
+    <string name="skip">SALTA</string>
+    <string name="start">CAPITO</string>
 
     <string name="kadromuz">Il Nostro Staff</string>
     <string name="ortaklarimiz">I Nostri Partner</string>
@@ -66,6 +81,12 @@
     <string name="help">Aiuta</string>
     <string name="settings">Impostazioni</string>
     <string name="about">Informazioni su app</string>
+
+    <string name="twiceexit">Premi due volte per uscire.</string>
+
+    <string name="copyrighttext">Scuole Privata Evrim (Özel Evrim Okulları), Tutti i diritti riservati © 2018</string>
+
+    <string name="developertext">Questa app è stata sviluppata da Arda Çebi.</string>
 
 
 </resources>

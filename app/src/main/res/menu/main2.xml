@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item
-        android:title="@string/dark_mode"
-        android:id="@+id/dark_mode"
-        android:checkable="true" />
 
     <item
         android:title="@string/open_source_licenses"

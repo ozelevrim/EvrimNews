@@ -53,8 +53,6 @@ public class Main2Activity extends AppCompatActivity
         super.onCreate(savedInstanceState);
 
 
-
-
         setContentView(R.layout.activity_main2);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -78,7 +76,10 @@ public class Main2Activity extends AppCompatActivity
         getWindow().setStatusBarColor(Color.parseColor("#50111111"));
 
 
-
+        // ATTENTION: This was auto-generated to handle app links.
+        Intent appLinkIntent = getIntent();
+        String appLinkAction = appLinkIntent.getAction();
+        Uri appLinkData = appLinkIntent.getData();
     }
 
 
@@ -202,7 +203,7 @@ public class Main2Activity extends AppCompatActivity
         }
 
         this.doubleBackToExitPressedOnce = true;
-        Toast.makeText(this, "Uygulamadan çıkmak için lütfen GERİ DÜĞMESİNE bir kez daha basın.", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, (R.string.twiceexit), Toast.LENGTH_SHORT).show();
 
         new Handler().postDelayed(new Runnable() {
 
@@ -238,34 +239,6 @@ public class Main2Activity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
 
-
-        if (id == R.id.dark_mode) {
-
-            switch (item.getItemId()) {
-                case R.id.dark_mode:
-                    if (item.isChecked()) {
-// If item already checked then unchecked it
-                        item.setChecked(false);
-                    } else {
-// If item is unchecked then checked it
-                        item.setChecked(true);
-
-                        setTheme(android.R.style.ThemeOverlay_Material_Dark); // THIS IS WHERE THE THEME IS SET -- must go before super.onCreate()
-
-                        Intent i = getBaseContext().getPackageManager()
-                                .getLaunchIntentForPackage( getBaseContext().getPackageName() );
-                        i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                        startActivity(i);
-
-                    }
-                default:
-                    return super.onOptionsItemSelected(item);
-
-
-
-
-            }
-        }
 
 
         if (id == R.id.open_source_button) {

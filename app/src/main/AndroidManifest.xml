@@ -15,6 +15,9 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <meta-data
+            android:name="asset_statements"
+            android:resource="@string/asset_statements" />
         <activity
             android:name=".WelcomeScreen"
             android:label="@string/app_name"
@@ -50,18 +53,15 @@
             android:name=".Main2Activity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
+            <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
-
-                <data
-                    android:host="evrim.k12.tr"
-                    android:scheme="http" />
-                <data
-                    android:host="evrim.k12.tr"
-                    android:scheme="https" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="http"
+                    android:host="www.evrim.k12.tr" />
             </intent-filter>
         </activity>
         <activity
