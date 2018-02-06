@@ -23,15 +23,16 @@
         app:headerLayout="@layout/nav_header_main2"
         app:menu="@menu/activity_main2_drawer">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:clickable="true"
-        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:clickable="true"
+            android:focusable="true"
+            android:orientation="vertical">
 
-        <include layout="@layout/nav_bar_playback_controls" />
-    </LinearLayout>
+            <include layout="@layout/nav_bar_playback_controls" />
+        </LinearLayout>
 
     </android.support.design.widget.NavigationView>
 </android.support.v4.widget.DrawerLayout>

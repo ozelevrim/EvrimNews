@@ -5,11 +5,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
-import android.webkit.WebViewClient;
-
-import static tr.k12.evrim.evrimnews.R.id.url;
 
 public class SosyalEvrim extends Activity {
 

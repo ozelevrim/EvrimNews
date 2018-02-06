@@ -5,6 +5,7 @@ INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml:2:1-78:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/3eba88ff139b3bb013e51afa4f33ce21/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/a3ae003d514ba03c6175a36e51526ea6/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/63cb84f8117745049a63453fb5644615/AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-crash:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/23f5f9fbe21d9356c6920efa169fc02c/AndroidManifest.xml:17:1-27:12
@@ -24,21 +25,19 @@ MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/ardacebi/
 MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/17ab2c77c642010e54379f669b6d658c/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/80c83aff4448dc76f177d106997ea82a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:17:1-28:12
-MERGED from [com.github.HITGIF:TextFieldBoxes:1.3.9] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/TextFieldBoxes-1.3.9.aar/1edafef691dcfad5b76cfa5a078541b2/AndroidManifest.xml:2:1-10:12
-MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d9c27a3c7a87707e30f112270c39505/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/ed332a0c3c37ab01794088ec458886c2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/861626de04b8670beec61443b5a4758c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/79a5fe0e165a55d765971eff79b585a0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a61f6bbdf2835ac959c1c29bba0f6c95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/3bac4458bcacdf27abbf1624ad28c7c4/AndroidManifest.xml:2:1-6:12
@@ -310,6 +309,8 @@ INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ardacebi/Github/EvrimNews/app/src/main/AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/3eba88ff139b3bb013e51afa4f33ce21/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/3eba88ff139b3bb013e51afa4f33ce21/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/a3ae003d514ba03c6175a36e51526ea6/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/a3ae003d514ba03c6175a36e51526ea6/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/63cb84f8117745049a63453fb5644615/AndroidManifest.xml:20:5-44
@@ -348,10 +349,6 @@ MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.
 MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/80c83aff4448dc76f177d106997ea82a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/AndroidManifest.xml:20:5-44
-MERGED from [com.github.HITGIF:TextFieldBoxes:1.3.9] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/TextFieldBoxes-1.3.9.aar/1edafef691dcfad5b76cfa5a078541b2/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.HITGIF:TextFieldBoxes:1.3.9] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/TextFieldBoxes-1.3.9.aar/1edafef691dcfad5b76cfa5a078541b2/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e28338fa9b4dd235b918c40aa4ad0c59/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c836a166513c0ae61d37186651a1d21b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d9c27a3c7a87707e30f112270c39505/AndroidManifest.xml:5:5-7:41
@@ -360,24 +357,24 @@ MERGED from [com.android.support:cardview-v7:27.0.2] /Users/ardacebi/.gradle/cac
 MERGED from [com.android.support:cardview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/ed332a0c3c37ab01794088ec458886c2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ea004e93f3473b5f43c38397ed611f0e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/861626de04b8670beec61443b5a4758c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/861626de04b8670beec61443b5a4758c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e2140f8b96bb9f6bf964500910f9caaa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ac79255c1121456187e59d8a9603a2de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb7a168a559fb3199d95d61053f30691/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/79a5fe0e165a55d765971eff79b585a0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/79a5fe0e165a55d765971eff79b585a0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/25c55ea0ee9a5f9ff38fe484dc9bf11c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/caccff46d7784820b96392ca8bc2406f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a61f6bbdf2835ac959c1c29bba0f6c95/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a61f6bbdf2835ac959c1c29bba0f6c95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bfb94bf5d1c1f7e28ebf06d1e7388a08/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/63b526cb6ac2f481478a808506fd3a36/AndroidManifest.xml:4:5-43
