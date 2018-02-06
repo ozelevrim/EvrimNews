@@ -1156,7 +1156,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="counter_label_text_constructor">%s%s%s%s</string>
+    <string formatted="false" name="counter_label_text_constructor">%s%s%s%s</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="icon">icon</string>
