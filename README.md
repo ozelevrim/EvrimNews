@@ -11,6 +11,48 @@ EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdı
 
 Proje hala geliştirilme aşamasında olduğundan dolayı hatalarla karşılaşmanız mümkün. 
 
+## Özellikler
+- Sitemizde bulunan tüm sayfalar ve bilgiler:
+  - "Okulumuzu Tanıyın" Kategorisi
+    - Tarihçemiz" Sayfası
+    - "Kadromuz" Sayfası
+    - "Ortaklarımız" Sayfası
+    - "Kurucu Temsicisi" Sayfası
+    - "Başarılarımız" Sayfası
+    - "Mezunlarımız" Sayfası
+    - "Görüşler" Sayfası
+    - "Okul Kayıtları" Sayfası
+    - "İnsan Kaynakları" Sayfası
+    - "İletişim" Sayfası
+  - "Evrim Güncel" Kategorisi
+    - "Blog" Sayfası
+    - "Duyurular" Sayfası
+    - "Sosyal Evrim" Sayfası
+    - "Aylık Yemek Menüleri" Sayfası
+    - "Veli Görüşme Günleri" Sayfası
+    - "Takvim" Sayfası
+  - "Akademik Eğitim" Kategorisi
+    - "Eğitim Projemiz" Sayfası
+    - "Yabancı Dil" Sayfası
+    - "İlkokul" Sayfası
+    - "Ortaokul" Sayfası
+    - "Ders Kataloğu" Sayfası
+  - "Kampüste Hayat" Kategorisi
+    - "Kulüpler" Sayfası
+    - "Kurslar" Sayfası
+    - "Rehberlik Servisi" Sayfası
+    - "Kütüphane" Sayfası
+    - "Eğitim ve Spor Alanları" Sayfası
+    - "Kampüs Birimleri" Sayfası
+- İngilizce, İtalyanca ve Türkçe dil desteği
+- App Linking desteği: App Linking, Google'da "Evrim" veya "Özel Evrim" gibi bir arama yapmanız durumunda eğer uygulama telefonunuzda yüklü ise, o içeriği websitemizde görüntülemek yerine uygulamamızda görüntüleyebilirsiniz.
+- Arama: Tüm websitemizde arama yapmanıza olanak sağlar.
+- Kolay arayüz: Sizin okulumuzla ilgili bilgilere kolayca ulaşmanızı sağlamak için EvrimNews çok kolay bir arayüze sahiptir. Bu yeni arayüzü 2.0.0 versiyon ile bulabilirsiniz.
+- Açık Kaynak Lisanlar: Uygulamamızın tüm Açık Kaynak kodlarına ve Açık Kaynak lisanlarına ulaşmanızı sağlar (Geliştirici Özel).
+- Hakkında Ekranı: Uygulamamız ve Okulumuz hakkında bilgi edinmenizi sağlar.
+- İletişim Ekranı: Okulumuz ve Uygulama geliştricisi ile iletişime geçmenizi sağlar.
+- Materyal Tasarım (Geliştirici Özel, Google): Uygulamamızı sizlere daha güzel bir tasarımla sunabilmek için Materyal Tasarım Kurallarını izlemekteyiz.
+
 ## S.S.S (Sık Sorulan Sorular)
 
 ### "Uygulama içinde hata buldum, nasıl sizlere bildireceğim?"
