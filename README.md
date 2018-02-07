@@ -11,6 +11,48 @@ EvrimNews, Özel Evrim Okulları için hazırlanmış bir Android uygulamasıdı
 
 Proje hala geliştirilme aşamasında olduğundan dolayı hatalarla karşılaşmanız mümkün. 
 
+## Özellikler
+- Sitemizde bulunan tüm sayfalar ve bilgiler:
+  - "Okulumuzu Tanıyın" Kategorisi
+    - Tarihçemiz" Sayfası
+    - "Kadromuz" Sayfası
+    - "Ortaklarımız" Sayfası
+    - "Kurucu Temsicisi" Sayfası
+    - "Başarılarımız" Sayfası
+    - "Mezunlarımız" Sayfası
+    - "Görüşler" Sayfası
+    - "Okul Kayıtları" Sayfası
+    - "İnsan Kaynakları" Sayfası
+    - "İletişim" Sayfası
+  - "Evrim Güncel" Kategorisi
+    - "Blog" Sayfası
+    - "Duyurular" Sayfası
+    - "Sosyal Evrim" Sayfası
+    - "Aylık Yemek Menüleri" Sayfası
+    - "Veli Görüşme Günleri" Sayfası
+    - "Takvim" Sayfası
+  - "Akademik Eğitim" Kategorisi
+    - "Eğitim Projemiz" Sayfası
+    - "Yabancı Dil" Sayfası
+    - "İlkokul" Sayfası
+    - "Ortaokul" Sayfası
+    - "Ders Kataloğu" Sayfası
+  - "Kampüste Hayat" Kategorisi
+    - "Kulüpler" Sayfası
+    - "Kurslar" Sayfası
+    - "Rehberlik Servisi" Sayfası
+    - "Kütüphane" Sayfası
+    - "Eğitim ve Spor Alanları" Sayfası
+    - "Kampüs Birimleri" Sayfası
+- İngilizce, İtalyanca ve Türkçe dil desteği
+- App Linking desteği: App Linking, Google'da "Evrim" veya "Özel Evrim" gibi bir arama yapmanız durumunda eğer uygulama telefonunuzda yüklü ise, o içeriği websitemizde görüntülemek yerine uygulamamızda görüntüleyebilirsiniz.
+- Arama: Tüm websitemizde arama yapmanıza olanak sağlar.
+- Kolay arayüz: Sizin okulumuzla ilgili bilgilere kolayca ulaşmanızı sağlamak için EvrimNews çok kolay bir arayüze sahiptir. Bu yeni arayüzü 2.0.0 versiyon ile bulabilirsiniz.
+- Açık Kaynak Lisanlar: Uygulamamızın tüm Açık Kaynak kodlarına ve Açık Kaynak lisanlarına ulaşmanızı sağlar (Geliştirici Özel).
+- Hakkında Ekranı: Uygulamamız ve Okulumuz hakkında bilgi edinmenizi sağlar.
+- İletişim Ekranı: Okulumuz ve Uygulama geliştricisi ile iletişime geçmenizi sağlar.
+- Materyal Tasarım (Geliştirici Özel, Google): Uygulamamızı sizlere daha güzel bir tasarımla sunabilmek için Materyal Tasarım Kurallarını izlemekteyiz.
+
 ## S.S.S (Sık Sorulan Sorular)
 
 ### "Uygulama içinde hata buldum, nasıl sizlere bildireceğim?"
@@ -24,3 +66,26 @@ Projemiz hala geliştrilmekte olduğundan sorunlarla karşılaşmanız mümkünd
 
 ### "Bu proje ile kimler ilgileniyor?"
 Bu proje ile "Arda Çebi" ve "Sedat Yetiş" ilgilenmektedir.
+
+## EvrimNews Açık Kaynak Lisansı
+
+`MIT License`
+`Copyright (c) 2018 Özel Evrim Okulları`
+
+`Permission is hereby granted, free of charge, to any person obtaining a copy`
+`of this software and associated documentation files (the "Software"), to deal`
+`in the Software without restriction, including without limitation the rights`
+`to use, copy, modify, merge, publish, distribute, sublicense, and/or sell`
+`copies of the Software, and to permit persons to whom the Software is`
+`furnished to do so, subject to the following conditions:`
+
+`The above copyright notice and this permission notice shall be included in all`
+`copies or substantial portions of the Software.`
+
+`THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR`
+`IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,`
+`FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE`
+`AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER`
+`LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,`
+`OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE`
+`SOFTWARE.`
