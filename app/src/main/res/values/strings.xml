@@ -157,6 +157,8 @@
 
     <string name="pref_title_system_sync_settings">System sync settings</string>
 
+    <string name="localization">Uygulama Dili</string>
+
     <!-- Example settings for Notifications -->
     <string name="pref_header_notifications">Notifications</string>
 
@@ -173,6 +175,18 @@
 
     <string name="developertext">Uygulama, Arda Çebi tarafından geliştirilmiştir.</string>
     <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://www.evrim.k12.tr\",\n  }\n}]</string>
+
+
+    <string name="turkishlanguage">Türkçe</string>
+    <string name="italianlanguage">İtalyanca</string>
+    <string name="englishlanguage">İngilizce</string>
+
+    <string name="languagedialogtitle">Bir dil seçiniz</string>
+    <string name="languagedialogsubtitle">Choose a Language</string>
+
+
+
+
 
 
 </resources>

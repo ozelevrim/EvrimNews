@@ -9,6 +9,11 @@
         android:icon="@drawable/ic_search_black_24dp"
         android:title="@string/search" />
 
+    <item
+        android:id="@+id/nav_localization"
+        android:icon="@drawable/ic_translate_black_24dp"
+        android:title="@string/localization" />
+
 
     <item android:title="@string/okulumuzu_taniyin">
         <menu>
@@ -202,7 +207,7 @@
             android:title="@string/about" />
     </group>
 
-    
+
 
 
 

@@ -52,18 +52,7 @@
         <activity
             android:name=".Main2Activity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter android:autoVerify="true">
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <data
-                    android:scheme="http"
-                    android:host="www.evrim.k12.tr" />
-            </intent-filter>
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
             android:name=".WelcomeActivity"
             android:theme="@style/AppTheme.WelcomeScreen" />

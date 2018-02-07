@@ -3,6 +3,8 @@ package tr.k12.evrim.evrimnews;
 import android.annotation.TargetApi;
 import android.app.ActionBar;
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
@@ -29,8 +31,12 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
+
+
 public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+
 
 
 
@@ -74,12 +80,6 @@ public class Main2Activity extends AppCompatActivity
         actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
 
         getWindow().setStatusBarColor(Color.parseColor("#50111111"));
-
-
-        // ATTENTION: This was auto-generated to handle app links.
-        Intent appLinkIntent = getIntent();
-        String appLinkAction = appLinkIntent.getAction();
-        Uri appLinkData = appLinkIntent.getData();
     }
 
 
@@ -100,6 +100,7 @@ public class Main2Activity extends AppCompatActivity
         builder.enableUrlBarHiding();
         // and launch the desired Url with CustomTabsIntent.launchUrl()
         customTabsIntent.launchUrl(this, Uri.parse(url));
+
     }
 
     public void OpenAylikYemek(View v) {
@@ -484,6 +485,22 @@ public class Main2Activity extends AppCompatActivity
             builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.search, null));
             builder.enableUrlBarHiding();
             customTabsIntent.launchUrl(this, Uri.parse(url));
+
+        } else if (id == R.id.nav_localization) {
+
+            CharSequence colors[] = new CharSequence[] {"Türkçe", "Italiano"+" "+"(İtalyanca)", "English"+" "+"(İngilizce)"};
+
+            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+            builder.setTitle(R.string.languagedialogtitle);
+            builder.setItems(colors, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    // the user clicked on colors[which])
+
+                }
+            });
+            builder.show();
+
         } else if (id == R.id.nav_egitim_projemiz) {
 
             // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.

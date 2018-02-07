@@ -64,15 +64,15 @@ public final class R {
         public static final int email = 0x7f09004b;
         public static final int icon_only = 0x7f090060;
         public static final int light = 0x7f09006a;
-        public static final int none = 0x7f09009b;
-        public static final int normal = 0x7f09009c;
-        public static final int radio = 0x7f0900ac;
-        public static final int standard = 0x7f0900d4;
-        public static final int text = 0x7f0900dc;
-        public static final int text2 = 0x7f0900dd;
-        public static final int toolbar = 0x7f0900e7;
-        public static final int wide = 0x7f0900f6;
-        public static final int wrap_content = 0x7f0900f9;
+        public static final int none = 0x7f09009c;
+        public static final int normal = 0x7f09009d;
+        public static final int radio = 0x7f0900ad;
+        public static final int standard = 0x7f0900d5;
+        public static final int text = 0x7f0900dd;
+        public static final int text2 = 0x7f0900de;
+        public static final int toolbar = 0x7f0900e8;
+        public static final int wide = 0x7f0900f7;
+        public static final int wrap_content = 0x7f0900fa;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0a0007;
@@ -96,14 +96,14 @@ public final class R {
         public static final int common_open_on_phone = 0x7f0e003b;
         public static final int common_signin_button_text = 0x7f0e003c;
         public static final int common_signin_button_text_long = 0x7f0e003d;
-        public static final int fcm_fallback_notification_channel_label = 0x7f0e004b;
-        public static final int s1 = 0x7f0e0082;
-        public static final int s2 = 0x7f0e0083;
-        public static final int s3 = 0x7f0e0084;
-        public static final int s4 = 0x7f0e0085;
-        public static final int s5 = 0x7f0e0086;
-        public static final int s6 = 0x7f0e0087;
-        public static final int s7 = 0x7f0e0088;
+        public static final int fcm_fallback_notification_channel_label = 0x7f0e004c;
+        public static final int s1 = 0x7f0e0087;
+        public static final int s2 = 0x7f0e0088;
+        public static final int s3 = 0x7f0e0089;
+        public static final int s4 = 0x7f0e008a;
+        public static final int s5 = 0x7f0e008b;
+        public static final int s6 = 0x7f0e008c;
+        public static final int s7 = 0x7f0e008d;
     }
     public static final class style {
         public static final int Theme_IAPTheme = 0x7f0f0130;

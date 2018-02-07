@@ -50,6 +50,8 @@
     <string name="skip">SALTA</string>
     <string name="start">CAPITO</string>
 
+    <string name="localization">Lingua App</string>
+
     <string name="kadromuz">Il Nostro Staff</string>
     <string name="ortaklarimiz">I Nostri Partner</string>
     <string name="kurucu_temsilcisi">Rappresentante Fondatore</string>
@@ -88,5 +90,12 @@
 
     <string name="developertext">Questa app è stata sviluppata da Arda Çebi.</string>
 
+
+    <string name="turkishlanguage">Turco</string>
+    <string name="italianlanguage">Italiano</string>
+    <string name="englishlanguage">Inglese</string>
+
+    <string name="languagedialogtitle">Scegli una Lingua</string>
+    <string name="languagedialogsubtitle">Choose a Language</string>
 
 </resources>

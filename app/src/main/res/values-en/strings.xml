@@ -33,6 +33,8 @@
     <string name="skip">SKIP</string>
     <string name="start">UNDERSTOOD</string>
 
+    <string name="localization">App Language</string>
+
     <string name="dark_mode">Dark Mode</string>
     <string name="open_source_licenses">Open Source Licenses</string>
 
@@ -86,5 +88,11 @@
     <string name="developertext">This app has been developed by Arda Çebi.</string>
 
 
+    <string name="turkishlanguage">Turkish</string>
+    <string name="italianlanguage">Italian</string>
+    <string name="englishlanguage">English</string>
+
+    <string name="languagedialogtitle">Choose a Language</string>
+    <string name="languagedialogsubtitle"> </string>
 
 </resources>
