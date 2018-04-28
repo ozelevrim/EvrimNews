@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Condividi tramite <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Informazioni su app</string>
+    <string name="action_sign_in">Registrati</string>
+    <string name="action_sign_in_short">Registrati</string>
+    <string name="adminButton">Admin</string>
+    <string name="akademik_egitim">Insegnamento Academico</string>
+    <string name="app_name">Scuole Evrim</string>
+    <string name="aylik_yemek">Menu Mensili</string>
+    <string name="basarilarimiz">I Nostri \nSuccessi</string>
+    <string name="basarilarimiz_nav">I Nostri Successi</string>
+    <string name="blog">Blog</string>
+    <string name="calisma_takvimi">Calendario</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Attiva"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installa"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"L\'app <ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilità di Google Play Services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non supportati dal tuo dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="copyrighttext">Scuole Privata Evrim (Özel Evrim Okulları), Tutti i diritti riservati © 2018</string>
+    <string name="dark_mode">Modalità Oscura</string>
+    <string name="ders_katalogu">Catalogo dei lezioni</string>
+    <string name="developertext">Questa app è stata sviluppata da Arda Çebi.</string>
+    <string name="duyurular">Comunicazione</string>
+    <string name="egitim_projemiz">Il Nostro Progetto di Formazione</string>
+    <string name="egitim_spor_alanlari">Istruzione e Aree Sportive</string>
+    <string name="englishlanguage">Inglese</string>
+    <string name="error_field_required">Questo campo è obbligatorio</string>
+    <string name="error_incorrect_password">Questa password non è corretta</string>
+    <string name="error_invalid_email">Questo indirizzo e-mail non è valido</string>
+    <string name="error_invalid_password">Questa password è troppo corta</string>
+    <string name="evrim_guncel">Aggiornamenti di Evrim</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varie"</string>
+    <string name="gorusler">Opinioni</string>
+    <string name="help">Aiuta</string>
+    <string name="iletisim">Contatti</string>
+    <string name="ilkokul">Scuola Elementare</string>
+    <string name="insan_kaynaklari">Risorse umane</string>
+    <string name="italianlanguage">Italiano</string>
+    <string name="kadromuz">Il Nostro Staff</string>
+    <string name="kampus_birimleri">Unità Campus</string>
+    <string name="kampuste_hayat">Vita nella Scuola</string>
+    <string name="kulupler">Club</string>
+    <string name="kurslar">Corsi</string>
+    <string name="kurucu_temsilcisi">Rappresentante Fondatore</string>
+    <string name="kutuphane">Biblioteca</string>
+    <string name="languagedialogsubtitle">Choose a Language</string>
+    <string name="languagedialogtitle">Scegli una Lingua</string>
+    <string name="localization">Lingua App</string>
+    <string name="mezunlarimiz">I Nostri \nDiplomati</string>
+    <string name="mezunlarimiz_nav">I Nostri Diplomati</string>
+    <string name="next">PROSSIMO</string>
+    <string name="ogretmenButton">Insegnante</string>
+    <string name="okul_kayitlari">Iscrizione della scuola</string>
+    <string name="okulumuzu_taniyin">La Nostra Scuola</string>
+    <string name="open_source_licenses">Licenze Open Source</string>
+    <string name="ortaklarimiz">I Nostri Partner</string>
+    <string name="ortaokul">Scuola Media</string>
+    <string name="ozelevrim">Scuole Privata Evrim</string>
+    <string name="prompt_email">Indirizzo Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="rehberlik_servisi">Orientamento</string>
+    <string msgid="368094699078615544" name="s1">"Salva immagine"</string>
+    <string msgid="4550830452390689489" name="s2">"Consentire ad AdMob di memorizzare l\'immagine nella galleria Immagini?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accetto"</string>
+    <string msgid="9167523597401839819" name="s4">"Rifiuto"</string>
+    <string msgid="1566682516266724847" name="s5">"Crea evento di calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"Consentire ad AdMob di creare un evento di calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annuncio di testo"</string>
+    <string name="search">Cerca</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="skip">SALTA</string>
+    <string name="slide_1_desc">EvrimNews ti fornisce tutte le informazioni che ti servono su Scuole Privata Evrim.</string>
+    <string name="slide_1_title">EvrimNews</string>
+    <string name="slide_2_desc">Puoi trovare molte più informazioni che puoi trovare facilmente sul nostro sito internet in questa applicazione.</string>
+    <string name="slide_2_title">Maggiori Informazioni</string>
+    <string name="slide_3_desc">EvrimNews, ti consente di accedere facilmente a tutte le informazioni sulla nostra scuola con le nuove tecnologie. Gli esempi includono una nuova funzione di App Linking che ti consente di accedere a questa app anziché al nostro sito web quando cerchi "Evrim" su Google.</string>
+    <string name="slide_3_title">Nuove Tecnologie</string>
+    <string name="slide_4_desc">Con il nuovo aggiornamento di EvrimNews, EvrimNews ha un interfaccia semplice che ti consente di usarlo più facilmente. Puoi facilmente raggiungere tutto.</string>
+    <string name="slide_4_title">Interfaccia Ridisegnata</string>
+    <string name="sosyal_evrim">Evrim Sociale</string>
+    <string name="start">CAPITO</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tarihcemiz">La Nostra Storia</string>
+    <string name="title">Titolo</string>
+    <string name="title_activity_login">Registrati</string>
+    <string name="turkishlanguage">Turco</string>
+    <string name="twiceexit">Premi due volte per uscire.</string>
+    <string name="veliButton">Genitore</string>
+    <string name="veli_gorusme">Incontro Per i Genitori</string>
+    <string name="yabanci_dil">Lingua Straniera</string>
+</resources>
