@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="card_selected_items">
+        <item quantity="one">1 Element gewählt</item>
+        <item quantity="other">%d Elemente gewählt</item>
+    </plurals>
+    <plurals name="list_card_undo_items">
+        <item quantity="one">1 Karte entfernt</item>
+        <item quantity="other">%d Karten entfernt</item>
+    </plurals>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
@@ -36,6 +44,7 @@
     <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Sonstiges"</string>
+    <string name="list_card_undo_title">Rückgängig</string>
     <string msgid="368094699078615544" name="s1">"Bild speichern"</string>
     <string msgid="4550830452390689489" name="s2">"Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?"</string>
     <string msgid="2435407834265420668" name="s3">"Zustimmen"</string>

@@ -1,20 +1,65 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/androidTest/debug/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/288ed6d69711716638ce94f0bc6fb18a/res/values-v16/values-v16.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-cards-2.1.0.aar/cd03af9be636b3926311b020330ef863/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "4,7,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "213,424,500,732",
+                        "endLines": "4,7,8,15",
+                        "endColumns": "53,75,73,12",
+                        "endOffsets": "262,495,569,1012"
+                    },
+                    "to": {
+                        "startLines": "2,6,8,45",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,329,478,3033",
+                        "endLines": "2,6,8,49",
+                        "endColumns": "53,75,73,12",
+                        "endOffsets": "104,400,547,3313"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a3e6f75883499c3ed8d57040d5b7117c/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endColumns": "65",
+                        "endOffsets": "170"
                     }
                 },
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/861626de04b8670beec61443b5a4758c/res/values-v16/values-v16.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-core-2.1.0.aar/b172f8b48f4f791373d0cd3ec70622e4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,12,13,22,31,41,51,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "211,288,365,438,512,593,830,855,1510,2132,2903,3704,4363",
+                        "endLines": "4,5,6,7,8,9,12,21,30,40,50,59,69",
+                        "endColumns": "76,76,72,73,80,79,24,12,12,12,12,12,12",
+                        "endOffsets": "283,360,433,507,588,668,850,1505,2127,2898,3699,4358,5178"
+                    },
+                    "to": {
+                        "startLines": "4,5,7,9,10,11,16,17,26,35,50,60,69",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,252,405,552,626,707,960,985,1640,2262,3318,4119,4778",
+                        "endLines": "4,5,7,9,10,11,16,25,34,44,59,68,78",
+                        "endColumns": "76,76,72,73,80,79,24,12,12,12,12,12,12",
+                        "endOffsets": "247,324,473,621,702,782,980,1635,2257,3028,4114,4773,5593"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/900e7384ce7dac619bc8dc221ac6ac39/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -24,12 +69,91 @@
                         "endOffsets": "223"
                     },
                     "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "787",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "955"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-cards-2.1.0.aar/cd03af9be636b3926311b020330ef863/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "4,7,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "213,424,500,732",
+                        "endLines": "4,7,8,15",
+                        "endColumns": "53,75,73,12",
+                        "endOffsets": "262,495,569,1012"
+                    },
+                    "to": {
+                        "startLines": "2,6,8,45",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,329,478,3033",
+                        "endLines": "2,6,8,49",
+                        "endColumns": "53,75,73,12",
+                        "endOffsets": "104,400,547,3313"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a3e6f75883499c3ed8d57040d5b7117c/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
+                        "startOffsets": "109",
+                        "endColumns": "65",
+                        "endOffsets": "170"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-core-2.1.0.aar/b172f8b48f4f791373d0cd3ec70622e4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,12,13,22,31,41,51,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "211,288,365,438,512,593,830,855,1510,2132,2903,3704,4363",
+                        "endLines": "4,5,6,7,8,9,12,21,30,40,50,59,69",
+                        "endColumns": "76,76,72,73,80,79,24,12,12,12,12,12,12",
+                        "endOffsets": "283,360,433,507,588,668,850,1505,2127,2898,3699,4358,5178"
+                    },
+                    "to": {
+                        "startLines": "4,5,7,9,10,11,16,17,26,35,50,60,69",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "175,252,405,552,626,707,960,985,1640,2262,3318,4119,4778",
+                        "endLines": "4,5,7,9,10,11,16,25,34,44,59,68,78",
+                        "endColumns": "76,76,72,73,80,79,24,12,12,12,12,12,12",
+                        "endOffsets": "247,324,473,621,702,782,980,1635,2257,3028,4114,4773,5593"
+                    }
+                },
+                {
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/900e7384ce7dac619bc8dc221ac6ac39/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "289"
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "787",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "955"
                     }
                 }
             ]
