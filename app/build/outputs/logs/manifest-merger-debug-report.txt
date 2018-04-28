@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
 MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/edc6a300e303d80841ea61732996651f/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3114ec06297548490cc48b2eb6fbd39f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.gabrielemariotti.cards:cardslib-cards:2.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-cards-2.1.0.aar/cd03af9be636b3926311b020330ef863/AndroidManifest.xml:19:1-31:12
@@ -38,36 +38,37 @@ MERGED from [com.android.support:support-v4:27.1.1] /Users/ardacebi/.gradle/cach
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/11edd71d61bdcf0aa2068f164e69cbac/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e7058e670f3444d4c7845bef4488ffe1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:customtabs:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/b44198d1106c436b701d5c5692c20b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.ahmedjazzar.rosetta:rosetta:1.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/39cd9f570e9c478e72c1851c88303af6/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:transition:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7aa4f23ba8c0a9963aeb2e449fe3aa62/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/900e7384ce7dac619bc8dc221ac6ac39/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/af5f321acf4e64bfb7b8260e18cd95d1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/43f197e275fbf61002525bace7a149d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/601c462da7b93d78c598e923a36f9569/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/13a82f67c1cecee9fba7a31d9092bb60/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b3746d373b547aac9f65da0449d98c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a3e6f75883499c3ed8d57040d5b7117c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/5bb1725325e9929128cf336e09e42a2a/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/fda536c67a01e64a7794a01a1c4b5278/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/964537703e7a6b404982a8c33ec8f528/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e795ff5eda301b936daf5f773c6b2bab/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-67:12
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:1-71:12
 		INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:2:11-69
@@ -118,7 +119,7 @@ MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /Users/ardace
 	android:name
 		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:12:5-65:19
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:12:5-69:19
 MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/edc6a300e303d80841ea61732996651f/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/edc6a300e303d80841ea61732996651f/AndroidManifest.xml:7:5-20
 MERGED from [com.github.gabrielemariotti.cards:cardslib-cards:2.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardslib-cards-2.1.0.aar/cd03af9be636b3926311b020330ef863/AndroidManifest.xml:28:5-29:19
@@ -169,6 +170,8 @@ MERGED from [com.etsy.android.grid:library:1.0.5] /Users/ardacebi/.gradle/caches
 MERGED from [com.etsy.android.grid:library:1.0.5] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/library-1.0.5.aar/9587c6cedcd633ef7b380810228c9339/AndroidManifest.xml:6:5-19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/11edd71d61bdcf0aa2068f164e69cbac/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/11edd71d61bdcf0aa2068f164e69cbac/AndroidManifest.xml:9:5-20
+MERGED from [com.ahmedjazzar.rosetta:rosetta:1.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/39cd9f570e9c478e72c1851c88303af6/AndroidManifest.xml:11:5-47
+MERGED from [com.ahmedjazzar.rosetta:rosetta:1.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/39cd9f570e9c478e72c1851c88303af6/AndroidManifest.xml:11:5-47
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/5bb1725325e9929128cf336e09e42a2a/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/5bb1725325e9929128cf336e09e42a2a/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/fda536c67a01e64a7794a01a1c4b5278/AndroidManifest.xml:22:5-20
@@ -190,75 +193,81 @@ ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:19:13-44
 activity#tr.k12.evrim.evrimnews.WelcomeScreen
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:21:9-30:20
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:22:9-31:20
 	android:label
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:23:13-45
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:24:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:24:13-56
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:25:13-56
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:22:13-42
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:23:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:25:13-29:29
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:28:17-77
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:29:27-74
 meta-data#com.google.android.gms.version
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:36:9-38:69
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:37:9-39:69
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/088777d1530507acfcd42c4566c75be9/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/088777d1530507acfcd42c4566c75be9/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:38:13-66
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:39:13-66
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:37:13-58
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:38:13-58
 activity#tr.k12.evrim.evrimnews.ActivityParent
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:40:9-52
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:41:9-52
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:40:19-49
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:41:19-49
 activity#tr.k12.evrim.evrimnews.LoginActivity
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:41:9-43:60
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:42:9-44:60
 	android:label
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:43:13-57
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:44:13-57
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:42:13-42
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:43:13-42
 activity#tr.k12.evrim.evrimnews.ActivityTeacher
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:44:9-53
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:45:9-53
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:44:19-50
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:45:19-50
 activity#tr.k12.evrim.evrimnews.AdminActivity
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:45:9-47:43
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:46:9-48:43
 	android:label
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:47:13-40
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:48:13-40
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:46:13-42
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:47:13-42
 activity#tr.k12.evrim.evrimnews.SosyalEvrim
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:48:9-50:44
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:49:9-51:44
 	android:label
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:50:13-41
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:51:13-41
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:49:13-40
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:50:13-40
 activity#tr.k12.evrim.evrimnews.NewPost
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:51:9-45
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:52:9-45
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:51:19-42
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:52:19-42
 activity#tr.k12.evrim.evrimnews.Main2Activity
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:52:9-55:68
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:53:9-56:68
 	android:label
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:54:13-45
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:55:13-45
 	android:theme
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:55:13-56
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:56:13-56
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:53:13-42
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:54:13-42
 activity#tr.k12.evrim.evrimnews.WelcomeActivity
-ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:56:9-58:61
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:57:9-59:61
 	android:theme
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:58:13-58
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:59:13-58
 	android:name
-		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:57:13-44
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:58:13-44
+activity#tr.k12.evrim.evrimnews.SettingsActivity
+ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:66:9-68:72
+	android:label
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:68:13-60
+	android:name
+		ADDED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml:67:13-45
 uses-sdk
 INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
@@ -331,38 +340,40 @@ MERGED from [com.android.support:cardview-v7:27.1.1] /Users/ardacebi/.gradle/cac
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e7058e670f3444d4c7845bef4488ffe1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/b44198d1106c436b701d5c5692c20b4f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/b44198d1106c436b701d5c5692c20b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.ahmedjazzar.rosetta:rosetta:1.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/39cd9f570e9c478e72c1851c88303af6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ahmedjazzar.rosetta:rosetta:1.0.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/39cd9f570e9c478e72c1851c88303af6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:transition:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7aa4f23ba8c0a9963aeb2e449fe3aa62/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7aa4f23ba8c0a9963aeb2e449fe3aa62/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/900e7384ce7dac619bc8dc221ac6ac39/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/900e7384ce7dac619bc8dc221ac6ac39/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/af5f321acf4e64bfb7b8260e18cd95d1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/af5f321acf4e64bfb7b8260e18cd95d1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/43f197e275fbf61002525bace7a149d8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/43f197e275fbf61002525bace7a149d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f179df9e004b71a3bf8f32ff95af3965/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/601c462da7b93d78c598e923a36f9569/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/601c462da7b93d78c598e923a36f9569/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/13a82f67c1cecee9fba7a31d9092bb60/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/13a82f67c1cecee9fba7a31d9092bb60/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b3746d373b547aac9f65da0449d98c4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0b3746d373b547aac9f65da0449d98c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/eb71829350f69c4c6701b4b750d04062/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a3e6f75883499c3ed8d57040d5b7117c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a3e6f75883499c3ed8d57040d5b7117c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/5bb1725325e9929128cf336e09e42a2a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/5bb1725325e9929128cf336e09e42a2a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/fda536c67a01e64a7794a01a1c4b5278/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/fda536c67a01e64a7794a01a1c4b5278/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/964537703e7a6b404982a8c33ec8f528/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/964537703e7a6b404982a8c33ec8f528/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bea581062a5a2e1189cc9add0fac8fa8/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e795ff5eda301b936daf5f773c6b2bab/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e795ff5eda301b936daf5f773c6b2bab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardacebi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d86f8151882c7e3e173ae52f97e1352/AndroidManifest.xml:20:5-44
 INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary

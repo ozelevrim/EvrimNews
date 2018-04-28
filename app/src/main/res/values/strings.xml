@@ -184,9 +184,7 @@
     <string name="languagedialogtitle">Bir dil seçiniz</string>
     <string name="languagedialogsubtitle">Choose a Language</string>
 
-
-
-
+    <string name="mobileapp">Mobil Uygulaması</string>
 
 
 </resources>

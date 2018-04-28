@@ -42,7 +42,7 @@
         <item name="android:ellipsize">end</item>
     </style>
 
-
+    <style name="Theme.AppTheme.NoActionBar" parent="Theme.AppCompat.NoActionBar" />
 
 
 </resources>

@@ -25,13 +25,13 @@
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         android:textSize="21sp"
         android:textStyle="bold"
-        android:text="EvrimNews"
+        android:text="@string/ozelevrim"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/ozelevrim"/>
+        android:text="@string/mobileapp"/>
 
 
 

@@ -1040,6 +1040,9 @@
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="font_fontFamily_medium">sans-serif</string>
     <string name="font_fontFamily_regular">sans-serif</string>
+    <string name="language_switcher_dialog_title">Language</string>
+    <string name="language_switcher_negative_button">Cancel</string>
+    <string name="language_switcher_positive_button">Ok</string>
     <string name="list_card_undo_title">Undo</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>

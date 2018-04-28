@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Apr 28 19:49:15 EET 2018
+#Sat Apr 28 20:30:30 EET 2018
 4.path=lib/x86_64/libnative-lib.so
 8.set=DEX
 6.path=lib/arm64-v8a/libnative-lib.so

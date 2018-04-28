@@ -95,4 +95,6 @@
     <string name="languagedialogtitle">Choose a Language</string>
     <string name="languagedialogsubtitle"> </string>
 
+    <string name="mobileapp">Mobile App</string>
+
 </resources>

@@ -136,6 +136,7 @@
     <orderEntry type="library" name="com.android.support:appcompat-v7-27.1.1" level="project" />
     <orderEntry type="library" name="com.android.support:design-27.1.1" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-analytics-15.0.0" level="project" />
+    <orderEntry type="library" name="com.ahmedjazzar.rosetta:rosetta-1.0.1" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-database-15.0.0" level="project" />
     <orderEntry type="library" name="com.android.support:transition-27.1.1" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-analytics-15.0.0" level="project" />

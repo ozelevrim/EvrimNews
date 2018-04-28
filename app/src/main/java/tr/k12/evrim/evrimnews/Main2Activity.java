@@ -30,7 +30,10 @@ import android.view.WindowManager;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.ahmedjazzar.rosetta.LanguageSwitcher;
 
+import java.util.HashSet;
+import java.util.Locale;
 
 
 public class Main2Activity extends AppCompatActivity
@@ -73,13 +76,29 @@ public class Main2Activity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         android.support.v7.app.ActionBar ab = getSupportActionBar();
-        ab.setTitle("EvrimNews");
-        ab.setSubtitle(R.string.ozelevrim);
+        ab.setTitle(R.string.ozelevrim);
+        ab.setSubtitle(R.string.mobileapp);
 
         android.support.v7.app.ActionBar actionbar = getSupportActionBar();
         actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
 
         getWindow().setStatusBarColor(Color.parseColor("#50111111"));
+
+        // This is the locale that you wanna your app to launch with.
+        Locale firstLaunchLocale = new Locale("tr");
+
+// You can use a HashSet<String> instead and call 'setSupportedStringLocales()' :)
+        HashSet<Locale> supportedLocales = new HashSet<>();
+        supportedLocales.add(Locale.US);
+        supportedLocales.add(Locale.ITALY);
+        supportedLocales.add(firstLaunchLocale);
+
+// You can make the following object static so you can use the same reference in all app's
+// classes. static is much stable.
+        LanguageSwitcher ls = new LanguageSwitcher(this, firstLaunchLocale);
+        ls.setSupportedLocales(supportedLocales);
+
+
     }
 
 
