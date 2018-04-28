@@ -1,10 +1,10 @@
 Executable : /Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/ardacebi/Github/EvrimNews/app
--B/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/debug/x86
+-H/Users/ardacebi/Documents/GitHub/EvrimNews/app
+-B/Users/ardacebi/Documents/GitHub/EvrimNews/app/.externalNativeBuild/cmake/debug/x86
 -DANDROID_ABI=x86
 -DANDROID_PLATFORM=android-21
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/cmake/debug/obj/x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/cmake/debug/obj/x86
 -DCMAKE_BUILD_TYPE=Debug
 -DANDROID_NDK=/Users/ardacebi/Library/Android/sdk/ndk-bundle
 -DCMAKE_CXX_FLAGS=

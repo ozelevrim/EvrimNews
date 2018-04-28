@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/7bd586f7dc24594b993a8ef33022f784/res/values-fr/values.xml",

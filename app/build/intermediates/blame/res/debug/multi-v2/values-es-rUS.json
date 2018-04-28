@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ardacebi/Github/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/dadde168bcf9c237a08e549261f03076/res/values-es-rUS/values.xml",

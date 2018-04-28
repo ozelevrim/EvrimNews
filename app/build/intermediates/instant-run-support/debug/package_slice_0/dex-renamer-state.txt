@@ -1,4 +1,4 @@
-#Wed Feb 07 23:34:46 EET 2018
-base.0=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/19
+#Sat Apr 28 18:27:42 EET 2018
+base.0=/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

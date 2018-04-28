@@ -1,10 +1,10 @@
 Executable : /Users/ardacebi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/ardacebi/Github/EvrimNews/app
--B/Users/ardacebi/Github/EvrimNews/app/.externalNativeBuild/cmake/release/armeabi-v7a
+-H/Users/ardacebi/Documents/GitHub/EvrimNews/app
+-B/Users/ardacebi/Documents/GitHub/EvrimNews/app/.externalNativeBuild/cmake/release/armeabi-v7a
 -DANDROID_ABI=armeabi-v7a
 -DANDROID_PLATFORM=android-21
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/ardacebi/Github/EvrimNews/app/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/cmake/release/obj/armeabi-v7a
 -DCMAKE_BUILD_TYPE=Release
 -DANDROID_NDK=/Users/ardacebi/Library/Android/sdk/ndk-bundle
 -DCMAKE_CXX_FLAGS=
