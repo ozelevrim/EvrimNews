@@ -96,5 +96,6 @@
     <string name="languagedialogsubtitle"> </string>
 
     <string name="mobileapp">Mobile App</string>
+    <string name="title_activity_about">About</string>
 
 </resources>

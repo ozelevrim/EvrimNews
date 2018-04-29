@@ -4,7 +4,7 @@
             "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9f3de4028844cc020f32762820ad4b1b/res/values-v23/values-v23.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/02ec34613e13376118955deca6b8a949/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc7e1abdf42e3d9caa278a00bf649f8e/res/values-v23/values-v23.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/653d913ae082a5cc40e43849516c1fb5/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

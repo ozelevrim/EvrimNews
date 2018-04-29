@@ -4,7 +4,7 @@
             "outputFile": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc7e1abdf42e3d9caa278a00bf649f8e/res/values-v17/values-v17.xml",
+                    "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/653d913ae082a5cc40e43849516c1fb5/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

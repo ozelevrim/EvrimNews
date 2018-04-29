@@ -2,61 +2,34 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="420dpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525036246336"
+    timestamp="1525041591974"
     token="-7860177640654248983"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1243" />
+        duration="838" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="131" />
+        duration="0" />
     <task
         name="verifier"
-        duration="44" />
+        duration="0" />
 
     <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
-        timestamp="1525036036061"
+        timestamp="1525041009559"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
@@ -65,10 +38,10 @@
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -80,13 +53,48 @@
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1525041309234"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -96,39 +104,12 @@
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1525036246336"
-        verifier="R_CLASS_CHANGE" >
+        build-mode="HOT_WARM"
+        timestamp="1525041591974"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

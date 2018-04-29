@@ -29,11 +29,20 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ListView;
 import android.widget.Toast;
+import java.util.Locale;
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.Intent;
+import android.content.res.Configuration;
+import android.content.res.Resources;
+import android.util.DisplayMetrics;
 
 import com.ahmedjazzar.rosetta.LanguageSwitcher;
 
 import java.util.HashSet;
 import java.util.Locale;
+
+import es.dmoral.toasty.Toasty;
 
 
 public class Main2Activity extends AppCompatActivity
@@ -60,6 +69,7 @@ public class Main2Activity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
 
 
         setContentView(R.layout.activity_main2);
@@ -100,6 +110,8 @@ public class Main2Activity extends AppCompatActivity
 
 
     }
+
+
 
 
 
@@ -261,14 +273,6 @@ public class Main2Activity extends AppCompatActivity
 
 
 
-        if (id == R.id.open_source_button) {
-
-            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ozelevrim/EvrimNews"));
-            startActivity(browserIntent);
-
-
-            return true;
-        }
 
         if (id == R.id.search_button_top) {
 
@@ -283,6 +287,24 @@ public class Main2Activity extends AppCompatActivity
             builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.search, null));
             builder.enableUrlBarHiding();
             customTabsIntent.launchUrl(this, Uri.parse(url));
+
+
+            return true;
+        }
+
+        if (id == R.id.settings_button_top) {
+
+            Intent intent = new Intent(getApplicationContext(), SettingsActivity.class);
+            startActivity(intent);
+
+            return true;
+
+        }
+
+        if (id == R.id.about_button_top) {
+
+            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
+            startActivity(intent);
 
 
             return true;
@@ -512,20 +534,6 @@ public class Main2Activity extends AppCompatActivity
             // and launch the desired Url with CustomTabsIntent.launchUrl()
             customTabsIntent.launchUrl(this, Uri.parse(url));
 
-        }  else if (id == R.id.nav_localization) {
-
-            CharSequence colors[] = new CharSequence[] {"Türkçe", "Italiano"+" "+"(İtalyanca)", "English"+" "+"(İngilizce)"};
-
-            AlertDialog.Builder builder = new AlertDialog.Builder(this);
-            builder.setTitle(R.string.languagedialogtitle);
-            builder.setItems(colors, new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    // the user clicked on colors[which])
-
-                }
-            });
-            builder.show();
 
         } else if (id == R.id.nav_egitim_projemiz) {
 

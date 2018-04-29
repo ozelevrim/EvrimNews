@@ -52,8 +52,9 @@
         <activity android:name=".NewPost" />
         <activity
             android:name=".Main2Activity"
+            android:configChanges="locale|orientation"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".WelcomeActivity"
             android:theme="@style/AppTheme.WelcomeScreen" />
@@ -65,7 +66,115 @@
 
         <activity
             android:name=".SettingsActivity"
-            android:label="@string/title_activity_settings"></activity>
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TarihcemizActivity"
+            android:label="@string/title_activity_tarihcemiz"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KadromuzActivity"
+            android:label="@string/title_activity_kadromuz"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".OrtakActivity"
+            android:label="@string/title_activity_ortak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KurucuActivity"
+            android:label="@string/title_activity_kurucu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BasariActivity"
+            android:label="@string/title_activity_basari"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MezunActivity"
+            android:label="@string/title_activity_mezun"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GorusActivity"
+            android:label="@string/title_activity_gorus"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KayitActivity"
+            android:label="@string/title_activity_kayit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KaynakActivity"
+            android:label="@string/title_activity_kaynak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IletisimActivity"
+            android:label="@string/title_activity_iletisim"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BlogActivity"
+            android:label="@string/title_activity_blog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DuyuruActivity"
+            android:label="@string/title_activity_duyuru"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".YemekActivity"
+            android:label="@string/title_activity_yemek"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VeliGorusmeActivity"
+            android:label="@string/title_activity_veli_gorusme"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TakvimActivity"
+            android:label="@string/title_activity_takvim"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EgitimProjeActivity"
+            android:label="@string/title_activity_egitim_proje"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".YabanciDilActivity"
+            android:label="@string/title_activity_yabanci_dil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IlkokulActivity"
+            android:label="@string/title_activity_ilkokul"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".OrtaokulActivity"
+            android:label="@string/title_activity_ortaokul"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DersKatologActivity"
+            android:label="@string/title_activity_ders_katolog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KulupActivity"
+            android:label="@string/title_activity_kulup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KursActivity"
+            android:label="@string/title_activity_kurs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RehberlikActivity"
+            android:label="@string/title_activity_rehberlik"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KutuphaneActivity"
+            android:label="@string/title_activity_kutuphane"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SporActivity"
+            android:label="@string/title_activity_spor"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KampusActivity"
+            android:label="@string/title_activity_kampus"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

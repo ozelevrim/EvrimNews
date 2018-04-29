@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#336dc6</color>
     <color name="colorPrimaryDark">#234C8A</color>
-    <color name="colorAccent">#2196f3</color>
+    <color name="colorAccent">#FF9100</color>
     <color name="White">#FFFFFF</color>
     <color name="kampuste_hayat">#29c263</color>
     <color name="evrim_guncel">#33b5ff</color>

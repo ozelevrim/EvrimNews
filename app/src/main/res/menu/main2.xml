@@ -10,9 +10,13 @@
 
 
     <item
-        android:title="@string/open_source_licenses"
-        android:id="@+id/open_source_button"
-        app:showAsAction="never"/>
+        android:id="@+id/settings_button_top"
+        android:title="@string/settings" />
+
+
+    <item
+        android:id="@+id/about_button_top"
+        android:title="@string/about" />
 
 
 </menu>

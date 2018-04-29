@@ -71,6 +71,7 @@
         <activity android:name="tr.k12.evrim.evrimnews.NewPost" />
         <activity
             android:name="tr.k12.evrim.evrimnews.Main2Activity"
+            android:configChanges="locale|orientation"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
@@ -85,6 +86,114 @@
         <activity
             android:name="tr.k12.evrim.evrimnews.SettingsActivity"
             android:label="@string/title_activity_settings" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.TarihcemizActivity"
+            android:label="@string/title_activity_tarihcemiz"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KadromuzActivity"
+            android:label="@string/title_activity_kadromuz"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.OrtakActivity"
+            android:label="@string/title_activity_ortak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KurucuActivity"
+            android:label="@string/title_activity_kurucu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.BasariActivity"
+            android:label="@string/title_activity_basari"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.MezunActivity"
+            android:label="@string/title_activity_mezun"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.GorusActivity"
+            android:label="@string/title_activity_gorus"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KayitActivity"
+            android:label="@string/title_activity_kayit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KaynakActivity"
+            android:label="@string/title_activity_kaynak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.IletisimActivity"
+            android:label="@string/title_activity_iletisim"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.BlogActivity"
+            android:label="@string/title_activity_blog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.DuyuruActivity"
+            android:label="@string/title_activity_duyuru"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.YemekActivity"
+            android:label="@string/title_activity_yemek"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.VeliGorusmeActivity"
+            android:label="@string/title_activity_veli_gorusme"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.TakvimActivity"
+            android:label="@string/title_activity_takvim"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.EgitimProjeActivity"
+            android:label="@string/title_activity_egitim_proje"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.YabanciDilActivity"
+            android:label="@string/title_activity_yabanci_dil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.IlkokulActivity"
+            android:label="@string/title_activity_ilkokul"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.OrtaokulActivity"
+            android:label="@string/title_activity_ortaokul"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.DersKatologActivity"
+            android:label="@string/title_activity_ders_katolog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KulupActivity"
+            android:label="@string/title_activity_kulup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KursActivity"
+            android:label="@string/title_activity_kurs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.RehberlikActivity"
+            android:label="@string/title_activity_rehberlik"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KutuphaneActivity"
+            android:label="@string/title_activity_kutuphane"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.SporActivity"
+            android:label="@string/title_activity_spor"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.KampusActivity"
+            android:label="@string/title_activity_kampus"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
