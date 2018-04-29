@@ -3,6 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:title="@string/search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:id="@+id/search_button_top"
+        app:showAsAction="ifRoom" />
+
+
+    <item
         android:title="@string/open_source_licenses"
-        android:id="@+id/open_source_button"/>
+        android:id="@+id/open_source_button"
+        app:showAsAction="never"/>
+
+
 </menu>

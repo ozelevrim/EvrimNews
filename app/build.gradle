@@ -35,10 +35,10 @@ dependencies {
     implementation 'com.android.support:support-v4:27.1.1'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    //compile 'android-support-v7-appcompat:25.0.1'
+    //implementation 'android-support-v7-appcompat:25.0.1'
     implementation 'com.google.firebase:firebase-database:15.0.0'
     implementation 'com.google.firebase:firebase-messaging:15.0.0'
     implementation 'com.google.firebase:firebase-crash:15.0.0'
@@ -52,11 +52,6 @@ dependencies {
     implementation 'com.android.support:cardview-v7:27.1.1'
     implementation 'com.android.support:customtabs:27.1.1'
     testImplementation 'junit:junit:4.12'
-    implementation 'com.github.gabrielemariotti.cards:cardslib-core:2.1.0'
-    implementation 'com.github.gabrielemariotti.cards:cardslib-cards:2.1.0'
-    implementation 'com.github.gabrielemariotti.cards:cardslib-recyclerview:2.1.0'
-    implementation 'com.github.gabrielemariotti.cards:cardslib-extra-staggeredgrid:2.1.0'
-    implementation 'com.github.gabrielemariotti.cards:cardslib-extra-dragdrop:2.1.0'
     implementation "com.ahmedjazzar.rosetta:rosetta:1.0.1"
 }
 

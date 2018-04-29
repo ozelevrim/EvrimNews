@@ -31,8 +31,10 @@
             android:focusable="true"
             android:orientation="vertical">
 
-            <include layout="@layout/nav_bar_playback_controls" />
+
+
         </LinearLayout>
+
 
     </android.support.design.widget.NavigationView>
 </android.support.v4.widget.DrawerLayout>

@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":3},"path":"AndroidManifest.xml","properties":{"packageId":"tr.k12.evrim.evrimnews","split":"","minSdkVersion":"21"}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":3,"versionName":"2.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"tr.k12.evrim.evrimnews","split":"","minSdkVersion":"21"}}]

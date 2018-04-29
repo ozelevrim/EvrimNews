@@ -270,6 +270,27 @@ public class Main2Activity extends AppCompatActivity
             return true;
         }
 
+        if (id == R.id.search_button_top) {
+
+            // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
+            String url = "http://www.evrim.k12.tr/tr/?s=";
+            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
+            // set toolbar color and/or setting custom actions before invoking build()
+            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
+            CustomTabsIntent customTabsIntent = builder.build();
+            // and launch the desired Url with CustomTabsIntent.launchUrl()
+
+            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.search, null));
+            builder.enableUrlBarHiding();
+            customTabsIntent.launchUrl(this, Uri.parse(url));
+
+
+            return true;
+        }
+
+
+
+
         return super.onOptionsItemSelected(item);
 
 
@@ -491,21 +512,7 @@ public class Main2Activity extends AppCompatActivity
             // and launch the desired Url with CustomTabsIntent.launchUrl()
             customTabsIntent.launchUrl(this, Uri.parse(url));
 
-        } else if (id == R.id.nav_search) {
-
-        // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
-            String url = "http://www.evrim.k12.tr/tr/?s=";
-            CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
-            // set toolbar color and/or setting custom actions before invoking build()
-            // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
-            CustomTabsIntent customTabsIntent = builder.build();
-            // and launch the desired Url with CustomTabsIntent.launchUrl()
-
-            builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.search, null));
-            builder.enableUrlBarHiding();
-            customTabsIntent.launchUrl(this, Uri.parse(url));
-
-        } else if (id == R.id.nav_localization) {
+        }  else if (id == R.id.nav_localization) {
 
             CharSequence colors[] = new CharSequence[] {"Türkçe", "Italiano"+" "+"(İtalyanca)", "English"+" "+"(İngilizce)"};
 
