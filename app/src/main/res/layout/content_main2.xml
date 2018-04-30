@@ -15,156 +15,90 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:gravity="center">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/ic_explore_black_24dp"
+            android:text="@string/tarihcemiz"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/aylik_yemek"
+            android:drawableTop="@drawable/ic_restaurant_black_24dp"/>
 
-
+    </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="5dp"
-            android:layout_weight="1"
-            android:orientation="horizontal">
-
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/tarihcemiz_mainbutton"
-                android:text="@string/tarihcemiz"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenTarihcemiz" />
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="5dp"
-            android:layout_weight="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginRight="5dp"
                 android:layout_weight="1"
-                android:background="@drawable/food_mainbutton"
-                android:text="@string/aylik_yemek"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenAylikYemek"/>
+                android:drawableTop="@drawable/ic_explore_black_24dp"
+                android:text="@string/veli_gorusme"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@drawable/parent_mainbutton"
-                android:text="@string/veli_gorusme"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenVeliGorusme"/>
-
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="5dp"
-            android:layout_weight="1"
-            android:orientation="horizontal">
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginRight="5dp"
-                android:layout_weight="1"
-                android:background="@drawable/basari_mainbutton"
                 android:text="@string/basarilarimiz"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:onClick="OpenBasarilarimiz"
-                android:textStyle="bold" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/mezun_mainbutton"
-                android:text="@string/mezunlarimiz"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenMezunlarimiz" />
-
+                android:drawableTop="@drawable/ic_trophy"/>
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="5dp"
-            android:layout_weight="1"
-            android:orientation="horizontal">
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginRight="5dp"
-                android:layout_weight="1"
-                android:background="@drawable/gorusler_mainbutton"
-                android:text="@string/gorusler"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenGorusler"/>
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/social_mainbutton"
-                android:text="@string/sosyal_evrim"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenSosyal"/>
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@drawable/blog_mainbutton"
-                android:text="@string/blog"
-                android:textColor="@color/White"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:onClick="OpenDuyurular"/>
+                android:drawableTop="@drawable/ic_school_black_24dp"
+                android:text="@string/mezunlarimiz" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/ic_chat_bubble_black_24dp"
+                android:text="@string/gorusler"/>
 
+        </LinearLayout>
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/earth"
+                android:text="@string/sosyal_evrim"/>
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/ic_announcement_black_24dp"
+                android:text="@string/blog"/>
 
         </LinearLayout>
 
