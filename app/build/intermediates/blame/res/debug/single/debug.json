@@ -96,6 +96,10 @@
         "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/layout/activity_kutuphane.xml"
     },
     {
+        "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable_ic_announcement_blue_24dp.xml.flat",
+        "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/drawable/ic_announcement_blue_24dp.xml"
+    },
+    {
         "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/653d913ae082a5cc40e43849516c1fb5/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -688,6 +692,10 @@
         "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/layout/activity_kadromuz.xml"
     },
     {
+        "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable_e02.png.flat",
+        "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/drawable/e02.png"
+    },
+    {
         "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
         "source": "/Users/ardacebi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/653d913ae082a5cc40e43849516c1fb5/res/drawable/abc_ic_search_api_material.xml"
     },
@@ -842,6 +850,10 @@
     {
         "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/layout_content_duyuru.xml.flat",
         "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/layout/content_duyuru.xml"
+    },
+    {
+        "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable_ic_lightbulb_outline_black_24dp.xml.flat",
+        "source": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/src/main/res/drawable/ic_lightbulb_outline_black_24dp.xml"
     },
     {
         "merged": "/Users/ardacebi/Documents/GitHub/EvrimNews/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",

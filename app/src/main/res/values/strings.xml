@@ -310,5 +310,10 @@
     <string name="title_activity_spor">Eğitim ve Spor Alanları</string>
     <string name="title_activity_kampus">Kampüs Birimleri</string>
 
+    <string name="action_dismiss">Yoksay</string>
+    <string name="action_learnmore">Daha fazla bilgi</string>
+    <string name="welcometext">Hoşgeldiniz</string>
+    <string name="card_content">Özel Evrim Okulları Android uygulamasına hoşgeldiniz. Aşağıdaki sayfalardan okulumuz hakkında bilgi edinebilirsiniz.</string>
+
 
 </resources>
