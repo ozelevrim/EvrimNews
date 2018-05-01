@@ -84,9 +84,6 @@
         -->
 
         <activity
-            android:name="tr.k12.evrim.evrimnews.SettingsActivity"
-            android:label="@string/title_activity_settings" />
-        <activity
             android:name="tr.k12.evrim.evrimnews.AboutActivity"
             android:label="@string/title_activity_about"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -197,8 +194,10 @@
         <activity
             android:name="tr.k12.evrim.evrimnews.CategoriesActivity"
             android:label="@string/title_activity_categories"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.SettingsActivity"
+            android:label="@string/title_activity_settings" />
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"

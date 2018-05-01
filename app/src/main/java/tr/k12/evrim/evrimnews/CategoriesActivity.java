@@ -62,12 +62,21 @@ public class CategoriesActivity extends AppCompatActivity {
         mViewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
         tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
 
+        android.support.v7.app.ActionBar ab = getSupportActionBar();
+        ab.setTitle(R.string.title_activity_categories);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             Window window = getWindow();
             window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
             window.setStatusBarColor(getResources().getColor(R.color.colorPrimaryDark));
+
+
         }
+
+
 
     }
 
@@ -87,12 +96,18 @@ public class CategoriesActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
         }
+
+
 
         return super.onOptionsItemSelected(item);
     }
+
 
     /**
      * A placeholder fragment containing a simple view.
@@ -123,8 +138,6 @@ public class CategoriesActivity extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_categories, container, false);
-            TextView textView = rootView.findViewById(R.id.section_label);
-            textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
             return rootView;
         }
     }
@@ -146,12 +159,16 @@ public class CategoriesActivity extends AppCompatActivity {
             switch (position) {
                 case 0:
                     fragment = new category_frag1();
+                    break;
                 case 1:
                     fragment = new category_frag2();
+                    break;
                 case 2:
                     fragment = new category_frag3();
+                    break;
                 case 3:
                     fragment = new category_frag4();
+                    break;
                 case 4:
                     fragment = new category_frag5();
             }

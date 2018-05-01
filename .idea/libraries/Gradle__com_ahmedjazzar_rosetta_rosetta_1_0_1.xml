@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.ahmedjazzar.rosetta:rosetta-1.0.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/7a19099a7345164983d66066a2a90887/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/7a19099a7345164983d66066a2a90887/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/7c4716cb577497cad4ad949628b6f364/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rosetta-1.0.1.aar/7c4716cb577497cad4ad949628b6f364/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

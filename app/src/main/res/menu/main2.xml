@@ -14,5 +14,17 @@
         android:id="@+id/dark_mode"
         android:checkable="true" />
 
+    <item
+        android:id="@+id/settings_button_top"
+        android:title="@string/settings" />
+
+    <item
+        android:title="@string/feedback"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about_button_top"
+        android:title="@string/about" />
+
 
 </menu>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.armcha:PlayTabLayout-1.2.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PlayTabLayout-1.2.4.aar/fc1f1fe783714460f5269adc1ceff2e7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PlayTabLayout-1.2.4.aar/fc1f1fe783714460f5269adc1ceff2e7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/PlayTabLayout/1.2.4/91d3ebec1d48b8fa92410e3c8c35dd37b42ed8c2/PlayTabLayout-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

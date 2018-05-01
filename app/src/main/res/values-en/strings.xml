@@ -33,10 +33,7 @@
     <string name="skip">SKIP</string>
     <string name="start">UNDERSTOOD</string>
 
-    <string name="localization">App Language</string>
-
     <string name="dark_mode">Dark Mode</string>
-    <string name="open_source_licenses">Open Source Licenses</string>
 
     <string name="tarihcemiz">Our History</string>
     <string name="aylik_yemek">Monthly Food Menus</string>
@@ -77,23 +74,11 @@
 
     <string name="ozelevrim">Private Evrim Schools</string>
 
-    <string name="help">Help</string>
     <string name="settings">Settings</string>
     <string name="about">About the App</string>
 
     <string name="twiceexit">Please press back twice to exit.</string>
 
-    <string name="copyrighttext">Private Evrim Schools (Özel Evrim Okulları), All Rights Reserved © 2018</string>
-
-    <string name="developertext">This app has been developed by Arda Çebi.</string>
-
-
-    <string name="turkishlanguage">Turkish</string>
-    <string name="italianlanguage">Italian</string>
-    <string name="englishlanguage">English</string>
-
-    <string name="languagedialogtitle">Choose a Language</string>
-    <string name="languagedialogsubtitle"> </string>
 
     <string name="mobileapp">Mobile App</string>
     <string name="title_activity_about">About</string>

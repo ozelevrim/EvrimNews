@@ -59,6 +59,7 @@ dependencies {
     implementation 'com.truizlop.fabreveallayout:library:1.0.0'
     implementation 'com.github.tarek360.RichPath:animator:0.1.0'
     implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.github.armcha:PlayTabLayout:1.2.4'
 }
 
 

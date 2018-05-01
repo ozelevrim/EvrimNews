@@ -4,6 +4,12 @@
     tools:showIn="navigation_view">
 
 
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_black_24dp" />
+    </group>
 
     <item android:title="@string/okulumuzu_taniyin">
         <menu>
@@ -181,16 +187,6 @@
         </menu>
     </item>
 
-    <group android:id="@+id/grouplatest">
-
-        <item
-            android:id="@+id/nav_settings"
-            android:title="@string/settings" />
-
-        <item
-            android:id="@+id/nav_about"
-            android:title="@string/about" />
-    </group>
 
 
 

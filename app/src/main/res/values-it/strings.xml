@@ -18,7 +18,6 @@
     <string name="ogretmenButton">Insegnante</string>
 
     <string name="dark_mode">Modalità Oscura</string>
-    <string name="open_source_licenses">Licenze Open Source</string>
 
     <string name="tarihcemiz">La Nostra Storia</string>
     <string name="aylik_yemek">Menu Mensili</string>
@@ -50,8 +49,6 @@
     <string name="skip">SALTA</string>
     <string name="start">CAPITO</string>
 
-    <string name="localization">Lingua App</string>
-
     <string name="kadromuz">Il Nostro Staff</string>
     <string name="ortaklarimiz">I Nostri Partner</string>
     <string name="kurucu_temsilcisi">Rappresentante Fondatore</string>
@@ -80,23 +77,11 @@
 
     <string name="ozelevrim">Scuole Privata Evrim</string>
 
-    <string name="help">Aiuta</string>
     <string name="settings">Impostazioni</string>
     <string name="about">Informazioni su app</string>
 
     <string name="twiceexit">Premi due volte per uscire.</string>
 
-    <string name="copyrighttext">Scuole Privata Evrim (Özel Evrim Okulları), Tutti i diritti riservati © 2018</string>
-
-    <string name="developertext">Questa app è stata sviluppata da Arda Çebi.</string>
-
-
-    <string name="turkishlanguage">Turco</string>
-    <string name="italianlanguage">Italiano</string>
-    <string name="englishlanguage">Inglese</string>
-
-    <string name="languagedialogtitle">Scegli una Lingua</string>
-    <string name="languagedialogsubtitle">Choose a Language</string>
 
     <string name="mobileapp">App Mobile</string>
 

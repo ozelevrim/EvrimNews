@@ -41,20 +41,6 @@ public class Main2Activity extends AppCompatActivity
 
 
 
-    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
-    public static void setStatusBarGradiant(Activity activity) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            Window window = activity.getWindow();
-            Drawable background = activity.getResources().getDrawable(R.drawable.side_nav_bar);
-            window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
-            window.setStatusBarColor(activity.getResources().getColor(R.color.transparent));
-            window.setNavigationBarColor(activity.getResources().getColor(R.color.transparent));
-            window.setBackgroundDrawable(background);
-        }
-    }
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -78,25 +64,25 @@ public class Main2Activity extends AppCompatActivity
         ab.setTitle(R.string.ozelevrim);
         ab.setSubtitle(R.string.mobileapp);
 
-        android.support.v7.app.ActionBar actionbar = getSupportActionBar();
-        actionbar.setBackgroundDrawable(getResources().getDrawable(R.drawable.side_nav_bar));
+        navigationView.setCheckedItem(R.id.nav_home);
 
-        getWindow().setStatusBarColor(Color.parseColor("#50111111"));
+
+
+
 
         // This is the locale that you wanna your app to launch with.
         Locale firstLaunchLocale = new Locale("tr");
 
 // You can use a HashSet<String> instead and call 'setSupportedStringLocales()' :)
         HashSet<Locale> supportedLocales = new HashSet<>();
-        supportedLocales.add(Locale.US);
-        supportedLocales.add(Locale.ITALY);
+        supportedLocales.add(Locale.ENGLISH);
+        supportedLocales.add(Locale.ITALIAN);
         supportedLocales.add(firstLaunchLocale);
 
 // You can make the following object static so you can use the same reference in all app's
 // classes. static is much stable.
         LanguageSwitcher ls = new LanguageSwitcher(this, firstLaunchLocale);
         ls.setSupportedLocales(supportedLocales);
-
 
 
 
@@ -109,28 +95,28 @@ public class Main2Activity extends AppCompatActivity
 
     public void OkulumuzuTaniyinCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), category_frag2.class);
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
         startActivity(intent);
 
     }
 
     public void SosyalCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), category_frag3.class);
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
         startActivity(intent);
 
     }
 
     public void AkademikEgitimCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), category_frag4.class);
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
         startActivity(intent);
 
     }
 
     public void KampusteHayatCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), category_frag5.class);
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
         startActivity(intent);
 
     }
@@ -341,6 +327,20 @@ public class Main2Activity extends AppCompatActivity
 
 
             return true;
+        }
+
+       if (id == R.id.settings_button_top) {
+
+            Intent intent = new Intent(getApplicationContext(), SettingsActivity.class);
+            startActivity(intent);
+       }
+
+        if (id == R.id.about_button_top) {
+
+            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
+            startActivity(intent);
+
+
         }
 
 
@@ -699,19 +699,14 @@ public class Main2Activity extends AppCompatActivity
             builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
             builder.enableUrlBarHiding();
             customTabsIntent.launchUrl(this, Uri.parse(url));
-        } else if (id == R.id.nav_settings) {
+        }  else if (id == R.id.nav_home) {
 
-            Intent intent = new Intent(getApplicationContext(), SettingsActivity.class);
+            Intent intent = new Intent(getApplicationContext(), Main2Activity.class);
             startActivity(intent);
+        }
 
 
-        } else if (id == R.id.nav_about) {
-
-            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
-            startActivity(intent);
-
-
-        } else if (id == R.id.nav_kampus_birimleri) {
+        else if (id == R.id.nav_kampus_birimleri) {
 
             // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
             String url = "http://www.evrim.k12.tr/tr/kampuste-hayat/kampus-birimleri/";

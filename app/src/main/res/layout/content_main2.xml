@@ -24,7 +24,7 @@
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="16dp">
+                android:layout_margin="15dp">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -60,7 +60,8 @@
 
                     <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp">
 
                         <Button
                             android:layout_width="wrap_content"
@@ -271,44 +272,8 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="15dp"
-                android:layout_marginBottom="10dp">
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:gravity="center">
-
-
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:src="@drawable/ic_lightbulb_outline_black_24dp" />
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="@string/okulumuzu_taniyin"
-                        android:textSize="18sp"
-                        android:textAlignment="center"/>
-
-                </LinearLayout>
-
-
-            </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="100dp"
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
                 android:layout_marginBottom="10dp"
-                android:foreground="?android:attr/selectableItemBackground"
-                android:clickable="true"
-                >
+                android:onClick="ContactCard">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -321,12 +286,12 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/ic_lightbulb_outline_black_24dp" />
+                        android:src="@drawable/ic_phone_black_24dp" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/okulumuzu_taniyin"
+                        android:text="@string/iletisim"
                         android:textSize="18sp"
                         android:textAlignment="center"/>
 
@@ -334,96 +299,13 @@
 
 
             </android.support.v7.widget.CardView>
+
 
 
 
 
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="10dp">
-
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="100dp"
-                android:layout_weight="1"
-                android:foreground="?android:attr/selectableItemBackground"
-                android:clickable="true"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:layout_marginBottom="10dp"
-                >
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:gravity="center">
-
-
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:src="@drawable/ic_lightbulb_outline_black_24dp" />
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="@string/okulumuzu_taniyin"
-                        android:textSize="18sp"
-                        android:textAlignment="center"/>
-
-                </LinearLayout>
-
-
-            </android.support.v7.widget.CardView>
-
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="100dp"
-                android:layout_weight="1"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:layout_marginBottom="10dp"
-                android:foreground="?android:attr/selectableItemBackground"
-                android:clickable="true"
-                >
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical"
-                    android:gravity="center">
-
-
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:src="@drawable/ic_lightbulb_outline_black_24dp" />
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="@string/okulumuzu_taniyin"
-                        android:textSize="18sp"
-                        android:textAlignment="center"/>
-
-                </LinearLayout>
-
-
-            </android.support.v7.widget.CardView>
-
-
-
-
-        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -473,4 +355,7 @@
 
     </LinearLayout>
 
+
+
 </ScrollView>
+
