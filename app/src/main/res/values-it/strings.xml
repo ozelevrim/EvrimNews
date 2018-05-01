@@ -100,4 +100,6 @@
 
     <string name="mobileapp">App Mobile</string>
 
+    <string name="title_activity_categories">Categorie</string>
+
 </resources>

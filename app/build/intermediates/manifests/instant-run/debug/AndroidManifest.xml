@@ -194,6 +194,11 @@
             android:name="tr.k12.evrim.evrimnews.KampusActivity"
             android:label="@string/title_activity_kampus"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.k12.evrim.evrimnews.CategoriesActivity"
+            android:label="@string/title_activity_categories"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
