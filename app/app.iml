@@ -145,7 +145,6 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-connection-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:customtabs-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.1.0@jar" level="project" />
-    <orderEntry type="library" name="Gradle: org.rm3l:maoni-common:3.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-base-15.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-core-2.2.2" level="project" />
@@ -161,7 +160,6 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.core:runtime-1.1.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.rm3l:maoni-email:3.0.0-1@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:runner-0.5" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:design-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-27.1.1" level="project" />
@@ -183,14 +181,12 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-compat-27.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: javax.annotation:javax.annotation-api:1.2@jar" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:viewmodel-1.1.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.rm3l:maoni:6.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics-impl-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.asyl.animation:arcanimator-1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.gordonwong:material-sheet-fab-1.2.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils-27.1.1" level="project" />
-    <orderEntry type="library" name="Gradle: org.rm3l.maoni:maoni-common:6.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier-15.0.0" level="project" />
@@ -205,11 +201,9 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-core-15.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3@jar" level="project" />
-    <orderEntry type="library" name="Gradle: org.rm3l.maoni:maoni-6.0.0" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.core:common:1.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.tarek360.RichPath:richpath-0.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ads-15.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-flags-15.0.0" level="project" />
-    <orderEntry type="library" name="Gradle: me.panavtec:drawableview-0.6.0" level="project" />
   </component>
 </module>
