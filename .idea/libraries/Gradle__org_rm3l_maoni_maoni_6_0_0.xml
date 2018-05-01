@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rm3l.maoni:maoni-6.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/maoni-6.0.0.aar/3ff44921651f5f545d425a9d2ccaf415/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/maoni-6.0.0.aar/3ff44921651f5f545d425a9d2ccaf415/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rm3l.maoni/maoni/6.0.0/b8a9c04a30aa4a43b6cd682182e11a6039e14d8b/maoni-6.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

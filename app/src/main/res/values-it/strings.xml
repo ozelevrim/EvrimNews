@@ -74,7 +74,7 @@
     <string name="kampus_birimleri">Unità Campus</string>
 
     <string name="okulumuzu_taniyin">La Nostra Scuola</string>
-    <string name="evrim_guncel">Aggiornamenti di Evrim</string>
+    <string name="evrim_guncel">Aggiornamenti</string>
     <string name="kampuste_hayat">Vita nella Scuola</string>
     <string name="akademik_egitim">Insegnamento Academico</string>
 
@@ -99,5 +99,7 @@
     <string name="languagedialogsubtitle">Choose a Language</string>
 
     <string name="mobileapp">App Mobile</string>
+
+    <string name="title_activity_categories">Categorie</string>
 
 </resources>

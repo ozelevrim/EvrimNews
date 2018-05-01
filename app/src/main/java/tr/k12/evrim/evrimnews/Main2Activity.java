@@ -15,6 +15,7 @@ import android.os.Handler;
 import android.support.customtabs.CustomTabsIntent;
 import android.support.design.widget.Snackbar;
 import android.support.v4.content.res.ResourcesCompat;
+import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -27,7 +28,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 import java.util.Locale;
 import android.os.Bundle;
@@ -43,10 +47,13 @@ import java.util.HashSet;
 import java.util.Locale;
 
 import es.dmoral.toasty.Toasty;
+import uk.co.samuelwall.materialtaptargetprompt.MaterialTapTargetPrompt;
 
 
 public class Main2Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private PrefManager prefManager;
 
 
 
@@ -109,8 +116,49 @@ public class Main2Activity extends AppCompatActivity
         ls.setSupportedLocales(supportedLocales);
 
 
+
+
+
     }
 
+
+
+
+
+    public void OkulumuzuTaniyinCard(View v) {
+
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        startActivity(intent);
+
+    }
+
+    public void SosyalCard(View v) {
+
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        startActivity(intent);
+
+    }
+
+    public void AkademikEgitimCard(View v) {
+
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        startActivity(intent);
+
+    }
+
+    public void KampusteHayatCard(View v) {
+
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        startActivity(intent);
+
+    }
+
+    public void ShowAllCard(View v) {
+
+        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        startActivity(intent);
+
+    }
 
 
 
@@ -235,7 +283,7 @@ public class Main2Activity extends AppCompatActivity
         }
 
         this.doubleBackToExitPressedOnce = true;
-        Toast.makeText(this, (R.string.twiceexit), Toast.LENGTH_SHORT).show();
+        Toasty.info(getApplicationContext(), getApplicationContext().getString(R.string.twiceexit), Toast.LENGTH_SHORT, true).show();
 
         new Handler().postDelayed(new Runnable() {
 
@@ -272,6 +320,28 @@ public class Main2Activity extends AppCompatActivity
         //noinspection SimplifiableIfStatement
 
 
+        if (id == R.id.dark_mode) {
+
+            switch (item.getItemId()) {
+                case R.id.dark_mode:
+                    if (item.isChecked()) {
+// If item already checked then unchecked it
+                        item.setChecked(false);
+                    } else {
+// If item is unchecked then checked it
+                        item.setChecked(true);
+                        setTheme(android.R.style.Theme_Material);
+                        Intent intent = getIntent();
+                        finish();
+                        startActivity(intent);
+                    }
+                default:
+                    return super.onOptionsItemSelected(item);
+            }
+        }
+
+
+
 
 
         if (id == R.id.search_button_top) {
@@ -292,23 +362,7 @@ public class Main2Activity extends AppCompatActivity
             return true;
         }
 
-        if (id == R.id.settings_button_top) {
 
-            Intent intent = new Intent(getApplicationContext(), SettingsActivity.class);
-            startActivity(intent);
-
-            return true;
-
-        }
-
-        if (id == R.id.about_button_top) {
-
-            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
-            startActivity(intent);
-
-
-            return true;
-        }
 
 
 
@@ -665,6 +719,18 @@ public class Main2Activity extends AppCompatActivity
             builder.setToolbarColor(ResourcesCompat.getColor(getResources(), R.color.kampuste_hayat, null));
             builder.enableUrlBarHiding();
             customTabsIntent.launchUrl(this, Uri.parse(url));
+        } else if (id == R.id.nav_settings) {
+
+            Intent intent = new Intent(getApplicationContext(), SettingsActivity.class);
+            startActivity(intent);
+
+
+        } else if (id == R.id.nav_about) {
+
+            Intent intent = new Intent(getApplicationContext(), AboutActivity.class);
+            startActivity(intent);
+
+
         } else if (id == R.id.nav_kampus_birimleri) {
 
             // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
