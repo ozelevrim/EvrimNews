@@ -1,10 +1,7 @@
 package tr.k12.evrim.evrimnews;
 
 import android.annotation.TargetApi;
-import android.app.ActionBar;
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
@@ -13,11 +10,8 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.customtabs.CustomTabsIntent;
-import android.support.design.widget.Snackbar;
-import android.support.v4.content.res.ResourcesCompat;
-import android.support.v4.view.ViewPager;
-import android.view.View;
 import android.support.design.widget.NavigationView;
+import android.support.v4.content.res.ResourcesCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -28,18 +22,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.Button;
-import android.widget.LinearLayout;
-import android.widget.ListView;
-import android.widget.TextView;
 import android.widget.Toast;
-import java.util.Locale;
-import android.os.Bundle;
-import android.app.Activity;
-import android.content.Intent;
-import android.content.res.Configuration;
-import android.content.res.Resources;
-import android.util.DisplayMetrics;
 
 import com.ahmedjazzar.rosetta.LanguageSwitcher;
 
@@ -47,7 +30,6 @@ import java.util.HashSet;
 import java.util.Locale;
 
 import es.dmoral.toasty.Toasty;
-import uk.co.samuelwall.materialtaptargetprompt.MaterialTapTargetPrompt;
 
 
 public class Main2Activity extends AppCompatActivity
@@ -80,16 +62,16 @@ public class Main2Activity extends AppCompatActivity
 
 
         setContentView(R.layout.activity_main2);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
         toggle.syncState();
 
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
         android.support.v7.app.ActionBar ab = getSupportActionBar();
@@ -127,28 +109,28 @@ public class Main2Activity extends AppCompatActivity
 
     public void OkulumuzuTaniyinCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        Intent intent = new Intent(getApplicationContext(), category_frag2.class);
         startActivity(intent);
 
     }
 
     public void SosyalCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        Intent intent = new Intent(getApplicationContext(), category_frag3.class);
         startActivity(intent);
 
     }
 
     public void AkademikEgitimCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        Intent intent = new Intent(getApplicationContext(), category_frag4.class);
         startActivity(intent);
 
     }
 
     public void KampusteHayatCard(View v) {
 
-        Intent intent = new Intent(getApplicationContext(), CategoriesActivity.class);
+        Intent intent = new Intent(getApplicationContext(), category_frag5.class);
         startActivity(intent);
 
     }
@@ -193,7 +175,6 @@ public class Main2Activity extends AppCompatActivity
         builder.enableUrlBarHiding();
         // and launch the desired Url with CustomTabsIntent.launchUrl()
         customTabsIntent.launchUrl(this, Uri.parse(url));
-        ;
     }
 
     public void OpenVeliGorusme(View v) {
@@ -271,7 +252,7 @@ public class Main2Activity extends AppCompatActivity
 
     @Override
     public void onBackPressed() {
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
@@ -476,7 +457,6 @@ public class Main2Activity extends AppCompatActivity
             builder.enableUrlBarHiding();
             // and launch the desired Url with CustomTabsIntent.launchUrl()
             customTabsIntent.launchUrl(this, Uri.parse(url));
-            ;
 
 
         } else if (id == R.id.nav_veligorusme) {
@@ -747,13 +727,7 @@ public class Main2Activity extends AppCompatActivity
             customTabsIntent.launchUrl(this, Uri.parse(url));
 
 
-
-
-
-
-
-
-            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+            DrawerLayout drawer = findViewById(R.id.drawer_layout);
             drawer.closeDrawer(GravityCompat.START);
             return true;
 

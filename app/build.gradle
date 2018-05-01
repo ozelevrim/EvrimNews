@@ -58,7 +58,7 @@ dependencies {
     implementation 'uk.co.samuelwall:material-tap-target-prompt:2.7.0'
     implementation 'com.truizlop.fabreveallayout:library:1.0.0'
     implementation 'com.github.tarek360.RichPath:animator:0.1.0'
-    implementation 'org.rm3l:maoni:6.0.0'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
 }
 
 
